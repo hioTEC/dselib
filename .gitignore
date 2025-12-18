@@ -68,3 +68,7 @@ papers/**/*.pdf
 
 # Keep a sample PDF structure without the actual files
 !papers/**/.gitkeep
+
+# Cline配置（包含敏感信息）
+.cline/config.json
+.cline/*.local.json
