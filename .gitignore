@@ -61,3 +61,10 @@ admin/scraper.log
 
 # Deployment
 .wrangler/
+
+# PDF files (exclude from Git to keep repository lightweight)
+papers/**/*.pdf
+*.pdf
+
+# Keep a sample PDF structure without the actual files
+!papers/**/.gitkeep
