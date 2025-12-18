@@ -659,8 +659,15 @@
                     this.mobileMenuOpen = false;
                 },
                 getMeta(name) {
+                    // 精确匹配优先，避免误匹配
+                    if (SUBJECT_META[name]) {
+                        return SUBJECT_META[name];
+                    }
+                    
+                    // 部分匹配，但需要更精确的条件
                     for (const key in SUBJECT_META) {
-                        if (name === key || name.includes(key)) {
+                        if (name === key ||
+                            (name.includes(key) && (key.length >= name.length * 0.6 || name.includes(key + ' ') || name.includes(' ' + key)))) {
                             return SUBJECT_META[key];
                         }
                     }
@@ -736,6 +743,10 @@
                 },
                 resolveFilePath(p) {
                     if (!p) return '#';
+                    // 转换public/downloads路径为根目录papers路径
+                    if (p.startsWith('public/downloads/')) {
+                        return '/' + p.replace('public/downloads/', 'papers/');
+                    }
                     return p.startsWith('/') ? p : '/' + p;
                 },
                 fileWeight(file) {
