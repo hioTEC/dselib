@@ -1,5 +1,17 @@
 # 🚀 快速部署到 Cloudflare Pages
 
+## 第一步: 登录 Cloudflare（只需一次）
+
+```bash
+# 运行登录脚本
+./cloudflare-login.sh
+
+# 或者手动登录
+npx wrangler login
+```
+
+浏览器会自动打开，按提示登录即可。
+
 ## 方法1: 网页上传（推荐，5分钟完成）
 
 1. **打开 Cloudflare Dashboard**
@@ -40,7 +52,10 @@
 ## 方法3: 使用部署脚本
 
 ```bash
-# 使用提供的脚本（自动使用 npx）
+# 1. 先登录（只需一次）
+./cloudflare-login.sh
+
+# 2. 部署
 ./deploy-cloudflare-simple.sh
 
 # 或者手动使用 npx
