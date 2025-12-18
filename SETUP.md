@@ -93,15 +93,21 @@ wrangler pages deploy frontend --project-name=dselib
 
 ### GitHub Pages
 
-**方法1: 使用 Python 部署脚本**
+**方法1: 使用部署脚本 (推荐)**
 ```bash
 # 自动部署到 gh-pages 分支
-python3 deploy-github-pages.py
+./deploy-github-pages.sh
 
 # 然后在 GitHub 仓库设置中：
 # 1. 进入 Settings > Pages
 # 2. 选择 gh-pages 分支作为源
 # 3. 保存并等待部署
+```
+
+**方法2: 使用 Python 脚本**
+```bash
+# 如果系统有 Python3
+python3 deploy-github-pages.py
 ```
 
 **方法2: 手动部署**
