@@ -72,3 +72,6 @@ papers/**/*.pdf
 # Cline配置（包含敏感信息）
 .cline/config.json
 .cline/*.local.json
+.r2-config
+.aws
+frontend/public/data.backup
