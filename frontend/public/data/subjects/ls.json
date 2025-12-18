@@ -1,0 +1,1210 @@
+{
+  "key": "ls",
+  "name": "Liberal Studies",
+  "name_zh": "通識教育",
+  "category": "Core",
+  "icon": "fa-newspaper",
+  "color": "teal",
+  "exams": {
+    "dse": {
+      "name": "HKDSE",
+      "full_name": "香港中學文憑考試",
+      "years": {
+        "2012": {
+          "display": "2012",
+          "languages": {
+            "chi": {
+              "name": "Chinese",
+              "files": [
+                {
+                  "name": "ans.pdf",
+                  "path": "public/downloads/ls/dse/chi/2012/ans.pdf",
+                  "size": 4573552,
+                  "type": "marking",
+                  "type_name": "Marking Scheme",
+                  "paper_num": null,
+                  "md5": "6d71d3bb4170476d47977156cd6183b0"
+                },
+                {
+                  "name": "p1.pdf",
+                  "path": "public/downloads/ls/dse/chi/2012/p1.pdf",
+                  "size": 3109076,
+                  "type": "paper",
+                  "type_name": "Paper 1",
+                  "paper_num": 1,
+                  "md5": "4435aa77f103d762c89ebcfe17a9c37c"
+                },
+                {
+                  "name": "p2.pdf",
+                  "path": "public/downloads/ls/dse/chi/2012/p2.pdf",
+                  "size": 1075059,
+                  "type": "paper",
+                  "type_name": "Paper 2",
+                  "paper_num": 2,
+                  "md5": "bf3217a1761e83a635706fd8055381fd"
+                },
+                {
+                  "name": "per.pdf",
+                  "path": "public/downloads/ls/dse/chi/2012/per.pdf",
+                  "size": 1421946,
+                  "type": "report",
+                  "type_name": "Exam Report",
+                  "paper_num": null,
+                  "md5": "7ec219be902f947df4a0f8caf8d1958e"
+                }
+              ]
+            },
+            "eng": {
+              "name": "English",
+              "files": [
+                {
+                  "name": "ans.pdf",
+                  "path": "public/downloads/ls/dse/eng/2012/ans.pdf",
+                  "size": 1730918,
+                  "type": "marking",
+                  "type_name": "Marking Scheme",
+                  "paper_num": null,
+                  "md5": "08a3422a3ef4bc807df3efb03ac8db45"
+                },
+                {
+                  "name": "p1.pdf",
+                  "path": "public/downloads/ls/dse/eng/2012/p1.pdf",
+                  "size": 6395803,
+                  "type": "paper",
+                  "type_name": "Paper 1",
+                  "paper_num": 1,
+                  "md5": "cde90cb6f7f58f4c2e28204c26f12c11"
+                },
+                {
+                  "name": "p2.pdf",
+                  "path": "public/downloads/ls/dse/eng/2012/p2.pdf",
+                  "size": 18733317,
+                  "type": "paper",
+                  "type_name": "Paper 2",
+                  "paper_num": 2,
+                  "md5": "b023e1759c7ebd4088caa74bf3fed244"
+                },
+                {
+                  "name": "per.pdf",
+                  "path": "public/downloads/ls/dse/eng/2012/per.pdf",
+                  "size": 418754,
+                  "type": "report",
+                  "type_name": "Exam Report",
+                  "paper_num": null,
+                  "md5": "d459c7770875bcab8623813daf84cba7"
+                }
+              ]
+            }
+          }
+        },
+        "2013": {
+          "display": "2013",
+          "languages": {
+            "chi": {
+              "name": "Chinese",
+              "files": [
+                {
+                  "name": "ans.pdf",
+                  "path": "public/downloads/ls/dse/chi/2013/ans.pdf",
+                  "size": 13378334,
+                  "type": "marking",
+                  "type_name": "Marking Scheme",
+                  "paper_num": null,
+                  "md5": "4d521be6e9b62cd2c87f1fd2e45a03da"
+                },
+                {
+                  "name": "p1.pdf",
+                  "path": "public/downloads/ls/dse/chi/2013/p1.pdf",
+                  "size": 1735723,
+                  "type": "paper",
+                  "type_name": "Paper 1",
+                  "paper_num": 1,
+                  "md5": "933edcec0ac48cc6f65da041eb36af46"
+                },
+                {
+                  "name": "p2.pdf",
+                  "path": "public/downloads/ls/dse/chi/2013/p2.pdf",
+                  "size": 1453514,
+                  "type": "paper",
+                  "type_name": "Paper 2",
+                  "paper_num": 2,
+                  "md5": "8ff599ed5fafe02376ae8c3f2dff14ef"
+                },
+                {
+                  "name": "per.pdf",
+                  "path": "public/downloads/ls/dse/chi/2013/per.pdf",
+                  "size": 4192627,
+                  "type": "report",
+                  "type_name": "Exam Report",
+                  "paper_num": null,
+                  "md5": "28302e1e1a93875442d0ec7e385b1cae"
+                }
+              ]
+            },
+            "eng": {
+              "name": "English",
+              "files": [
+                {
+                  "name": "ans.pdf",
+                  "path": "public/downloads/ls/dse/eng/2013/ans.pdf",
+                  "size": 2026185,
+                  "type": "marking",
+                  "type_name": "Marking Scheme",
+                  "paper_num": null,
+                  "md5": "b6c89883360a4c2bd863c1742ec9ae9f"
+                },
+                {
+                  "name": "p1.pdf",
+                  "path": "public/downloads/ls/dse/eng/2013/p1.pdf",
+                  "size": 1917801,
+                  "type": "paper",
+                  "type_name": "Paper 1",
+                  "paper_num": 1,
+                  "md5": "6e637765d70c18e4c9838487e7d73ad9"
+                },
+                {
+                  "name": "p2.pdf",
+                  "path": "public/downloads/ls/dse/eng/2013/p2.pdf",
+                  "size": 931155,
+                  "type": "paper",
+                  "type_name": "Paper 2",
+                  "paper_num": 2,
+                  "md5": "e5843f9516ce9dff249689949fb132cc"
+                },
+                {
+                  "name": "per.pdf",
+                  "path": "public/downloads/ls/dse/eng/2013/per.pdf",
+                  "size": 591543,
+                  "type": "report",
+                  "type_name": "Exam Report",
+                  "paper_num": null,
+                  "md5": "11b9dbeb33f17b63d0a0d2f8fa3a8a4d"
+                }
+              ]
+            }
+          }
+        },
+        "2014": {
+          "display": "2014",
+          "languages": {
+            "chi": {
+              "name": "Chinese",
+              "files": [
+                {
+                  "name": "ans.pdf",
+                  "path": "public/downloads/ls/dse/chi/2014/ans.pdf",
+                  "size": 14778003,
+                  "type": "marking",
+                  "type_name": "Marking Scheme",
+                  "paper_num": null,
+                  "md5": "da9674ffe97922bbdff36fc150e98cf0"
+                },
+                {
+                  "name": "p1.pdf",
+                  "path": "public/downloads/ls/dse/chi/2014/p1.pdf",
+                  "size": 5008158,
+                  "type": "paper",
+                  "type_name": "Paper 1",
+                  "paper_num": 1,
+                  "md5": "c7c29b2e31ccc22ae374d9f754996f4d"
+                },
+                {
+                  "name": "p2.pdf",
+                  "path": "public/downloads/ls/dse/chi/2014/p2.pdf",
+                  "size": 2721799,
+                  "type": "paper",
+                  "type_name": "Paper 2",
+                  "paper_num": 2,
+                  "md5": "44dd37a7a1c18a6234718fadc9b43d95"
+                },
+                {
+                  "name": "per.pdf",
+                  "path": "public/downloads/ls/dse/chi/2014/per.pdf",
+                  "size": 2293371,
+                  "type": "report",
+                  "type_name": "Exam Report",
+                  "paper_num": null,
+                  "md5": "852c45de4655dbc7567ad743ecb55354"
+                }
+              ]
+            },
+            "eng": {
+              "name": "English",
+              "files": [
+                {
+                  "name": "ans.pdf",
+                  "path": "public/downloads/ls/dse/eng/2014/ans.pdf",
+                  "size": 6198449,
+                  "type": "marking",
+                  "type_name": "Marking Scheme",
+                  "paper_num": null,
+                  "md5": "1a40ddf40d46373c6eeac5fcd65e2b64"
+                },
+                {
+                  "name": "p1.pdf",
+                  "path": "public/downloads/ls/dse/eng/2014/p1.pdf",
+                  "size": 4417904,
+                  "type": "paper",
+                  "type_name": "Paper 1",
+                  "paper_num": 1,
+                  "md5": "9670dd5a7cc5a982936c5cdde005adc9"
+                },
+                {
+                  "name": "p2.pdf",
+                  "path": "public/downloads/ls/dse/eng/2014/p2.pdf",
+                  "size": 13902258,
+                  "type": "paper",
+                  "type_name": "Paper 2",
+                  "paper_num": 2,
+                  "md5": "0c74e6134c6a3940566c5a853987508f"
+                },
+                {
+                  "name": "per.pdf",
+                  "path": "public/downloads/ls/dse/eng/2014/per.pdf",
+                  "size": 600125,
+                  "type": "report",
+                  "type_name": "Exam Report",
+                  "paper_num": null,
+                  "md5": "fe2e78d7ddf5e6ddd20f3ab30c0c7976"
+                }
+              ]
+            }
+          }
+        },
+        "2015": {
+          "display": "2015",
+          "languages": {
+            "chi": {
+              "name": "Chinese",
+              "files": [
+                {
+                  "name": "ans.pdf",
+                  "path": "public/downloads/ls/dse/chi/2015/ans.pdf",
+                  "size": 16004585,
+                  "type": "marking",
+                  "type_name": "Marking Scheme",
+                  "paper_num": null,
+                  "md5": "107d362f907d73d28cba40fd09b46424"
+                },
+                {
+                  "name": "p1.pdf",
+                  "path": "public/downloads/ls/dse/chi/2015/p1.pdf",
+                  "size": 654215,
+                  "type": "paper",
+                  "type_name": "Paper 1",
+                  "paper_num": 1,
+                  "md5": "2fe26e4de90cb9c93aa953b122233d5c"
+                },
+                {
+                  "name": "p2.pdf",
+                  "path": "public/downloads/ls/dse/chi/2015/p2.pdf",
+                  "size": 436844,
+                  "type": "paper",
+                  "type_name": "Paper 2",
+                  "paper_num": 2,
+                  "md5": "3a25fec856c0970d53b52d5493445be1"
+                },
+                {
+                  "name": "per.pdf",
+                  "path": "public/downloads/ls/dse/chi/2015/per.pdf",
+                  "size": 5980279,
+                  "type": "report",
+                  "type_name": "Exam Report",
+                  "paper_num": null,
+                  "md5": "133abfb487b512c47329856affe56513"
+                }
+              ]
+            },
+            "eng": {
+              "name": "English",
+              "files": [
+                {
+                  "name": "ans.pdf",
+                  "path": "public/downloads/ls/dse/eng/2015/ans.pdf",
+                  "size": 1416297,
+                  "type": "marking",
+                  "type_name": "Marking Scheme",
+                  "paper_num": null,
+                  "md5": "628807ffba7e3fa0ea79b0b026557bfe"
+                },
+                {
+                  "name": "p1.pdf",
+                  "path": "public/downloads/ls/dse/eng/2015/p1.pdf",
+                  "size": 272290,
+                  "type": "paper",
+                  "type_name": "Paper 1",
+                  "paper_num": 1,
+                  "md5": "1b8fe8078f494593016ad3a734f50ff6"
+                },
+                {
+                  "name": "p2.pdf",
+                  "path": "public/downloads/ls/dse/eng/2015/p2.pdf",
+                  "size": 739718,
+                  "type": "paper",
+                  "type_name": "Paper 2",
+                  "paper_num": 2,
+                  "md5": "b337f08679d4545dd71518d62046021f"
+                },
+                {
+                  "name": "per.pdf",
+                  "path": "public/downloads/ls/dse/eng/2015/per.pdf",
+                  "size": 2647413,
+                  "type": "report",
+                  "type_name": "Exam Report",
+                  "paper_num": null,
+                  "md5": "1823f1a785ca40daa4f753dac75c1405"
+                }
+              ]
+            }
+          }
+        },
+        "2016": {
+          "display": "2016",
+          "languages": {
+            "chi": {
+              "name": "Chinese",
+              "files": [
+                {
+                  "name": "ans.pdf",
+                  "path": "public/downloads/ls/dse/chi/2016/ans.pdf",
+                  "size": 1098681,
+                  "type": "marking",
+                  "type_name": "Marking Scheme",
+                  "paper_num": null,
+                  "md5": "9f4fbf49df7324b51b101aeaba1c80d7"
+                },
+                {
+                  "name": "p1.pdf",
+                  "path": "public/downloads/ls/dse/chi/2016/p1.pdf",
+                  "size": 596990,
+                  "type": "paper",
+                  "type_name": "Paper 1",
+                  "paper_num": 1,
+                  "md5": "80f750bf41aa108a14523b2cdb5a57e0"
+                },
+                {
+                  "name": "p2.pdf",
+                  "path": "public/downloads/ls/dse/chi/2016/p2.pdf",
+                  "size": 282198,
+                  "type": "paper",
+                  "type_name": "Paper 2",
+                  "paper_num": 2,
+                  "md5": "6ebb4ac61960779d6a32fd7813f2dc1e"
+                },
+                {
+                  "name": "per.pdf",
+                  "path": "public/downloads/ls/dse/chi/2016/per.pdf",
+                  "size": 784967,
+                  "type": "report",
+                  "type_name": "Exam Report",
+                  "paper_num": null,
+                  "md5": "7100e91974d81d97de45e6153286b432"
+                }
+              ]
+            },
+            "eng": {
+              "name": "English",
+              "files": [
+                {
+                  "name": "ans.pdf",
+                  "path": "public/downloads/ls/dse/eng/2016/ans.pdf",
+                  "size": 6931431,
+                  "type": "marking",
+                  "type_name": "Marking Scheme",
+                  "paper_num": null,
+                  "md5": "fa33859e077ee9ce8890cac62e31cfd4"
+                },
+                {
+                  "name": "p1.pdf",
+                  "path": "public/downloads/ls/dse/eng/2016/p1.pdf",
+                  "size": 4750790,
+                  "type": "paper",
+                  "type_name": "Paper 1",
+                  "paper_num": 1,
+                  "md5": "e707567cec8200a18d4df04d0d76bf98"
+                },
+                {
+                  "name": "p2.pdf",
+                  "path": "public/downloads/ls/dse/eng/2016/p2.pdf",
+                  "size": 906551,
+                  "type": "paper",
+                  "type_name": "Paper 2",
+                  "paper_num": 2,
+                  "md5": "8040917db12ac062928db56a8af4eb26"
+                },
+                {
+                  "name": "per.pdf",
+                  "path": "public/downloads/ls/dse/eng/2016/per.pdf",
+                  "size": 3858396,
+                  "type": "report",
+                  "type_name": "Exam Report",
+                  "paper_num": null,
+                  "md5": "3f52415118be7d585e7ac96631237824"
+                }
+              ]
+            }
+          }
+        },
+        "2017": {
+          "display": "2017",
+          "languages": {
+            "chi": {
+              "name": "Chinese",
+              "files": [
+                {
+                  "name": "ans.pdf",
+                  "path": "public/downloads/ls/dse/chi/2017/ans.pdf",
+                  "size": 2139186,
+                  "type": "marking",
+                  "type_name": "Marking Scheme",
+                  "paper_num": null,
+                  "md5": "d7a1b8b8be4eb710da0aa22411768d2e"
+                },
+                {
+                  "name": "p1.pdf",
+                  "path": "public/downloads/ls/dse/chi/2017/p1.pdf",
+                  "size": 1591162,
+                  "type": "paper",
+                  "type_name": "Paper 1",
+                  "paper_num": 1,
+                  "md5": "e05038e36662577348ba84d35efa8e42"
+                },
+                {
+                  "name": "p2.pdf",
+                  "path": "public/downloads/ls/dse/chi/2017/p2.pdf",
+                  "size": 1069342,
+                  "type": "paper",
+                  "type_name": "Paper 2",
+                  "paper_num": 2,
+                  "md5": "32791a4cc974a8f7ff9665c0b3cc5afb"
+                },
+                {
+                  "name": "per.pdf",
+                  "path": "public/downloads/ls/dse/chi/2017/per.pdf",
+                  "size": 2293371,
+                  "type": "report",
+                  "type_name": "Exam Report",
+                  "paper_num": null,
+                  "md5": "62a6971ae2827d7adfa457d67e4f9023"
+                }
+              ]
+            },
+            "eng": {
+              "name": "English",
+              "files": [
+                {
+                  "name": "ans.pdf",
+                  "path": "public/downloads/ls/dse/eng/2017/ans.pdf",
+                  "size": 4665451,
+                  "type": "marking",
+                  "type_name": "Marking Scheme",
+                  "paper_num": null,
+                  "md5": "5ec01303e3448bff34aaa09e46656808"
+                },
+                {
+                  "name": "p1.pdf",
+                  "path": "public/downloads/ls/dse/eng/2017/p1.pdf",
+                  "size": 3195031,
+                  "type": "paper",
+                  "type_name": "Paper 1",
+                  "paper_num": 1,
+                  "md5": "22b50bea7c2351c84ff9e0ff29560e04"
+                },
+                {
+                  "name": "p2.pdf",
+                  "path": "public/downloads/ls/dse/eng/2017/p2.pdf",
+                  "size": 836199,
+                  "type": "paper",
+                  "type_name": "Paper 2",
+                  "paper_num": 2,
+                  "md5": "957d8fc6c7ebb9f5af05611bfbcf9244"
+                },
+                {
+                  "name": "per.pdf",
+                  "path": "public/downloads/ls/dse/eng/2017/per.pdf",
+                  "size": 491736,
+                  "type": "report",
+                  "type_name": "Exam Report",
+                  "paper_num": null,
+                  "md5": "6550fcb51db1c39c8d636cac0e013585"
+                }
+              ]
+            }
+          }
+        },
+        "2018": {
+          "display": "2018",
+          "languages": {
+            "chi": {
+              "name": "Chinese",
+              "files": [
+                {
+                  "name": "ans.pdf",
+                  "path": "public/downloads/ls/dse/chi/2018/ans.pdf",
+                  "size": 1363015,
+                  "type": "marking",
+                  "type_name": "Marking Scheme",
+                  "paper_num": null,
+                  "md5": "145a883ee1e7b7efdd02264d904f7aca"
+                },
+                {
+                  "name": "p1.pdf",
+                  "path": "public/downloads/ls/dse/chi/2018/p1.pdf",
+                  "size": 4156257,
+                  "type": "paper",
+                  "type_name": "Paper 1",
+                  "paper_num": 1,
+                  "md5": "16f55602622d4b550ab9940be2b57ac0"
+                },
+                {
+                  "name": "p2.pdf",
+                  "path": "public/downloads/ls/dse/chi/2018/p2.pdf",
+                  "size": 2352602,
+                  "type": "paper",
+                  "type_name": "Paper 2",
+                  "paper_num": 2,
+                  "md5": "f044beb2d0544950a49f180e129763dc"
+                },
+                {
+                  "name": "per.pdf",
+                  "path": "public/downloads/ls/dse/chi/2018/per.pdf",
+                  "size": 1537318,
+                  "type": "report",
+                  "type_name": "Exam Report",
+                  "paper_num": null,
+                  "md5": "330238b57de7814c04fa8c20d87eaf6c"
+                }
+              ]
+            },
+            "eng": {
+              "name": "English",
+              "files": [
+                {
+                  "name": "ans.pdf",
+                  "path": "public/downloads/ls/dse/eng/2018/ans.pdf",
+                  "size": 519419,
+                  "type": "marking",
+                  "type_name": "Marking Scheme",
+                  "paper_num": null,
+                  "md5": "aa56b3069fb56e73439d5e478a5c148e"
+                },
+                {
+                  "name": "p1.pdf",
+                  "path": "public/downloads/ls/dse/eng/2018/p1.pdf",
+                  "size": 92710,
+                  "type": "paper",
+                  "type_name": "Paper 1",
+                  "paper_num": 1,
+                  "md5": "449401045d5dbeec307f952db375d116"
+                },
+                {
+                  "name": "p2.pdf",
+                  "path": "public/downloads/ls/dse/eng/2018/p2.pdf",
+                  "size": 1365806,
+                  "type": "paper",
+                  "type_name": "Paper 2",
+                  "paper_num": 2,
+                  "md5": "28343cd83487b2674360089036f8c4db"
+                },
+                {
+                  "name": "per.pdf",
+                  "path": "public/downloads/ls/dse/eng/2018/per.pdf",
+                  "size": 2336580,
+                  "type": "report",
+                  "type_name": "Exam Report",
+                  "paper_num": null,
+                  "md5": "7459c01342027184637cd5354c80ac96"
+                }
+              ]
+            }
+          }
+        },
+        "2019": {
+          "display": "2019",
+          "languages": {
+            "chi": {
+              "name": "Chinese",
+              "files": [
+                {
+                  "name": "ans.pdf",
+                  "path": "public/downloads/ls/dse/chi/2019/ans.pdf",
+                  "size": 892097,
+                  "type": "marking",
+                  "type_name": "Marking Scheme",
+                  "paper_num": null,
+                  "md5": "9cfbba9a0f2a1b5cc52e5b1d9da67c75"
+                },
+                {
+                  "name": "p1.pdf",
+                  "path": "public/downloads/ls/dse/chi/2019/p1.pdf",
+                  "size": 2284313,
+                  "type": "paper",
+                  "type_name": "Paper 1",
+                  "paper_num": 1,
+                  "md5": "efe4d2f795084b1d1773903cd16e1144"
+                },
+                {
+                  "name": "p2.pdf",
+                  "path": "public/downloads/ls/dse/chi/2019/p2.pdf",
+                  "size": 1277626,
+                  "type": "paper",
+                  "type_name": "Paper 2",
+                  "paper_num": 2,
+                  "md5": "55c73918aefaf75ee67366c304fa0f68"
+                },
+                {
+                  "name": "per.pdf",
+                  "path": "public/downloads/ls/dse/chi/2019/per.pdf",
+                  "size": 1601522,
+                  "type": "report",
+                  "type_name": "Exam Report",
+                  "paper_num": null,
+                  "md5": "eee56f1916cc9bacb16a0f3dbd6ba95b"
+                }
+              ]
+            },
+            "eng": {
+              "name": "English",
+              "files": [
+                {
+                  "name": "ans.pdf",
+                  "path": "public/downloads/ls/dse/eng/2019/ans.pdf",
+                  "size": 450807,
+                  "type": "marking",
+                  "type_name": "Marking Scheme",
+                  "paper_num": null,
+                  "md5": "2f1cc9cbe7a2536a1d9a0087a3dcef5f"
+                },
+                {
+                  "name": "p1.pdf",
+                  "path": "public/downloads/ls/dse/eng/2019/p1.pdf",
+                  "size": 572699,
+                  "type": "paper",
+                  "type_name": "Paper 1",
+                  "paper_num": 1,
+                  "md5": "fca4502ccc316f89eee8a6771b70a9da"
+                },
+                {
+                  "name": "p2.pdf",
+                  "path": "public/downloads/ls/dse/eng/2019/p2.pdf",
+                  "size": 92922,
+                  "type": "paper",
+                  "type_name": "Paper 2",
+                  "paper_num": 2,
+                  "md5": "500465fe86cbb041ff0b588188824116"
+                },
+                {
+                  "name": "per.pdf",
+                  "path": "public/downloads/ls/dse/eng/2019/per.pdf",
+                  "size": 1944990,
+                  "type": "report",
+                  "type_name": "Exam Report",
+                  "paper_num": null,
+                  "md5": "86acdff8c17c203611752279d00c1d8f"
+                }
+              ]
+            }
+          }
+        },
+        "2020": {
+          "display": "2020",
+          "languages": {
+            "chi": {
+              "name": "Chinese",
+              "files": [
+                {
+                  "name": "ans.pdf",
+                  "path": "public/downloads/ls/dse/chi/2020/ans.pdf",
+                  "size": 15873006,
+                  "type": "marking",
+                  "type_name": "Marking Scheme",
+                  "paper_num": null,
+                  "md5": "59ffab87b5b7b0a4b4b0f69fdc32cb14"
+                },
+                {
+                  "name": "p1.pdf",
+                  "path": "public/downloads/ls/dse/chi/2020/p1.pdf",
+                  "size": 1815391,
+                  "type": "paper",
+                  "type_name": "Paper 1",
+                  "paper_num": 1,
+                  "md5": "ad7b9088a9627a7d39a04ae25a138b0e"
+                },
+                {
+                  "name": "p2.pdf",
+                  "path": "public/downloads/ls/dse/chi/2020/p2.pdf",
+                  "size": 1023448,
+                  "type": "paper",
+                  "type_name": "Paper 2",
+                  "paper_num": 2,
+                  "md5": "d02a70af8d6bdd6c28af044f83ddffdf"
+                },
+                {
+                  "name": "per.pdf",
+                  "path": "public/downloads/ls/dse/chi/2020/per.pdf",
+                  "size": 4702004,
+                  "type": "report",
+                  "type_name": "Exam Report",
+                  "paper_num": null,
+                  "md5": "e6ed17c226466964a3ed02a9b8776421"
+                }
+              ]
+            },
+            "eng": {
+              "name": "English",
+              "files": [
+                {
+                  "name": "ans.pdf",
+                  "path": "public/downloads/ls/dse/eng/2020/ans.pdf",
+                  "size": 13763949,
+                  "type": "marking",
+                  "type_name": "Marking Scheme",
+                  "paper_num": null,
+                  "md5": "c1b56b891a5e015d1f9fb16f2472b85e"
+                },
+                {
+                  "name": "p1.pdf",
+                  "path": "public/downloads/ls/dse/eng/2020/p1.pdf",
+                  "size": 2525773,
+                  "type": "paper",
+                  "type_name": "Paper 1",
+                  "paper_num": 1,
+                  "md5": "4bd64ca103be16e9110eafa0b1362457"
+                },
+                {
+                  "name": "p2.pdf",
+                  "path": "public/downloads/ls/dse/eng/2020/p2.pdf",
+                  "size": 1202508,
+                  "type": "paper",
+                  "type_name": "Paper 2",
+                  "paper_num": 2,
+                  "md5": "82ea97c57b685fac3e74a19085520820"
+                },
+                {
+                  "name": "per.pdf",
+                  "path": "public/downloads/ls/dse/eng/2020/per.pdf",
+                  "size": 1666928,
+                  "type": "report",
+                  "type_name": "Exam Report",
+                  "paper_num": null,
+                  "md5": "9b162ca6282b3a2ecafc4d3f725dbf00"
+                }
+              ]
+            }
+          }
+        },
+        "2021": {
+          "display": "2021",
+          "languages": {
+            "chi": {
+              "name": "Chinese",
+              "files": [
+                {
+                  "name": "ans.pdf",
+                  "path": "public/downloads/ls/dse/chi/2021/ans.pdf",
+                  "size": 9536247,
+                  "type": "marking",
+                  "type_name": "Marking Scheme",
+                  "paper_num": null,
+                  "md5": "2e2a01699bc28d1ad64ef7260a062b30"
+                },
+                {
+                  "name": "p1.pdf",
+                  "path": "public/downloads/ls/dse/chi/2021/p1.pdf",
+                  "size": 2626896,
+                  "type": "paper",
+                  "type_name": "Paper 1",
+                  "paper_num": 1,
+                  "md5": "201db331990b8386f264fa600004aa83"
+                },
+                {
+                  "name": "p2.pdf",
+                  "path": "public/downloads/ls/dse/chi/2021/p2.pdf",
+                  "size": 1406519,
+                  "type": "paper",
+                  "type_name": "Paper 2",
+                  "paper_num": 2,
+                  "md5": "29d6c6ee9f785dfe84e44a3b980978fb"
+                },
+                {
+                  "name": "per.pdf",
+                  "path": "public/downloads/ls/dse/chi/2021/per.pdf",
+                  "size": 2284232,
+                  "type": "report",
+                  "type_name": "Exam Report",
+                  "paper_num": null,
+                  "md5": "ede9b43475f59e46535a6d5d9bc4730b"
+                }
+              ]
+            },
+            "eng": {
+              "name": "English",
+              "files": [
+                {
+                  "name": "ans.pdf",
+                  "path": "public/downloads/ls/dse/eng/2021/ans.pdf",
+                  "size": 16560555,
+                  "type": "marking",
+                  "type_name": "Marking Scheme",
+                  "paper_num": null,
+                  "md5": "062741b65697e3a53f21e52f8a88f172"
+                },
+                {
+                  "name": "p1.pdf",
+                  "path": "public/downloads/ls/dse/eng/2021/p1.pdf",
+                  "size": 1729313,
+                  "type": "paper",
+                  "type_name": "Paper 1",
+                  "paper_num": 1,
+                  "md5": "fcf414ae719c219246e82d14323508d1"
+                },
+                {
+                  "name": "p2.pdf",
+                  "path": "public/downloads/ls/dse/eng/2021/p2.pdf",
+                  "size": 928984,
+                  "type": "paper",
+                  "type_name": "Paper 2",
+                  "paper_num": 2,
+                  "md5": "c2eeb0bad356420d96e06643556a5947"
+                }
+              ]
+            }
+          }
+        },
+        "2022": {
+          "display": "2022",
+          "languages": {
+            "chi": {
+              "name": "Chinese",
+              "files": [
+                {
+                  "name": "ans.pdf",
+                  "path": "public/downloads/ls/dse/chi/2022/ans.pdf",
+                  "size": 1588393,
+                  "type": "marking",
+                  "type_name": "Marking Scheme",
+                  "paper_num": null,
+                  "md5": "f07fbfd56105cd4963e77649574fb8c9"
+                },
+                {
+                  "name": "p1.pdf",
+                  "path": "public/downloads/ls/dse/chi/2022/p1.pdf",
+                  "size": 5404222,
+                  "type": "paper",
+                  "type_name": "Paper 1",
+                  "paper_num": 1,
+                  "md5": "b43828a2ad0491c7784043b388818e56"
+                },
+                {
+                  "name": "p2.pdf",
+                  "path": "public/downloads/ls/dse/chi/2022/p2.pdf",
+                  "size": 1271744,
+                  "type": "paper",
+                  "type_name": "Paper 2",
+                  "paper_num": 2,
+                  "md5": "6463e8f153cf9e64040804bcee436720"
+                },
+                {
+                  "name": "per.pdf",
+                  "path": "public/downloads/ls/dse/chi/2022/per.pdf",
+                  "size": 368756,
+                  "type": "report",
+                  "type_name": "Exam Report",
+                  "paper_num": null,
+                  "md5": "bff8d36141980a1532fe59ba086cf99f"
+                }
+              ]
+            },
+            "eng": {
+              "name": "English",
+              "files": [
+                {
+                  "name": "ans.pdf",
+                  "path": "public/downloads/ls/dse/eng/2022/ans.pdf",
+                  "size": 1865621,
+                  "type": "marking",
+                  "type_name": "Marking Scheme",
+                  "paper_num": null,
+                  "md5": "db2eca24fe35abdd240b2b09b7495dec"
+                },
+                {
+                  "name": "p1.pdf",
+                  "path": "public/downloads/ls/dse/eng/2022/p1.pdf",
+                  "size": 7648887,
+                  "type": "paper",
+                  "type_name": "Paper 1",
+                  "paper_num": 1,
+                  "md5": "d0ce964b4c8e3d9a352b71eaa597f2bd"
+                },
+                {
+                  "name": "p2.pdf",
+                  "path": "public/downloads/ls/dse/eng/2022/p2.pdf",
+                  "size": 4581569,
+                  "type": "paper",
+                  "type_name": "Paper 2",
+                  "paper_num": 2,
+                  "md5": "44b0d1dd2520125bd191a2302d10c76b"
+                },
+                {
+                  "name": "per.pdf",
+                  "path": "public/downloads/ls/dse/eng/2022/per.pdf",
+                  "size": 442205,
+                  "type": "report",
+                  "type_name": "Exam Report",
+                  "paper_num": null,
+                  "md5": "d2b3e471d0c5926ec3da5b8df241a481"
+                }
+              ]
+            }
+          }
+        },
+        "2023": {
+          "display": "2023",
+          "languages": {
+            "chi": {
+              "name": "Chinese",
+              "files": [
+                {
+                  "name": "ans.pdf",
+                  "path": "public/downloads/ls/dse/chi/2023/ans.pdf",
+                  "size": 1471002,
+                  "type": "marking",
+                  "type_name": "Marking Scheme",
+                  "paper_num": null,
+                  "md5": "ef0c835f0599794a86e0e17bef00b59f"
+                },
+                {
+                  "name": "p1.pdf",
+                  "path": "public/downloads/ls/dse/chi/2023/p1.pdf",
+                  "size": 1063550,
+                  "type": "paper",
+                  "type_name": "Paper 1",
+                  "paper_num": 1,
+                  "md5": "d3a3df28868fc4bda986553e0335e93f"
+                },
+                {
+                  "name": "p2.pdf",
+                  "path": "public/downloads/ls/dse/chi/2023/p2.pdf",
+                  "size": 250116,
+                  "type": "paper",
+                  "type_name": "Paper 2",
+                  "paper_num": 2,
+                  "md5": "19a89112d9be4261efa8f3023ac02472"
+                },
+                {
+                  "name": "per.pdf",
+                  "path": "public/downloads/ls/dse/chi/2023/per.pdf",
+                  "size": 382670,
+                  "type": "report",
+                  "type_name": "Exam Report",
+                  "paper_num": null,
+                  "md5": "d05a8226fc03534f880ad338000df13c"
+                }
+              ]
+            },
+            "eng": {
+              "name": "English",
+              "files": [
+                {
+                  "name": "ans.pdf",
+                  "path": "public/downloads/ls/dse/eng/2023/ans.pdf",
+                  "size": 1804086,
+                  "type": "marking",
+                  "type_name": "Marking Scheme",
+                  "paper_num": null,
+                  "md5": "3d5ad5806b63c38bb1b133760842594e"
+                },
+                {
+                  "name": "p1.pdf",
+                  "path": "public/downloads/ls/dse/eng/2023/p1.pdf",
+                  "size": 1168587,
+                  "type": "paper",
+                  "type_name": "Paper 1",
+                  "paper_num": 1,
+                  "md5": "2e2840c03acbea34ea0ac572c4b62a21"
+                },
+                {
+                  "name": "p2.pdf",
+                  "path": "public/downloads/ls/dse/eng/2023/p2.pdf",
+                  "size": 286533,
+                  "type": "paper",
+                  "type_name": "Paper 2",
+                  "paper_num": 2,
+                  "md5": "43527613a320d3e0695f379d2703fcad"
+                },
+                {
+                  "name": "per.pdf",
+                  "path": "public/downloads/ls/dse/eng/2023/per.pdf",
+                  "size": 486658,
+                  "type": "report",
+                  "type_name": "Exam Report",
+                  "paper_num": null,
+                  "md5": "264911f8355eaf068329a9c1a2d69670"
+                }
+              ]
+            }
+          }
+        },
+        "pp": {
+          "display": "Practice Paper",
+          "languages": {
+            "chi": {
+              "name": "Chinese",
+              "files": [
+                {
+                  "name": "ans.pdf",
+                  "path": "public/downloads/ls/dse/chi/pp/ans.pdf",
+                  "size": 296512,
+                  "type": "marking",
+                  "type_name": "Marking Scheme",
+                  "paper_num": null,
+                  "md5": "a5dcd2d13b201409be9e04e0ff70e71f"
+                },
+                {
+                  "name": "p1.pdf",
+                  "path": "public/downloads/ls/dse/chi/pp/p1.pdf",
+                  "size": 1219277,
+                  "type": "paper",
+                  "type_name": "Paper 1",
+                  "paper_num": 1,
+                  "md5": "ad05a639dde7c263337541b62f9f980a"
+                },
+                {
+                  "name": "p2.pdf",
+                  "path": "public/downloads/ls/dse/chi/pp/p2.pdf",
+                  "size": 420825,
+                  "type": "paper",
+                  "type_name": "Paper 2",
+                  "paper_num": 2,
+                  "md5": "be39f22687bb8f16eaa8cb8f18e871aa"
+                },
+                {
+                  "name": "per.pdf",
+                  "path": "public/downloads/ls/dse/chi/pp/per.pdf",
+                  "size": 99398,
+                  "type": "report",
+                  "type_name": "Exam Report",
+                  "paper_num": null,
+                  "md5": "192f82078d100d6c253cb782459f4bde"
+                }
+              ]
+            },
+            "eng": {
+              "name": "English",
+              "files": [
+                {
+                  "name": "ans.pdf",
+                  "path": "public/downloads/ls/dse/eng/pp/ans.pdf",
+                  "size": 351212,
+                  "type": "marking",
+                  "type_name": "Marking Scheme",
+                  "paper_num": null,
+                  "md5": "bb1f879b2d34d771045de3165743c37b"
+                },
+                {
+                  "name": "p1.pdf",
+                  "path": "public/downloads/ls/dse/eng/pp/p1.pdf",
+                  "size": 903964,
+                  "type": "paper",
+                  "type_name": "Paper 1",
+                  "paper_num": 1,
+                  "md5": "a5aefc87b5fe744c52380190d3291312"
+                },
+                {
+                  "name": "p2.pdf",
+                  "path": "public/downloads/ls/dse/eng/pp/p2.pdf",
+                  "size": 128312,
+                  "type": "paper",
+                  "type_name": "Paper 2",
+                  "paper_num": 2,
+                  "md5": "c29719d7ec764abd601f29389ae5a9a3"
+                },
+                {
+                  "name": "per.pdf",
+                  "path": "public/downloads/ls/dse/eng/pp/per.pdf",
+                  "size": 29167355,
+                  "type": "report",
+                  "type_name": "Exam Report",
+                  "paper_num": null,
+                  "md5": "d83e6eb647444f56c7dc02cc0a11922f"
+                }
+              ]
+            }
+          }
+        },
+        "sp": {
+          "display": "Sample Paper",
+          "languages": {
+            "chi": {
+              "name": "Chinese",
+              "files": [
+                {
+                  "name": "ans.pdf",
+                  "path": "public/downloads/ls/dse/chi/sp/ans.pdf",
+                  "size": 1105892,
+                  "type": "marking",
+                  "type_name": "Marking Scheme",
+                  "paper_num": null,
+                  "md5": "8e514bc9dba04174fb59ba947120ebef"
+                },
+                {
+                  "name": "p1.pdf",
+                  "path": "public/downloads/ls/dse/chi/sp/p1.pdf",
+                  "size": 2019681,
+                  "type": "paper",
+                  "type_name": "Paper 1",
+                  "paper_num": 1,
+                  "md5": "38b30aacd71ac2c7639c0a7a14c78f7d"
+                },
+                {
+                  "name": "p2.pdf",
+                  "path": "public/downloads/ls/dse/chi/sp/p2.pdf",
+                  "size": 1341283,
+                  "type": "paper",
+                  "type_name": "Paper 2",
+                  "paper_num": 2,
+                  "md5": "b94c1e40de2e3740808e6cc6a85f4354"
+                }
+              ]
+            },
+            "eng": {
+              "name": "English",
+              "files": [
+                {
+                  "name": "ans.pdf",
+                  "path": "public/downloads/ls/dse/eng/sp/ans.pdf",
+                  "size": 262949,
+                  "type": "marking",
+                  "type_name": "Marking Scheme",
+                  "paper_num": null,
+                  "md5": "8499aef0a8b6f845ef46076d640bbc76"
+                },
+                {
+                  "name": "p1.pdf",
+                  "path": "public/downloads/ls/dse/eng/sp/p1.pdf",
+                  "size": 1313429,
+                  "type": "paper",
+                  "type_name": "Paper 1",
+                  "paper_num": 1,
+                  "md5": "347c816272a0388716bb7cf5d143b1f3"
+                },
+                {
+                  "name": "p2.pdf",
+                  "path": "public/downloads/ls/dse/eng/sp/p2.pdf",
+                  "size": 1005258,
+                  "type": "paper",
+                  "type_name": "Paper 2",
+                  "paper_num": 2,
+                  "md5": "72710ec1afdda64706425b20b73f624a"
+                }
+              ]
+            }
+          }
+        }
+      }
+    }
+  },
+  "file_count": 109,
+  "total_size": 347454879,
+  "years_summary": {}
+}

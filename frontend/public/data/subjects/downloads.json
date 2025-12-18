@@ -1,0 +1,385 @@
+{
+  "key": "downloads",
+  "name": "downloads",
+  "name_zh": "downloads",
+  "category": "Others",
+  "icon": "fa-folder",
+  "color": "gray",
+  "exams": {
+    "bafs": {
+      "name": "BAFS",
+      "full_name": "bafs",
+      "years": {
+        "chi": {
+          "display": "chi",
+          "languages": {
+            "dse": {
+              "name": "dse",
+              "files": []
+            }
+          }
+        },
+        "eng": {
+          "display": "eng",
+          "languages": {
+            "dse": {
+              "name": "dse",
+              "files": []
+            }
+          }
+        }
+      }
+    },
+    "bio": {
+      "name": "BIO",
+      "full_name": "bio",
+      "years": {
+        "eng": {
+          "display": "eng",
+          "languages": {
+            "ce": {
+              "name": "ce",
+              "files": []
+            },
+            "dse": {
+              "name": "dse",
+              "files": []
+            }
+          }
+        },
+        "chi": {
+          "display": "chi",
+          "languages": {
+            "dse": {
+              "name": "dse",
+              "files": []
+            }
+          }
+        }
+      }
+    },
+    "chem": {
+      "name": "CHEM",
+      "full_name": "chem",
+      "years": {
+        "chi": {
+          "display": "chi",
+          "languages": {
+            "ce": {
+              "name": "ce",
+              "files": []
+            },
+            "dse": {
+              "name": "dse",
+              "files": []
+            }
+          }
+        },
+        "eng": {
+          "display": "eng",
+          "languages": {
+            "ce": {
+              "name": "ce",
+              "files": []
+            },
+            "dse": {
+              "name": "dse",
+              "files": []
+            }
+          }
+        }
+      }
+    },
+    "chi": {
+      "name": "CHI",
+      "full_name": "chi",
+      "years": {
+        "chi": {
+          "display": "chi",
+          "languages": {
+            "ce": {
+              "name": "ce",
+              "files": []
+            },
+            "dse": {
+              "name": "dse",
+              "files": []
+            }
+          }
+        }
+      }
+    },
+    "chihist": {
+      "name": "CHIHIST",
+      "full_name": "chihist",
+      "years": {
+        "chi": {
+          "display": "chi",
+          "languages": {
+            "dse": {
+              "name": "dse",
+              "files": []
+            }
+          }
+        }
+      }
+    },
+    "citizen": {
+      "name": "CITIZEN",
+      "full_name": "citizen",
+      "years": {
+        "chi": {
+          "display": "chi",
+          "languages": {
+            "dse": {
+              "name": "dse",
+              "files": []
+            }
+          }
+        }
+      }
+    },
+    "econ": {
+      "name": "ECON",
+      "full_name": "econ",
+      "years": {
+        "chi": {
+          "display": "chi",
+          "languages": {
+            "dse": {
+              "name": "dse",
+              "files": []
+            }
+          }
+        },
+        "eng": {
+          "display": "eng",
+          "languages": {
+            "dse": {
+              "name": "dse",
+              "files": []
+            }
+          }
+        }
+      }
+    },
+    "eng": {
+      "name": "ENG",
+      "full_name": "eng",
+      "years": {
+        "eng": {
+          "display": "eng",
+          "languages": {
+            "dse": {
+              "name": "dse",
+              "files": []
+            }
+          }
+        }
+      }
+    },
+    "enghist": {
+      "name": "ENGHIST",
+      "full_name": "enghist",
+      "years": {
+        "chi": {
+          "display": "chi",
+          "languages": {
+            "dse": {
+              "name": "dse",
+              "files": []
+            }
+          }
+        },
+        "eng": {
+          "display": "eng",
+          "languages": {
+            "dse": {
+              "name": "dse",
+              "files": []
+            }
+          }
+        }
+      }
+    },
+    "geog": {
+      "name": "GEOG",
+      "full_name": "geog",
+      "years": {
+        "chi": {
+          "display": "chi",
+          "languages": {
+            "dse": {
+              "name": "dse",
+              "files": []
+            }
+          }
+        },
+        "eng": {
+          "display": "eng",
+          "languages": {
+            "dse": {
+              "name": "dse",
+              "files": []
+            }
+          }
+        }
+      }
+    },
+    "ict": {
+      "name": "ICT",
+      "full_name": "ict",
+      "years": {
+        "chi": {
+          "display": "chi",
+          "languages": {
+            "dse": {
+              "name": "dse",
+              "files": []
+            }
+          }
+        },
+        "eng": {
+          "display": "eng",
+          "languages": {
+            "dse": {
+              "name": "dse",
+              "files": []
+            }
+          }
+        }
+      }
+    },
+    "ls": {
+      "name": "LS",
+      "full_name": "ls",
+      "years": {
+        "chi": {
+          "display": "chi",
+          "languages": {
+            "dse": {
+              "name": "dse",
+              "files": []
+            }
+          }
+        },
+        "eng": {
+          "display": "eng",
+          "languages": {
+            "dse": {
+              "name": "dse",
+              "files": []
+            }
+          }
+        }
+      }
+    },
+    "m0": {
+      "name": "M0",
+      "full_name": "m0",
+      "years": {
+        "chi": {
+          "display": "chi",
+          "languages": {
+            "ce": {
+              "name": "ce",
+              "files": []
+            },
+            "dse": {
+              "name": "dse",
+              "files": []
+            }
+          }
+        },
+        "eng": {
+          "display": "eng",
+          "languages": {
+            "ce": {
+              "name": "ce",
+              "files": []
+            },
+            "dse": {
+              "name": "dse",
+              "files": []
+            }
+          }
+        }
+      }
+    },
+    "m1": {
+      "name": "M1",
+      "full_name": "m1",
+      "years": {
+        "eng": {
+          "display": "eng",
+          "languages": {
+            "dse": {
+              "name": "dse",
+              "files": []
+            }
+          }
+        }
+      }
+    },
+    "m2": {
+      "name": "M2",
+      "full_name": "m2",
+      "years": {
+        "eng": {
+          "display": "eng",
+          "languages": {
+            "ce": {
+              "name": "ce",
+              "files": []
+            },
+            "dse": {
+              "name": "dse",
+              "files": []
+            }
+          }
+        }
+      }
+    },
+    "phy": {
+      "name": "PHY",
+      "full_name": "phy",
+      "years": {
+        "chi": {
+          "display": "chi",
+          "languages": {
+            "dse": {
+              "name": "dse",
+              "files": []
+            }
+          }
+        },
+        "eng": {
+          "display": "eng",
+          "languages": {
+            "dse": {
+              "name": "dse",
+              "files": []
+            }
+          }
+        }
+      }
+    },
+    "ths": {
+      "name": "THS",
+      "full_name": "ths",
+      "years": {
+        "chi": {
+          "display": "chi",
+          "languages": {
+            "dse": {
+              "name": "dse",
+              "files": []
+            }
+          }
+        }
+      }
+    }
+  },
+  "file_count": 0,
+  "total_size": 0
+}

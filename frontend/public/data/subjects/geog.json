@@ -1,0 +1,1291 @@
+{
+  "key": "geog",
+  "name": "Geography",
+  "name_zh": "地理",
+  "category": "Arts",
+  "icon": "fa-globe-asia",
+  "color": "green",
+  "exams": {
+    "dse": {
+      "name": "HKDSE",
+      "full_name": "香港中學文憑考試",
+      "years": {
+        "2012": {
+          "display": "2012",
+          "languages": {
+            "chi": {
+              "name": "Chinese",
+              "files": [
+                {
+                  "name": "ans.pdf",
+                  "path": "public/downloads/geog/dse/chi/2012/ans.pdf",
+                  "size": 1764645,
+                  "type": "marking",
+                  "type_name": "Marking Scheme",
+                  "paper_num": null,
+                  "md5": "80809fe9bd1d6190c473c4b85d1c212e"
+                },
+                {
+                  "name": "p1.pdf",
+                  "path": "public/downloads/geog/dse/chi/2012/p1.pdf",
+                  "size": 36639086,
+                  "type": "paper",
+                  "type_name": "Paper 1",
+                  "paper_num": 1,
+                  "md5": "bce1da4faf764b23af8d3a71ed5ead10"
+                },
+                {
+                  "name": "p2.pdf",
+                  "path": "public/downloads/geog/dse/chi/2012/p2.pdf",
+                  "size": 6241596,
+                  "type": "paper",
+                  "type_name": "Paper 2",
+                  "paper_num": 2,
+                  "md5": "e8cc7c73856d7d7a72b94a89e2ece6b7"
+                },
+                {
+                  "name": "per.pdf",
+                  "path": "public/downloads/geog/dse/chi/2012/per.pdf",
+                  "size": 1086366,
+                  "type": "report",
+                  "type_name": "Exam Report",
+                  "paper_num": null,
+                  "md5": "48d15bfdf61e5d757cad96839cce8f37"
+                }
+              ]
+            },
+            "eng": {
+              "name": "English",
+              "files": [
+                {
+                  "name": "ans.pdf",
+                  "path": "public/downloads/geog/dse/eng/2012/ans.pdf",
+                  "size": 4387840,
+                  "type": "marking",
+                  "type_name": "Marking Scheme",
+                  "paper_num": null,
+                  "md5": "f213d01d98da0f38ac2ab79cd8ee60c4"
+                },
+                {
+                  "name": "map.pdf",
+                  "path": "public/downloads/geog/dse/eng/2012/map.pdf",
+                  "size": 1296326,
+                  "type": "other",
+                  "type_name": "map.pdf",
+                  "paper_num": null,
+                  "md5": "5473a28e7a008f281f15b580d9079a79"
+                },
+                {
+                  "name": "p1.pdf",
+                  "path": "public/downloads/geog/dse/eng/2012/p1.pdf",
+                  "size": 6112020,
+                  "type": "paper",
+                  "type_name": "Paper 1",
+                  "paper_num": 1,
+                  "md5": "ea01c6178e4f435e9a0682863196aaf5"
+                },
+                {
+                  "name": "p2.pdf",
+                  "path": "public/downloads/geog/dse/eng/2012/p2.pdf",
+                  "size": 2435452,
+                  "type": "paper",
+                  "type_name": "Paper 2",
+                  "paper_num": 2,
+                  "md5": "ad131b8c97e2b3a7c675f2ddbc71d2d2"
+                },
+                {
+                  "name": "per.pdf",
+                  "path": "public/downloads/geog/dse/eng/2012/per.pdf",
+                  "size": 512480,
+                  "type": "report",
+                  "type_name": "Exam Report",
+                  "paper_num": null,
+                  "md5": "2a4a076c610f5ff8d866b6513494d887"
+                }
+              ]
+            }
+          }
+        },
+        "2013": {
+          "display": "2013",
+          "languages": {
+            "chi": {
+              "name": "Chinese",
+              "files": [
+                {
+                  "name": "ans.pdf",
+                  "path": "public/downloads/geog/dse/chi/2013/ans.pdf",
+                  "size": 1989514,
+                  "type": "marking",
+                  "type_name": "Marking Scheme",
+                  "paper_num": null,
+                  "md5": "65d930a4cc1019c331cf25431c92b646"
+                },
+                {
+                  "name": "p1.pdf",
+                  "path": "public/downloads/geog/dse/chi/2013/p1.pdf",
+                  "size": 50173188,
+                  "type": "paper",
+                  "type_name": "Paper 1",
+                  "paper_num": 1,
+                  "md5": "7bc3904ef495b76cdf2e300e0d81e9e5"
+                },
+                {
+                  "name": "p2.pdf",
+                  "path": "public/downloads/geog/dse/chi/2013/p2.pdf",
+                  "size": 13165190,
+                  "type": "paper",
+                  "type_name": "Paper 2",
+                  "paper_num": 2,
+                  "md5": "ccada9678dede60ad36abb30119b7a8f"
+                },
+                {
+                  "name": "per.pdf",
+                  "path": "public/downloads/geog/dse/chi/2013/per.pdf",
+                  "size": 2444536,
+                  "type": "report",
+                  "type_name": "Exam Report",
+                  "paper_num": null,
+                  "md5": "7bb4b3868ea07542c4ceb8029c414f9e"
+                }
+              ]
+            },
+            "eng": {
+              "name": "English",
+              "files": [
+                {
+                  "name": "ans.pdf",
+                  "path": "public/downloads/geog/dse/eng/2013/ans.pdf",
+                  "size": 5499199,
+                  "type": "marking",
+                  "type_name": "Marking Scheme",
+                  "paper_num": null,
+                  "md5": "e98375170193f5f9ebe260db9594ba1f"
+                },
+                {
+                  "name": "map.pdf",
+                  "path": "public/downloads/geog/dse/eng/2013/map.pdf",
+                  "size": 1270313,
+                  "type": "other",
+                  "type_name": "map.pdf",
+                  "paper_num": null,
+                  "md5": "c74b9307e0ed69154ff66d421da6a3b7"
+                },
+                {
+                  "name": "p1.pdf",
+                  "path": "public/downloads/geog/dse/eng/2013/p1.pdf",
+                  "size": 6311350,
+                  "type": "paper",
+                  "type_name": "Paper 1",
+                  "paper_num": 1,
+                  "md5": "ec011de911706ce33edec6cf606e2c8c"
+                },
+                {
+                  "name": "p2.pdf",
+                  "path": "public/downloads/geog/dse/eng/2013/p2.pdf",
+                  "size": 2630048,
+                  "type": "paper",
+                  "type_name": "Paper 2",
+                  "paper_num": 2,
+                  "md5": "abbccab0608ac653336a74aec6b296e3"
+                },
+                {
+                  "name": "per.pdf",
+                  "path": "public/downloads/geog/dse/eng/2013/per.pdf",
+                  "size": 1662026,
+                  "type": "report",
+                  "type_name": "Exam Report",
+                  "paper_num": null,
+                  "md5": "b3e6c02e206fa44b3599675dfd9222b4"
+                }
+              ]
+            }
+          }
+        },
+        "2014": {
+          "display": "2014",
+          "languages": {
+            "chi": {
+              "name": "Chinese",
+              "files": [
+                {
+                  "name": "ans.pdf",
+                  "path": "public/downloads/geog/dse/chi/2014/ans.pdf",
+                  "size": 1896047,
+                  "type": "marking",
+                  "type_name": "Marking Scheme",
+                  "paper_num": null,
+                  "md5": "1b15c8e3ecddc00cde6fc65027a8f8bc"
+                },
+                {
+                  "name": "p1.pdf",
+                  "path": "public/downloads/geog/dse/chi/2014/p1.pdf",
+                  "size": 53763334,
+                  "type": "paper",
+                  "type_name": "Paper 1",
+                  "paper_num": 1,
+                  "md5": "2705c8ccb7204d8cff4a1f35ff0d2370"
+                },
+                {
+                  "name": "p2.pdf",
+                  "path": "public/downloads/geog/dse/chi/2014/p2.pdf",
+                  "size": 12989027,
+                  "type": "paper",
+                  "type_name": "Paper 2",
+                  "paper_num": 2,
+                  "md5": "4ac852ef91f9781a6200665442f5a58f"
+                },
+                {
+                  "name": "per.pdf",
+                  "path": "public/downloads/geog/dse/chi/2014/per.pdf",
+                  "size": 1816183,
+                  "type": "report",
+                  "type_name": "Exam Report",
+                  "paper_num": null,
+                  "md5": "03cc8a8c2a764a47eb32d2a466742721"
+                }
+              ]
+            },
+            "eng": {
+              "name": "English",
+              "files": [
+                {
+                  "name": "ans.pdf",
+                  "path": "public/downloads/geog/dse/eng/2014/ans.pdf",
+                  "size": 1690819,
+                  "type": "marking",
+                  "type_name": "Marking Scheme",
+                  "paper_num": null,
+                  "md5": "060550fd64e802c74c36d0de8bab6d82"
+                },
+                {
+                  "name": "map.pdf",
+                  "path": "public/downloads/geog/dse/eng/2014/map.pdf",
+                  "size": 1477162,
+                  "type": "other",
+                  "type_name": "map.pdf",
+                  "paper_num": null,
+                  "md5": "daf1e201147bd43417013cd5e7b41307"
+                },
+                {
+                  "name": "p1.pdf",
+                  "path": "public/downloads/geog/dse/eng/2014/p1.pdf",
+                  "size": 9302092,
+                  "type": "paper",
+                  "type_name": "Paper 1",
+                  "paper_num": 1,
+                  "md5": "d45a62c10c9d32b8e307d0a7159dd27e"
+                },
+                {
+                  "name": "p2.pdf",
+                  "path": "public/downloads/geog/dse/eng/2014/p2.pdf",
+                  "size": 4814538,
+                  "type": "paper",
+                  "type_name": "Paper 2",
+                  "paper_num": 2,
+                  "md5": "6375bdf7eb7fc6790a7223fa35f00209"
+                },
+                {
+                  "name": "per.pdf",
+                  "path": "public/downloads/geog/dse/eng/2014/per.pdf",
+                  "size": 577148,
+                  "type": "report",
+                  "type_name": "Exam Report",
+                  "paper_num": null,
+                  "md5": "9835b533a83c1af0de7bff8af0cf555f"
+                }
+              ]
+            }
+          }
+        },
+        "2015": {
+          "display": "2015",
+          "languages": {
+            "chi": {
+              "name": "Chinese",
+              "files": [
+                {
+                  "name": "ans.pdf",
+                  "path": "public/downloads/geog/dse/chi/2015/ans.pdf",
+                  "size": 2160985,
+                  "type": "marking",
+                  "type_name": "Marking Scheme",
+                  "paper_num": null,
+                  "md5": "15d3a5e0916aa20ab577b8b644865d37"
+                },
+                {
+                  "name": "p1.pdf",
+                  "path": "public/downloads/geog/dse/chi/2015/p1.pdf",
+                  "size": 54206735,
+                  "type": "paper",
+                  "type_name": "Paper 1",
+                  "paper_num": 1,
+                  "md5": "481d1569a1ede5a4dff2a250e6ce986e"
+                },
+                {
+                  "name": "p2.pdf",
+                  "path": "public/downloads/geog/dse/chi/2015/p2.pdf",
+                  "size": 9978187,
+                  "type": "paper",
+                  "type_name": "Paper 2",
+                  "paper_num": 2,
+                  "md5": "6b400f737b5f73955d17fb2f3325f5eb"
+                },
+                {
+                  "name": "per.pdf",
+                  "path": "public/downloads/geog/dse/chi/2015/per.pdf",
+                  "size": 3822073,
+                  "type": "report",
+                  "type_name": "Exam Report",
+                  "paper_num": null,
+                  "md5": "d8561fa006f5239467f57f2162792d23"
+                }
+              ]
+            },
+            "eng": {
+              "name": "English",
+              "files": [
+                {
+                  "name": "ans.pdf",
+                  "path": "public/downloads/geog/dse/eng/2015/ans.pdf",
+                  "size": 5899239,
+                  "type": "marking",
+                  "type_name": "Marking Scheme",
+                  "paper_num": null,
+                  "md5": "a6db39572939a7e0cc6ec44dd560c4d1"
+                },
+                {
+                  "name": "map.pdf",
+                  "path": "public/downloads/geog/dse/eng/2015/map.pdf",
+                  "size": 1284922,
+                  "type": "other",
+                  "type_name": "map.pdf",
+                  "paper_num": null,
+                  "md5": "fb0c77c641ae84d1c73bbeb3fd702aa4"
+                },
+                {
+                  "name": "p1.pdf",
+                  "path": "public/downloads/geog/dse/eng/2015/p1.pdf",
+                  "size": 12376859,
+                  "type": "paper",
+                  "type_name": "Paper 1",
+                  "paper_num": 1,
+                  "md5": "164c1db2a37b1f87ed7f31f9e22be19b"
+                },
+                {
+                  "name": "p2.pdf",
+                  "path": "public/downloads/geog/dse/eng/2015/p2.pdf",
+                  "size": 2357269,
+                  "type": "paper",
+                  "type_name": "Paper 2",
+                  "paper_num": 2,
+                  "md5": "932d3db1524649300647417aeaf1a5ae"
+                },
+                {
+                  "name": "per.pdf",
+                  "path": "public/downloads/geog/dse/eng/2015/per.pdf",
+                  "size": 2087427,
+                  "type": "report",
+                  "type_name": "Exam Report",
+                  "paper_num": null,
+                  "md5": "ae6f86e4bf475e63937d28bd21c227d1"
+                }
+              ]
+            }
+          }
+        },
+        "2016": {
+          "display": "2016",
+          "languages": {
+            "chi": {
+              "name": "Chinese",
+              "files": [
+                {
+                  "name": "ans.pdf",
+                  "path": "public/downloads/geog/dse/chi/2016/ans.pdf",
+                  "size": 2113591,
+                  "type": "marking",
+                  "type_name": "Marking Scheme",
+                  "paper_num": null,
+                  "md5": "6eb83171e4fa09a09d74fe5fbebc0af8"
+                },
+                {
+                  "name": "p1.pdf",
+                  "path": "public/downloads/geog/dse/chi/2016/p1.pdf",
+                  "size": 51721143,
+                  "type": "paper",
+                  "type_name": "Paper 1",
+                  "paper_num": 1,
+                  "md5": "662736eb56c798eee228d475ee626749"
+                },
+                {
+                  "name": "p2.pdf",
+                  "path": "public/downloads/geog/dse/chi/2016/p2.pdf",
+                  "size": 10887379,
+                  "type": "paper",
+                  "type_name": "Paper 2",
+                  "paper_num": 2,
+                  "md5": "59bc2a5fb7d3369e53ac02ffbad63d48"
+                },
+                {
+                  "name": "per.pdf",
+                  "path": "public/downloads/geog/dse/chi/2016/per.pdf",
+                  "size": 7539192,
+                  "type": "report",
+                  "type_name": "Exam Report",
+                  "paper_num": null,
+                  "md5": "f28c0d69e8a64c9e5e5105f26bf2bbb3"
+                }
+              ]
+            },
+            "eng": {
+              "name": "English",
+              "files": [
+                {
+                  "name": "ans.pdf",
+                  "path": "public/downloads/geog/dse/eng/2016/ans.pdf",
+                  "size": 5670930,
+                  "type": "marking",
+                  "type_name": "Marking Scheme",
+                  "paper_num": null,
+                  "md5": "32658b705130fac350b381015301bb34"
+                },
+                {
+                  "name": "map.pdf",
+                  "path": "public/downloads/geog/dse/eng/2016/map.pdf",
+                  "size": 1198387,
+                  "type": "other",
+                  "type_name": "map.pdf",
+                  "paper_num": null,
+                  "md5": "529a1c26d94873afee28f275925a9bc4"
+                },
+                {
+                  "name": "p1.pdf",
+                  "path": "public/downloads/geog/dse/eng/2016/p1.pdf",
+                  "size": 33173540,
+                  "type": "paper",
+                  "type_name": "Paper 1",
+                  "paper_num": 1,
+                  "md5": "3a3f8baab75da24d3ed39fa38a2e4f06"
+                },
+                {
+                  "name": "p2.pdf",
+                  "path": "public/downloads/geog/dse/eng/2016/p2.pdf",
+                  "size": 12574286,
+                  "type": "paper",
+                  "type_name": "Paper 2",
+                  "paper_num": 2,
+                  "md5": "34ca18f5258cdfbfa8e0afd62a91d89d"
+                },
+                {
+                  "name": "per.pdf",
+                  "path": "public/downloads/geog/dse/eng/2016/per.pdf",
+                  "size": 1628741,
+                  "type": "report",
+                  "type_name": "Exam Report",
+                  "paper_num": null,
+                  "md5": "0c4c690479754a7046e84c16cec95003"
+                }
+              ]
+            }
+          }
+        },
+        "2017": {
+          "display": "2017",
+          "languages": {
+            "chi": {
+              "name": "Chinese",
+              "files": [
+                {
+                  "name": "ans.pdf",
+                  "path": "public/downloads/geog/dse/chi/2017/ans.pdf",
+                  "size": 2345731,
+                  "type": "marking",
+                  "type_name": "Marking Scheme",
+                  "paper_num": null,
+                  "md5": "d10b4315322a128ceb273d5683c26a7b"
+                },
+                {
+                  "name": "p1.pdf",
+                  "path": "public/downloads/geog/dse/chi/2017/p1.pdf",
+                  "size": 48546752,
+                  "type": "paper",
+                  "type_name": "Paper 1",
+                  "paper_num": 1,
+                  "md5": "c0d361970d8b1f59934e636bb6698f7b"
+                },
+                {
+                  "name": "p2.pdf",
+                  "path": "public/downloads/geog/dse/chi/2017/p2.pdf",
+                  "size": 15241637,
+                  "type": "paper",
+                  "type_name": "Paper 2",
+                  "paper_num": 2,
+                  "md5": "59e5f24aa91151311b36a2bf84742f1a"
+                },
+                {
+                  "name": "per.pdf",
+                  "path": "public/downloads/geog/dse/chi/2017/per.pdf",
+                  "size": 2445342,
+                  "type": "report",
+                  "type_name": "Exam Report",
+                  "paper_num": null,
+                  "md5": "eae9d3170ca9cc1ebb2bdf769109c576"
+                }
+              ]
+            },
+            "eng": {
+              "name": "English",
+              "files": [
+                {
+                  "name": "ans.pdf",
+                  "path": "public/downloads/geog/dse/eng/2017/ans.pdf",
+                  "size": 33940839,
+                  "type": "marking",
+                  "type_name": "Marking Scheme",
+                  "paper_num": null,
+                  "md5": "79dae6ca3acdb8bc36edce6ac29b2000"
+                },
+                {
+                  "name": "map.pdf",
+                  "path": "public/downloads/geog/dse/eng/2017/map.pdf",
+                  "size": 1279361,
+                  "type": "other",
+                  "type_name": "map.pdf",
+                  "paper_num": null,
+                  "md5": "0041d35ceebae66a1cdb9e17e586c5c6"
+                },
+                {
+                  "name": "p1.pdf",
+                  "path": "public/downloads/geog/dse/eng/2017/p1.pdf",
+                  "size": 18213579,
+                  "type": "paper",
+                  "type_name": "Paper 1",
+                  "paper_num": 1,
+                  "md5": "c5d7f3aefd4610a42509908011bb0526"
+                },
+                {
+                  "name": "p2.pdf",
+                  "path": "public/downloads/geog/dse/eng/2017/p2.pdf",
+                  "size": 8163928,
+                  "type": "paper",
+                  "type_name": "Paper 2",
+                  "paper_num": 2,
+                  "md5": "7e17acb45dd882816f48cb2265c6bb51"
+                },
+                {
+                  "name": "per.pdf",
+                  "path": "public/downloads/geog/dse/eng/2017/per.pdf",
+                  "size": 1625536,
+                  "type": "report",
+                  "type_name": "Exam Report",
+                  "paper_num": null,
+                  "md5": "fb21eb0ae99b37b1f1274a6bd2310ef2"
+                }
+              ]
+            }
+          }
+        },
+        "2018": {
+          "display": "2018",
+          "languages": {
+            "chi": {
+              "name": "Chinese",
+              "files": [
+                {
+                  "name": "ans.pdf",
+                  "path": "public/downloads/geog/dse/chi/2018/ans.pdf",
+                  "size": 1247524,
+                  "type": "marking",
+                  "type_name": "Marking Scheme",
+                  "paper_num": null,
+                  "md5": "3a3fdff823a1e7604352b7dec9f49445"
+                },
+                {
+                  "name": "p1.pdf",
+                  "path": "public/downloads/geog/dse/chi/2018/p1.pdf",
+                  "size": 18651531,
+                  "type": "paper",
+                  "type_name": "Paper 1",
+                  "paper_num": 1,
+                  "md5": "95b3437236f1cb6cc0abfd68917dba0c"
+                },
+                {
+                  "name": "p2.pdf",
+                  "path": "public/downloads/geog/dse/chi/2018/p2.pdf",
+                  "size": 2888062,
+                  "type": "paper",
+                  "type_name": "Paper 2",
+                  "paper_num": 2,
+                  "md5": "9fdc294c6b9884825056fbbb5d00fcd8"
+                },
+                {
+                  "name": "per.pdf",
+                  "path": "public/downloads/geog/dse/chi/2018/per.pdf",
+                  "size": 4419841,
+                  "type": "report",
+                  "type_name": "Exam Report",
+                  "paper_num": null,
+                  "md5": "312bfc45d552a2c06ef037f036df374f"
+                }
+              ]
+            },
+            "eng": {
+              "name": "English",
+              "files": [
+                {
+                  "name": "ans.pdf",
+                  "path": "public/downloads/geog/dse/eng/2018/ans.pdf",
+                  "size": 1087974,
+                  "type": "marking",
+                  "type_name": "Marking Scheme",
+                  "paper_num": null,
+                  "md5": "feb3c7f28d41e023c3a500f98e97277f"
+                },
+                {
+                  "name": "map.pdf",
+                  "path": "public/downloads/geog/dse/eng/2018/map.pdf",
+                  "size": 1928785,
+                  "type": "other",
+                  "type_name": "map.pdf",
+                  "paper_num": null,
+                  "md5": "b31ca241f5ff68de6cc47c590ccc376a"
+                },
+                {
+                  "name": "p1.pdf",
+                  "path": "public/downloads/geog/dse/eng/2018/p1.pdf",
+                  "size": 28514102,
+                  "type": "paper",
+                  "type_name": "Paper 1",
+                  "paper_num": 1,
+                  "md5": "22ddb08917c63502e7a002a74510cb1d"
+                },
+                {
+                  "name": "p2.pdf",
+                  "path": "public/downloads/geog/dse/eng/2018/p2.pdf",
+                  "size": 2308679,
+                  "type": "paper",
+                  "type_name": "Paper 2",
+                  "paper_num": 2,
+                  "md5": "e8d8648c16167e07580b375ce6011ee0"
+                },
+                {
+                  "name": "per.pdf",
+                  "path": "public/downloads/geog/dse/eng/2018/per.pdf",
+                  "size": 5475908,
+                  "type": "report",
+                  "type_name": "Exam Report",
+                  "paper_num": null,
+                  "md5": "4bb24b7ca80f790c8d217334425634e8"
+                }
+              ]
+            }
+          }
+        },
+        "2019": {
+          "display": "2019",
+          "languages": {
+            "chi": {
+              "name": "Chinese",
+              "files": [
+                {
+                  "name": "ans.pdf",
+                  "path": "public/downloads/geog/dse/chi/2019/ans.pdf",
+                  "size": 840073,
+                  "type": "marking",
+                  "type_name": "Marking Scheme",
+                  "paper_num": null,
+                  "md5": "f3d2b333cf028f2b420feaa0da6ff627"
+                },
+                {
+                  "name": "p1.pdf",
+                  "path": "public/downloads/geog/dse/chi/2019/p1.pdf",
+                  "size": 1164090,
+                  "type": "paper",
+                  "type_name": "Paper 1",
+                  "paper_num": 1,
+                  "md5": "f0199ee19b184b0cd111229dae3140a9"
+                },
+                {
+                  "name": "p2.pdf",
+                  "path": "public/downloads/geog/dse/chi/2019/p2.pdf",
+                  "size": 915445,
+                  "type": "paper",
+                  "type_name": "Paper 2",
+                  "paper_num": 2,
+                  "md5": "1a25379ed931c3690401f985f581b48c"
+                }
+              ]
+            },
+            "eng": {
+              "name": "English",
+              "files": [
+                {
+                  "name": "ans.pdf",
+                  "path": "public/downloads/geog/dse/eng/2019/ans.pdf",
+                  "size": 817088,
+                  "type": "marking",
+                  "type_name": "Marking Scheme",
+                  "paper_num": null,
+                  "md5": "ac72979700807a7d1cd2976d82b1910a"
+                },
+                {
+                  "name": "map.pdf",
+                  "path": "public/downloads/geog/dse/eng/2019/map.pdf",
+                  "size": 660842,
+                  "type": "other",
+                  "type_name": "map.pdf",
+                  "paper_num": null,
+                  "md5": "e38ff81692e4acbf5c9140aea2436558"
+                },
+                {
+                  "name": "p1.pdf",
+                  "path": "public/downloads/geog/dse/eng/2019/p1.pdf",
+                  "size": 1208517,
+                  "type": "paper",
+                  "type_name": "Paper 1",
+                  "paper_num": 1,
+                  "md5": "1a841debe45ef20f26dd7c3d4e745f43"
+                },
+                {
+                  "name": "p2.pdf",
+                  "path": "public/downloads/geog/dse/eng/2019/p2.pdf",
+                  "size": 972064,
+                  "type": "paper",
+                  "type_name": "Paper 2",
+                  "paper_num": 2,
+                  "md5": "ca31dbcbc5b0cdfba82b4e4996434330"
+                },
+                {
+                  "name": "per.pdf",
+                  "path": "public/downloads/geog/dse/eng/2019/per.pdf",
+                  "size": 6547596,
+                  "type": "report",
+                  "type_name": "Exam Report",
+                  "paper_num": null,
+                  "md5": "87ee6a4eba3bd044d19b29626541b864"
+                }
+              ]
+            }
+          }
+        },
+        "2020": {
+          "display": "2020",
+          "languages": {
+            "chi": {
+              "name": "Chinese",
+              "files": [
+                {
+                  "name": "ans.pdf",
+                  "path": "public/downloads/geog/dse/chi/2020/ans.pdf",
+                  "size": 7632748,
+                  "type": "marking",
+                  "type_name": "Marking Scheme",
+                  "paper_num": null,
+                  "md5": "e993d3066702db8e7b978533169ebd63"
+                },
+                {
+                  "name": "p1.pdf",
+                  "path": "public/downloads/geog/dse/chi/2020/p1.pdf",
+                  "size": 7045250,
+                  "type": "paper",
+                  "type_name": "Paper 1",
+                  "paper_num": 1,
+                  "md5": "140baa31fd6e76919ccdbd6724df4eb2"
+                },
+                {
+                  "name": "p2.pdf",
+                  "path": "public/downloads/geog/dse/chi/2020/p2.pdf",
+                  "size": 1630301,
+                  "type": "paper",
+                  "type_name": "Paper 2",
+                  "paper_num": 2,
+                  "md5": "3b4ff0cfee4037f7d0bd6b2e85ebb68d"
+                },
+                {
+                  "name": "per.pdf",
+                  "path": "public/downloads/geog/dse/chi/2020/per.pdf",
+                  "size": 7340076,
+                  "type": "report",
+                  "type_name": "Exam Report",
+                  "paper_num": null,
+                  "md5": "ba68b581fd5cb3ac8afe6d7e16460d3f"
+                }
+              ]
+            },
+            "eng": {
+              "name": "English",
+              "files": [
+                {
+                  "name": "ans.pdf",
+                  "path": "public/downloads/geog/dse/eng/2020/ans.pdf",
+                  "size": 8341071,
+                  "type": "marking",
+                  "type_name": "Marking Scheme",
+                  "paper_num": null,
+                  "md5": "0cdde00abc420e10d5a8253bdd8bb2d0"
+                },
+                {
+                  "name": "map.pdf",
+                  "path": "public/downloads/geog/dse/eng/2020/map.pdf",
+                  "size": 1621568,
+                  "type": "other",
+                  "type_name": "map.pdf",
+                  "paper_num": null,
+                  "md5": "45e7b129aeea19c8b9ce54571d9e5fb2"
+                },
+                {
+                  "name": "p1.pdf",
+                  "path": "public/downloads/geog/dse/eng/2020/p1.pdf",
+                  "size": 6686440,
+                  "type": "paper",
+                  "type_name": "Paper 1",
+                  "paper_num": 1,
+                  "md5": "78b813bf36d8e5b0c65142273353a754"
+                },
+                {
+                  "name": "p2.pdf",
+                  "path": "public/downloads/geog/dse/eng/2020/p2.pdf",
+                  "size": 3263709,
+                  "type": "paper",
+                  "type_name": "Paper 2",
+                  "paper_num": 2,
+                  "md5": "6163fd74b44bb6e4b50474ab1d1e595c"
+                },
+                {
+                  "name": "per.pdf",
+                  "path": "public/downloads/geog/dse/eng/2020/per.pdf",
+                  "size": 8321187,
+                  "type": "report",
+                  "type_name": "Exam Report",
+                  "paper_num": null,
+                  "md5": "3c6486f73c3f8d74222e922e9562cb61"
+                }
+              ]
+            }
+          }
+        },
+        "2021": {
+          "display": "2021",
+          "languages": {
+            "chi": {
+              "name": "Chinese",
+              "files": [
+                {
+                  "name": "ans.pdf",
+                  "path": "public/downloads/geog/dse/chi/2021/ans.pdf",
+                  "size": 4299067,
+                  "type": "marking",
+                  "type_name": "Marking Scheme",
+                  "paper_num": null,
+                  "md5": "a778249bdb653e9bd71f7a1251a84505"
+                },
+                {
+                  "name": "p1.pdf",
+                  "path": "public/downloads/geog/dse/chi/2021/p1.pdf",
+                  "size": 6509518,
+                  "type": "paper",
+                  "type_name": "Paper 1",
+                  "paper_num": 1,
+                  "md5": "b37bd760e1cafc6a0ac632ffa1f96a3a"
+                },
+                {
+                  "name": "p2.pdf",
+                  "path": "public/downloads/geog/dse/chi/2021/p2.pdf",
+                  "size": 3344492,
+                  "type": "paper",
+                  "type_name": "Paper 2",
+                  "paper_num": 2,
+                  "md5": "2af0d49f1beca05727da88e348a86230"
+                },
+                {
+                  "name": "per.pdf",
+                  "path": "public/downloads/geog/dse/chi/2021/per.pdf",
+                  "size": 7006259,
+                  "type": "report",
+                  "type_name": "Exam Report",
+                  "paper_num": null,
+                  "md5": "99f7085e3319caaace75ad6003ae887f"
+                }
+              ]
+            },
+            "eng": {
+              "name": "English",
+              "files": [
+                {
+                  "name": "ans.pdf",
+                  "path": "public/downloads/geog/dse/eng/2021/ans.pdf",
+                  "size": 2661364,
+                  "type": "marking",
+                  "type_name": "Marking Scheme",
+                  "paper_num": null,
+                  "md5": "b4b5205db8ca17c4b0af290f1732db2f"
+                },
+                {
+                  "name": "map.pdf",
+                  "path": "public/downloads/geog/dse/eng/2021/map.pdf",
+                  "size": 1829640,
+                  "type": "other",
+                  "type_name": "map.pdf",
+                  "paper_num": null,
+                  "md5": "6919e7a170a860c6162df4bf8d9ea885"
+                },
+                {
+                  "name": "p1.pdf",
+                  "path": "public/downloads/geog/dse/eng/2021/p1.pdf",
+                  "size": 11113224,
+                  "type": "paper",
+                  "type_name": "Paper 1",
+                  "paper_num": 1,
+                  "md5": "8001531a94763119ef7662d64d80a0dd"
+                },
+                {
+                  "name": "p2.pdf",
+                  "path": "public/downloads/geog/dse/eng/2021/p2.pdf",
+                  "size": 5329962,
+                  "type": "paper",
+                  "type_name": "Paper 2",
+                  "paper_num": 2,
+                  "md5": "a0c34568dccdaf6a994798323afa7819"
+                },
+                {
+                  "name": "per.pdf",
+                  "path": "public/downloads/geog/dse/eng/2021/per.pdf",
+                  "size": 1541412,
+                  "type": "report",
+                  "type_name": "Exam Report",
+                  "paper_num": null,
+                  "md5": "2182f46ad0c42ca5cb51cf748d8b2547"
+                }
+              ]
+            }
+          }
+        },
+        "2022": {
+          "display": "2022",
+          "languages": {
+            "chi": {
+              "name": "Chinese",
+              "files": [
+                {
+                  "name": "p1.pdf",
+                  "path": "public/downloads/geog/dse/chi/2022/p1.pdf",
+                  "size": 12766373,
+                  "type": "paper",
+                  "type_name": "Paper 1",
+                  "paper_num": 1,
+                  "md5": "00a59c05e7a421ba5a17a15f36e84bdd"
+                },
+                {
+                  "name": "p2.pdf",
+                  "path": "public/downloads/geog/dse/chi/2022/p2.pdf",
+                  "size": 6070779,
+                  "type": "paper",
+                  "type_name": "Paper 2",
+                  "paper_num": 2,
+                  "md5": "421c8f5eb9db05836cc9757d0571dede"
+                },
+                {
+                  "name": "per.pdf",
+                  "path": "public/downloads/geog/dse/chi/2022/per.pdf",
+                  "size": 1324221,
+                  "type": "report",
+                  "type_name": "Exam Report",
+                  "paper_num": null,
+                  "md5": "026da9b440dc778c3ffd511fba01de04"
+                }
+              ]
+            },
+            "eng": {
+              "name": "English",
+              "files": [
+                {
+                  "name": "ans.pdf",
+                  "path": "public/downloads/geog/dse/eng/2022/ans.pdf",
+                  "size": 12538344,
+                  "type": "marking",
+                  "type_name": "Marking Scheme",
+                  "paper_num": null,
+                  "md5": "5f3aecdeefba4ab9baf33d0e87628ec9"
+                },
+                {
+                  "name": "map.pdf",
+                  "path": "public/downloads/geog/dse/eng/2022/map.pdf",
+                  "size": 1968705,
+                  "type": "other",
+                  "type_name": "map.pdf",
+                  "paper_num": null,
+                  "md5": "dd7d194a8fa52710fc20b87a36dceb58"
+                },
+                {
+                  "name": "p1.pdf",
+                  "path": "public/downloads/geog/dse/eng/2022/p1.pdf",
+                  "size": 2428375,
+                  "type": "paper",
+                  "type_name": "Paper 1",
+                  "paper_num": 1,
+                  "md5": "27bd2a14fccecaf0bd654337a537d9ff"
+                },
+                {
+                  "name": "p2.pdf",
+                  "path": "public/downloads/geog/dse/eng/2022/p2.pdf",
+                  "size": 1551606,
+                  "type": "paper",
+                  "type_name": "Paper 2",
+                  "paper_num": 2,
+                  "md5": "b36fd1652f1556d80cc3d1a20811d6ea"
+                }
+              ]
+            }
+          }
+        },
+        "2023": {
+          "display": "2023",
+          "languages": {
+            "chi": {
+              "name": "Chinese",
+              "files": [
+                {
+                  "name": "ans.pdf",
+                  "path": "public/downloads/geog/dse/chi/2023/ans.pdf",
+                  "size": 1690052,
+                  "type": "marking",
+                  "type_name": "Marking Scheme",
+                  "paper_num": null,
+                  "md5": "5f775ffa8699ad1ed083d0355591c8f9"
+                },
+                {
+                  "name": "p1.pdf",
+                  "path": "public/downloads/geog/dse/chi/2023/p1.pdf",
+                  "size": 1721498,
+                  "type": "paper",
+                  "type_name": "Paper 1",
+                  "paper_num": 1,
+                  "md5": "381b9d1ac14cc11d37920184740a4674"
+                },
+                {
+                  "name": "p2.pdf",
+                  "path": "public/downloads/geog/dse/chi/2023/p2.pdf",
+                  "size": 1299553,
+                  "type": "paper",
+                  "type_name": "Paper 2",
+                  "paper_num": 2,
+                  "md5": "ba2b37f48054f54ebbaff2f0da075990"
+                },
+                {
+                  "name": "per.pdf",
+                  "path": "public/downloads/geog/dse/chi/2023/per.pdf",
+                  "size": 835831,
+                  "type": "report",
+                  "type_name": "Exam Report",
+                  "paper_num": null,
+                  "md5": "18cdbc01f64c7735b10402da31a2a56d"
+                }
+              ]
+            },
+            "eng": {
+              "name": "English",
+              "files": [
+                {
+                  "name": "ans.pdf",
+                  "path": "public/downloads/geog/dse/eng/2023/ans.pdf",
+                  "size": 1827935,
+                  "type": "marking",
+                  "type_name": "Marking Scheme",
+                  "paper_num": null,
+                  "md5": "bbd987688f4de1dbdbf11d4ac444c703"
+                },
+                {
+                  "name": "map.pdf",
+                  "path": "public/downloads/geog/dse/eng/2023/map.pdf",
+                  "size": 721604,
+                  "type": "other",
+                  "type_name": "map.pdf",
+                  "paper_num": null,
+                  "md5": "2ad1cfca20d041faf64198593e5153ca"
+                },
+                {
+                  "name": "p1.pdf",
+                  "path": "public/downloads/geog/dse/eng/2023/p1.pdf",
+                  "size": 28267833,
+                  "type": "paper",
+                  "type_name": "Paper 1",
+                  "paper_num": 1,
+                  "md5": "b08596f61beff0890235f640e2d6880d"
+                },
+                {
+                  "name": "p2.pdf",
+                  "path": "public/downloads/geog/dse/eng/2023/p2.pdf",
+                  "size": 13090335,
+                  "type": "paper",
+                  "type_name": "Paper 2",
+                  "paper_num": 2,
+                  "md5": "c7ffbb607a4f625256e1880723cb89e8"
+                },
+                {
+                  "name": "per.pdf",
+                  "path": "public/downloads/geog/dse/eng/2023/per.pdf",
+                  "size": 959648,
+                  "type": "report",
+                  "type_name": "Exam Report",
+                  "paper_num": null,
+                  "md5": "7aa35d8c5f9e44d14aa4fe138452aea9"
+                }
+              ]
+            }
+          }
+        },
+        "pp": {
+          "display": "Practice Paper",
+          "languages": {
+            "chi": {
+              "name": "Chinese",
+              "files": [
+                {
+                  "name": "ans.pdf",
+                  "path": "public/downloads/geog/dse/chi/pp/ans.pdf",
+                  "size": 746553,
+                  "type": "marking",
+                  "type_name": "Marking Scheme",
+                  "paper_num": null,
+                  "md5": "ef47dae1278722ffcc4bdbceca0b0796"
+                },
+                {
+                  "name": "p1.pdf",
+                  "path": "public/downloads/geog/dse/chi/pp/p1.pdf",
+                  "size": 1599969,
+                  "type": "paper",
+                  "type_name": "Paper 1",
+                  "paper_num": 1,
+                  "md5": "1c2496d59f8dd782dfda5c8e8e53cacd"
+                },
+                {
+                  "name": "p2.pdf",
+                  "path": "public/downloads/geog/dse/chi/pp/p2.pdf",
+                  "size": 1140159,
+                  "type": "paper",
+                  "type_name": "Paper 2",
+                  "paper_num": 2,
+                  "md5": "d87112ea5db80dc5dca5a2ecef408d6c"
+                },
+                {
+                  "name": "per.pdf",
+                  "path": "public/downloads/geog/dse/chi/pp/per.pdf",
+                  "size": 366801,
+                  "type": "report",
+                  "type_name": "Exam Report",
+                  "paper_num": null,
+                  "md5": "4a3d84c0bd67d1d61aa7677121cb0251"
+                }
+              ]
+            },
+            "eng": {
+              "name": "English",
+              "files": [
+                {
+                  "name": "ans.pdf",
+                  "path": "public/downloads/geog/dse/eng/pp/ans.pdf",
+                  "size": 561809,
+                  "type": "marking",
+                  "type_name": "Marking Scheme",
+                  "paper_num": null,
+                  "md5": "8ec58929cb670bfdfdec61a2f3173e10"
+                },
+                {
+                  "name": "p1.pdf",
+                  "path": "public/downloads/geog/dse/eng/pp/p1.pdf",
+                  "size": 1620476,
+                  "type": "paper",
+                  "type_name": "Paper 1",
+                  "paper_num": 1,
+                  "md5": "05ca23405d0794484acc9427881bd063"
+                },
+                {
+                  "name": "p2.pdf",
+                  "path": "public/downloads/geog/dse/eng/pp/p2.pdf",
+                  "size": 988376,
+                  "type": "paper",
+                  "type_name": "Paper 2",
+                  "paper_num": 2,
+                  "md5": "9e8d6afcbc4731897bf5346bbd97aa8f"
+                },
+                {
+                  "name": "per.pdf",
+                  "path": "public/downloads/geog/dse/eng/pp/per.pdf",
+                  "size": 266588,
+                  "type": "report",
+                  "type_name": "Exam Report",
+                  "paper_num": null,
+                  "md5": "e98ab53870dcbbc166154857b60f3720"
+                }
+              ]
+            }
+          }
+        },
+        "sp": {
+          "display": "Sample Paper",
+          "languages": {
+            "chi": {
+              "name": "Chinese",
+              "files": [
+                {
+                  "name": "p1.pdf",
+                  "path": "public/downloads/geog/dse/chi/sp/p1.pdf",
+                  "size": 3664461,
+                  "type": "paper",
+                  "type_name": "Paper 1",
+                  "paper_num": 1,
+                  "md5": "fa1b7f7ef2c890f5707ab17c4034c3b2"
+                },
+                {
+                  "name": "p2.pdf",
+                  "path": "public/downloads/geog/dse/chi/sp/p2.pdf",
+                  "size": 1462021,
+                  "type": "paper",
+                  "type_name": "Paper 2",
+                  "paper_num": 2,
+                  "md5": "313816fadaf2db323226047989c22295"
+                }
+              ]
+            },
+            "eng": {
+              "name": "English",
+              "files": [
+                {
+                  "name": "ans.pdf",
+                  "path": "public/downloads/geog/dse/eng/sp/ans.pdf",
+                  "size": 770959,
+                  "type": "marking",
+                  "type_name": "Marking Scheme",
+                  "paper_num": null,
+                  "md5": "0d35119b3bf197cc479b388549efa8e5"
+                },
+                {
+                  "name": "p1.pdf",
+                  "path": "public/downloads/geog/dse/eng/sp/p1.pdf",
+                  "size": 2904497,
+                  "type": "paper",
+                  "type_name": "Paper 1",
+                  "paper_num": 1,
+                  "md5": "10aa31db61af1581661c282cef84cca0"
+                },
+                {
+                  "name": "p2.pdf",
+                  "path": "public/downloads/geog/dse/eng/sp/p2.pdf",
+                  "size": 1209325,
+                  "type": "paper",
+                  "type_name": "Paper 2",
+                  "paper_num": 2,
+                  "md5": "6732ffaea86522870bfd4afa1b620362"
+                }
+              ]
+            }
+          }
+        }
+      }
+    }
+  },
+  "file_count": 118,
+  "total_size": 867961210,
+  "years_summary": {}
+}

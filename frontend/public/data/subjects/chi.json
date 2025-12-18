@@ -1,0 +1,2419 @@
+{
+  "key": "chi",
+  "name": "Chinese",
+  "name_zh": "中文",
+  "category": "Core",
+  "icon": "fa-language",
+  "color": "red",
+  "exams": {
+    "al": {
+      "name": "HKAL",
+      "full_name": "香港高級程度會考",
+      "years": {
+        "1994al": {
+          "display": "1994 AL",
+          "languages": {
+            "chi": {
+              "name": "Chinese",
+              "files": [
+                {
+                  "name": "ans.pdf",
+                  "path": "public/downloads/chi/al/chi/1994al/ans.pdf",
+                  "size": 2146450,
+                  "type": "marking",
+                  "type_name": "Marking Scheme",
+                  "paper_num": null,
+                  "md5": "1aa48fc50e9a17a945fbce1ac6826749"
+                },
+                {
+                  "name": "p1a.pdf",
+                  "path": "public/downloads/chi/al/chi/1994al/p1a.pdf",
+                  "size": 264114,
+                  "type": "paper",
+                  "type_name": "Paper 1A",
+                  "paper_num": 1,
+                  "md5": "b6d170cecae540dc38edcca42552dd1e"
+                },
+                {
+                  "name": "p1b.pdf",
+                  "path": "public/downloads/chi/al/chi/1994al/p1b.pdf",
+                  "size": 901615,
+                  "type": "paper",
+                  "type_name": "Paper 1B",
+                  "paper_num": 1,
+                  "md5": "24cdb4bbdd46480b72b635661c8316f9"
+                },
+                {
+                  "name": "p2.pdf",
+                  "path": "public/downloads/chi/al/chi/1994al/p2.pdf",
+                  "size": 1111023,
+                  "type": "paper",
+                  "type_name": "Paper 2",
+                  "paper_num": 2,
+                  "md5": "3113e9502f4ec1435721a48cdd2c089e"
+                },
+                {
+                  "name": "p3.pdf",
+                  "path": "public/downloads/chi/al/chi/1994al/p3.pdf",
+                  "size": 770017,
+                  "type": "paper",
+                  "type_name": "Paper 3",
+                  "paper_num": 3,
+                  "md5": "2283b1ef81063b66acbdcc78ed142ac4"
+                },
+                {
+                  "name": "p4.pdf",
+                  "path": "public/downloads/chi/al/chi/1994al/p4.pdf",
+                  "size": 208358,
+                  "type": "paper",
+                  "type_name": "Paper 4",
+                  "paper_num": 4,
+                  "md5": "4be6905f9c458767cafe30b36c5433f2"
+                }
+              ]
+            }
+          }
+        },
+        "1995al": {
+          "display": "1995 AL",
+          "languages": {
+            "chi": {
+              "name": "Chinese",
+              "files": [
+                {
+                  "name": "ans.pdf",
+                  "path": "public/downloads/chi/al/chi/1995al/ans.pdf",
+                  "size": 3477023,
+                  "type": "marking",
+                  "type_name": "Marking Scheme",
+                  "paper_num": null,
+                  "md5": "d40b88d5ffedf7c8bc9e5b453929dda2"
+                },
+                {
+                  "name": "p1a.pdf",
+                  "path": "public/downloads/chi/al/chi/1995al/p1a.pdf",
+                  "size": 338572,
+                  "type": "paper",
+                  "type_name": "Paper 1A",
+                  "paper_num": 1,
+                  "md5": "31bee7df911921c7efdbb2aabf788706"
+                },
+                {
+                  "name": "p1b.pdf",
+                  "path": "public/downloads/chi/al/chi/1995al/p1b.pdf",
+                  "size": 387674,
+                  "type": "paper",
+                  "type_name": "Paper 1B",
+                  "paper_num": 1,
+                  "md5": "6b06a83fb0362bcbc03746d460672d4b"
+                },
+                {
+                  "name": "p2.pdf",
+                  "path": "public/downloads/chi/al/chi/1995al/p2.pdf",
+                  "size": 649776,
+                  "type": "paper",
+                  "type_name": "Paper 2",
+                  "paper_num": 2,
+                  "md5": "a5618fa60d3a96df5f4c2a8a85d8a7d1"
+                },
+                {
+                  "name": "p3.pdf",
+                  "path": "public/downloads/chi/al/chi/1995al/p3.pdf",
+                  "size": 455032,
+                  "type": "paper",
+                  "type_name": "Paper 3",
+                  "paper_num": 3,
+                  "md5": "dd8f35607dd398c31efb94e431338978"
+                },
+                {
+                  "name": "p4.pdf",
+                  "path": "public/downloads/chi/al/chi/1995al/p4.pdf",
+                  "size": 251508,
+                  "type": "paper",
+                  "type_name": "Paper 4",
+                  "paper_num": 4,
+                  "md5": "62df7975e57745aa6acd93bf4847945c"
+                }
+              ]
+            }
+          }
+        },
+        "1996al": {
+          "display": "1996 AL",
+          "languages": {
+            "chi": {
+              "name": "Chinese",
+              "files": [
+                {
+                  "name": "ans.pdf",
+                  "path": "public/downloads/chi/al/chi/1996al/ans.pdf",
+                  "size": 4558114,
+                  "type": "marking",
+                  "type_name": "Marking Scheme",
+                  "paper_num": null,
+                  "md5": "9a07549d44e575fe6f8912269c4dadc6"
+                },
+                {
+                  "name": "p1a.pdf",
+                  "path": "public/downloads/chi/al/chi/1996al/p1a.pdf",
+                  "size": 571327,
+                  "type": "paper",
+                  "type_name": "Paper 1A",
+                  "paper_num": 1,
+                  "md5": "e41c05b7147bf722c4aea75e81ea1638"
+                },
+                {
+                  "name": "p1b.pdf",
+                  "path": "public/downloads/chi/al/chi/1996al/p1b.pdf",
+                  "size": 351925,
+                  "type": "paper",
+                  "type_name": "Paper 1B",
+                  "paper_num": 1,
+                  "md5": "c3428a70c7502aa89008d6cc38dac4d9"
+                },
+                {
+                  "name": "p2.pdf",
+                  "path": "public/downloads/chi/al/chi/1996al/p2.pdf",
+                  "size": 930847,
+                  "type": "paper",
+                  "type_name": "Paper 2",
+                  "paper_num": 2,
+                  "md5": "4fe7783ecb64cb0e2b592e071698299a"
+                },
+                {
+                  "name": "p3.pdf",
+                  "path": "public/downloads/chi/al/chi/1996al/p3.pdf",
+                  "size": 3207918,
+                  "type": "paper",
+                  "type_name": "Paper 3",
+                  "paper_num": 3,
+                  "md5": "a0faad36213a3621e38c80c2822af144"
+                },
+                {
+                  "name": "p4.pdf",
+                  "path": "public/downloads/chi/al/chi/1996al/p4.pdf",
+                  "size": 174054,
+                  "type": "paper",
+                  "type_name": "Paper 4",
+                  "paper_num": 4,
+                  "md5": "894d741443acdea56a306e078442ec6f"
+                }
+              ]
+            }
+          }
+        },
+        "1997al": {
+          "display": "1997 AL",
+          "languages": {
+            "chi": {
+              "name": "Chinese",
+              "files": [
+                {
+                  "name": "ans.pdf",
+                  "path": "public/downloads/chi/al/chi/1997al/ans.pdf",
+                  "size": 1651071,
+                  "type": "marking",
+                  "type_name": "Marking Scheme",
+                  "paper_num": null,
+                  "md5": "817296b48ede20dd2a7a2f1fea2069bc"
+                },
+                {
+                  "name": "p1a.pdf",
+                  "path": "public/downloads/chi/al/chi/1997al/p1a.pdf",
+                  "size": 357722,
+                  "type": "paper",
+                  "type_name": "Paper 1A",
+                  "paper_num": 1,
+                  "md5": "6d4635246cf336e2ad09809fa68908a6"
+                },
+                {
+                  "name": "p1b.pdf",
+                  "path": "public/downloads/chi/al/chi/1997al/p1b.pdf",
+                  "size": 285762,
+                  "type": "paper",
+                  "type_name": "Paper 1B",
+                  "paper_num": 1,
+                  "md5": "13cf63770e9f0df226af64242ebb6809"
+                },
+                {
+                  "name": "p2.pdf",
+                  "path": "public/downloads/chi/al/chi/1997al/p2.pdf",
+                  "size": 650785,
+                  "type": "paper",
+                  "type_name": "Paper 2",
+                  "paper_num": 2,
+                  "md5": "6ae12b9dae19daa9a80ec52ead9e8a72"
+                },
+                {
+                  "name": "p3.pdf",
+                  "path": "public/downloads/chi/al/chi/1997al/p3.pdf",
+                  "size": 268473,
+                  "type": "paper",
+                  "type_name": "Paper 3",
+                  "paper_num": 3,
+                  "md5": "a5a828b4e00c0344fcc9f9b494ec7d0f"
+                },
+                {
+                  "name": "p4.pdf",
+                  "path": "public/downloads/chi/al/chi/1997al/p4.pdf",
+                  "size": 240584,
+                  "type": "paper",
+                  "type_name": "Paper 4",
+                  "paper_num": 4,
+                  "md5": "8f1972f4144ee47c468c2847e183ac0a"
+                }
+              ]
+            }
+          }
+        },
+        "1998al": {
+          "display": "1998 AL",
+          "languages": {
+            "chi": {
+              "name": "Chinese",
+              "files": [
+                {
+                  "name": "ans.pdf",
+                  "path": "public/downloads/chi/al/chi/1998al/ans.pdf",
+                  "size": 2850433,
+                  "type": "marking",
+                  "type_name": "Marking Scheme",
+                  "paper_num": null,
+                  "md5": "a881d576392ed9c01a71865b30623832"
+                },
+                {
+                  "name": "p1a.pdf",
+                  "path": "public/downloads/chi/al/chi/1998al/p1a.pdf",
+                  "size": 633722,
+                  "type": "paper",
+                  "type_name": "Paper 1A",
+                  "paper_num": 1,
+                  "md5": "fefc2aee41c9c25b754dd11dd7de73b4"
+                },
+                {
+                  "name": "p1b.pdf",
+                  "path": "public/downloads/chi/al/chi/1998al/p1b.pdf",
+                  "size": 1170677,
+                  "type": "paper",
+                  "type_name": "Paper 1B",
+                  "paper_num": 1,
+                  "md5": "311b3c59df2e41b113f25faea55209c7"
+                },
+                {
+                  "name": "p2.pdf",
+                  "path": "public/downloads/chi/al/chi/1998al/p2.pdf",
+                  "size": 1072879,
+                  "type": "paper",
+                  "type_name": "Paper 2",
+                  "paper_num": 2,
+                  "md5": "3ee6b14ed9cc97d41ea64a7725971924"
+                },
+                {
+                  "name": "p3.pdf",
+                  "path": "public/downloads/chi/al/chi/1998al/p3.pdf",
+                  "size": 252365,
+                  "type": "paper",
+                  "type_name": "Paper 3",
+                  "paper_num": 3,
+                  "md5": "8935d9a3e438f0fb0587843495ff95ab"
+                },
+                {
+                  "name": "p4.pdf",
+                  "path": "public/downloads/chi/al/chi/1998al/p4.pdf",
+                  "size": 216536,
+                  "type": "paper",
+                  "type_name": "Paper 4",
+                  "paper_num": 4,
+                  "md5": "efecf43e298b87b519ad3e59382c263e"
+                }
+              ]
+            }
+          }
+        },
+        "1999al": {
+          "display": "1999 AL",
+          "languages": {
+            "chi": {
+              "name": "Chinese",
+              "files": [
+                {
+                  "name": "ans.pdf",
+                  "path": "public/downloads/chi/al/chi/1999al/ans.pdf",
+                  "size": 1065535,
+                  "type": "marking",
+                  "type_name": "Marking Scheme",
+                  "paper_num": null,
+                  "md5": "6869aa81a5d093426ac95953aa8ad6f6"
+                },
+                {
+                  "name": "p1a.pdf",
+                  "path": "public/downloads/chi/al/chi/1999al/p1a.pdf",
+                  "size": 352648,
+                  "type": "paper",
+                  "type_name": "Paper 1A",
+                  "paper_num": 1,
+                  "md5": "bdfb05bf227354c9cefe6d6d5ae480a7"
+                },
+                {
+                  "name": "p1b.pdf",
+                  "path": "public/downloads/chi/al/chi/1999al/p1b.pdf",
+                  "size": 627146,
+                  "type": "paper",
+                  "type_name": "Paper 1B",
+                  "paper_num": 1,
+                  "md5": "831dc4f14e7703a5698e4faf0c40b268"
+                },
+                {
+                  "name": "p2.pdf",
+                  "path": "public/downloads/chi/al/chi/1999al/p2.pdf",
+                  "size": 386416,
+                  "type": "paper",
+                  "type_name": "Paper 2",
+                  "paper_num": 2,
+                  "md5": "720a415b9213a6341a1daf0a8ef92eb4"
+                },
+                {
+                  "name": "p3.pdf",
+                  "path": "public/downloads/chi/al/chi/1999al/p3.pdf",
+                  "size": 582759,
+                  "type": "paper",
+                  "type_name": "Paper 3",
+                  "paper_num": 3,
+                  "md5": "0c7b11115a307835cb86cc1d643b7eb6"
+                },
+                {
+                  "name": "p4.pdf",
+                  "path": "public/downloads/chi/al/chi/1999al/p4.pdf",
+                  "size": 345901,
+                  "type": "paper",
+                  "type_name": "Paper 4",
+                  "paper_num": 4,
+                  "md5": "f99ac9c959526013f63a2a74fd9d4186"
+                }
+              ]
+            }
+          }
+        },
+        "2000al": {
+          "display": "2000 AL",
+          "languages": {
+            "chi": {
+              "name": "Chinese",
+              "files": [
+                {
+                  "name": "ans.pdf",
+                  "path": "public/downloads/chi/al/chi/2000al/ans.pdf",
+                  "size": 4578594,
+                  "type": "marking",
+                  "type_name": "Marking Scheme",
+                  "paper_num": null,
+                  "md5": "661df55dd4a6ecce58ca8643ed847c83"
+                },
+                {
+                  "name": "p1a.pdf",
+                  "path": "public/downloads/chi/al/chi/2000al/p1a.pdf",
+                  "size": 530811,
+                  "type": "paper",
+                  "type_name": "Paper 1A",
+                  "paper_num": 1,
+                  "md5": "f252868f44b6ee5027c7b62ed2d7b804"
+                },
+                {
+                  "name": "p1b.pdf",
+                  "path": "public/downloads/chi/al/chi/2000al/p1b.pdf",
+                  "size": 1880745,
+                  "type": "paper",
+                  "type_name": "Paper 1B",
+                  "paper_num": 1,
+                  "md5": "625ca7f1df56fe0dfe3ea06237e22013"
+                },
+                {
+                  "name": "p2.pdf",
+                  "path": "public/downloads/chi/al/chi/2000al/p2.pdf",
+                  "size": 844720,
+                  "type": "paper",
+                  "type_name": "Paper 2",
+                  "paper_num": 2,
+                  "md5": "1c2280da65e00da0666f33c5b44be373"
+                },
+                {
+                  "name": "p3.pdf",
+                  "path": "public/downloads/chi/al/chi/2000al/p3.pdf",
+                  "size": 345726,
+                  "type": "paper",
+                  "type_name": "Paper 3",
+                  "paper_num": 3,
+                  "md5": "4d1a4f6d4e8b9a8bde726a849496f4ea"
+                },
+                {
+                  "name": "p4.pdf",
+                  "path": "public/downloads/chi/al/chi/2000al/p4.pdf",
+                  "size": 401614,
+                  "type": "paper",
+                  "type_name": "Paper 4",
+                  "paper_num": 4,
+                  "md5": "907b5f508b6c466953cd40d107465ecb"
+                }
+              ]
+            }
+          }
+        },
+        "2001al": {
+          "display": "2001 AL",
+          "languages": {
+            "chi": {
+              "name": "Chinese",
+              "files": [
+                {
+                  "name": "ans.pdf",
+                  "path": "public/downloads/chi/al/chi/2001al/ans.pdf",
+                  "size": 5996294,
+                  "type": "marking",
+                  "type_name": "Marking Scheme",
+                  "paper_num": null,
+                  "md5": "84419903c0dae25d707d570170823485"
+                },
+                {
+                  "name": "p1a.pdf",
+                  "path": "public/downloads/chi/al/chi/2001al/p1a.pdf",
+                  "size": 605196,
+                  "type": "paper",
+                  "type_name": "Paper 1A",
+                  "paper_num": 1,
+                  "md5": "4afbbed448d9751eb1a4d459f272b39f"
+                },
+                {
+                  "name": "p1b.pdf",
+                  "path": "public/downloads/chi/al/chi/2001al/p1b.pdf",
+                  "size": 1730241,
+                  "type": "paper",
+                  "type_name": "Paper 1B",
+                  "paper_num": 1,
+                  "md5": "67a495ef21f892a3ff2d2c0a7421e650"
+                },
+                {
+                  "name": "p2.pdf",
+                  "path": "public/downloads/chi/al/chi/2001al/p2.pdf",
+                  "size": 1333589,
+                  "type": "paper",
+                  "type_name": "Paper 2",
+                  "paper_num": 2,
+                  "md5": "ef8d1857fec5841359dc179ee941a026"
+                },
+                {
+                  "name": "p3.pdf",
+                  "path": "public/downloads/chi/al/chi/2001al/p3.pdf",
+                  "size": 438858,
+                  "type": "paper",
+                  "type_name": "Paper 3",
+                  "paper_num": 3,
+                  "md5": "261ed5ea4ab3c6c03e0a27692c761ccf"
+                },
+                {
+                  "name": "p4.pdf",
+                  "path": "public/downloads/chi/al/chi/2001al/p4.pdf",
+                  "size": 834535,
+                  "type": "paper",
+                  "type_name": "Paper 4",
+                  "paper_num": 4,
+                  "md5": "d876850746d4c529d7f47bfa7fa5d8a8"
+                }
+              ]
+            }
+          }
+        },
+        "2002al": {
+          "display": "2002 AL",
+          "languages": {
+            "chi": {
+              "name": "Chinese",
+              "files": [
+                {
+                  "name": "ans.pdf",
+                  "path": "public/downloads/chi/al/chi/2002al/ans.pdf",
+                  "size": 2349685,
+                  "type": "marking",
+                  "type_name": "Marking Scheme",
+                  "paper_num": null,
+                  "md5": "8ecaa1771041590d537ad69e32ec4ee2"
+                },
+                {
+                  "name": "p1a.pdf",
+                  "path": "public/downloads/chi/al/chi/2002al/p1a.pdf",
+                  "size": 918208,
+                  "type": "paper",
+                  "type_name": "Paper 1A",
+                  "paper_num": 1,
+                  "md5": "81a46d1fe79b2d4a7c6b9ce1c23ebf4e"
+                },
+                {
+                  "name": "p1b.pdf",
+                  "path": "public/downloads/chi/al/chi/2002al/p1b.pdf",
+                  "size": 2219550,
+                  "type": "paper",
+                  "type_name": "Paper 1B",
+                  "paper_num": 1,
+                  "md5": "1aaa1c2705412161b74880a0bea0af67"
+                },
+                {
+                  "name": "p2.pdf",
+                  "path": "public/downloads/chi/al/chi/2002al/p2.pdf",
+                  "size": 934373,
+                  "type": "paper",
+                  "type_name": "Paper 2",
+                  "paper_num": 2,
+                  "md5": "032f7c490991cf6eb42a348387c2cd1f"
+                },
+                {
+                  "name": "p3.pdf",
+                  "path": "public/downloads/chi/al/chi/2002al/p3.pdf",
+                  "size": 530088,
+                  "type": "paper",
+                  "type_name": "Paper 3",
+                  "paper_num": 3,
+                  "md5": "71fb4ec436f502e51d4f4188febd6949"
+                },
+                {
+                  "name": "p4.pdf",
+                  "path": "public/downloads/chi/al/chi/2002al/p4.pdf",
+                  "size": 381129,
+                  "type": "paper",
+                  "type_name": "Paper 4",
+                  "paper_num": 4,
+                  "md5": "8e5ce1c9261bc54dee890c0576f97af8"
+                }
+              ]
+            }
+          }
+        },
+        "2003al": {
+          "display": "2003 AL",
+          "languages": {
+            "chi": {
+              "name": "Chinese",
+              "files": [
+                {
+                  "name": "ans.pdf",
+                  "path": "public/downloads/chi/al/chi/2003al/ans.pdf",
+                  "size": 664846,
+                  "type": "marking",
+                  "type_name": "Marking Scheme",
+                  "paper_num": null,
+                  "md5": "03fe764ec44b790346bd1ef5580d4aac"
+                },
+                {
+                  "name": "p1a.pdf",
+                  "path": "public/downloads/chi/al/chi/2003al/p1a.pdf",
+                  "size": 184547,
+                  "type": "paper",
+                  "type_name": "Paper 1A",
+                  "paper_num": 1,
+                  "md5": "bf3f04aee05f66049b46259b712a5191"
+                },
+                {
+                  "name": "p1b.pdf",
+                  "path": "public/downloads/chi/al/chi/2003al/p1b.pdf",
+                  "size": 1429929,
+                  "type": "paper",
+                  "type_name": "Paper 1B",
+                  "paper_num": 1,
+                  "md5": "538af9d466987aaf21cfcf7d070da87c"
+                },
+                {
+                  "name": "p2.pdf",
+                  "path": "public/downloads/chi/al/chi/2003al/p2.pdf",
+                  "size": 389145,
+                  "type": "paper",
+                  "type_name": "Paper 2",
+                  "paper_num": 2,
+                  "md5": "91d301bb5a41faec779ab58788cb7df4"
+                },
+                {
+                  "name": "p3.pdf",
+                  "path": "public/downloads/chi/al/chi/2003al/p3.pdf",
+                  "size": 287614,
+                  "type": "paper",
+                  "type_name": "Paper 3",
+                  "paper_num": 3,
+                  "md5": "c3ae58bd1ca3ecb0c1cfac265b3266ae"
+                },
+                {
+                  "name": "p4.pdf",
+                  "path": "public/downloads/chi/al/chi/2003al/p4.pdf",
+                  "size": 200054,
+                  "type": "paper",
+                  "type_name": "Paper 4",
+                  "paper_num": 4,
+                  "md5": "2f1f852d3552006ec37a9c626259b083"
+                }
+              ]
+            }
+          }
+        },
+        "2004al": {
+          "display": "2004 AL",
+          "languages": {
+            "chi": {
+              "name": "Chinese",
+              "files": [
+                {
+                  "name": "ans.pdf",
+                  "path": "public/downloads/chi/al/chi/2004al/ans.pdf",
+                  "size": 541854,
+                  "type": "marking",
+                  "type_name": "Marking Scheme",
+                  "paper_num": null,
+                  "md5": "2db6696c4185d1aa0205c3ebca417168"
+                },
+                {
+                  "name": "p1a.pdf",
+                  "path": "public/downloads/chi/al/chi/2004al/p1a.pdf",
+                  "size": 440284,
+                  "type": "paper",
+                  "type_name": "Paper 1A",
+                  "paper_num": 1,
+                  "md5": "280b127fe8ee787ac908a3fb35c61d73"
+                },
+                {
+                  "name": "p1b.pdf",
+                  "path": "public/downloads/chi/al/chi/2004al/p1b.pdf",
+                  "size": 1008812,
+                  "type": "paper",
+                  "type_name": "Paper 1B",
+                  "paper_num": 1,
+                  "md5": "c0a9268e063117701aab9d76f459f0e0"
+                },
+                {
+                  "name": "p2.pdf",
+                  "path": "public/downloads/chi/al/chi/2004al/p2.pdf",
+                  "size": 391483,
+                  "type": "paper",
+                  "type_name": "Paper 2",
+                  "paper_num": 2,
+                  "md5": "5e3d63ba84b0061c3249cd69a26afb90"
+                },
+                {
+                  "name": "p3.pdf",
+                  "path": "public/downloads/chi/al/chi/2004al/p3.pdf",
+                  "size": 440414,
+                  "type": "paper",
+                  "type_name": "Paper 3",
+                  "paper_num": 3,
+                  "md5": "6c372a7b61373d33913db695d3ff8201"
+                },
+                {
+                  "name": "p4.pdf",
+                  "path": "public/downloads/chi/al/chi/2004al/p4.pdf",
+                  "size": 244991,
+                  "type": "paper",
+                  "type_name": "Paper 4",
+                  "paper_num": 4,
+                  "md5": "d9c66b97ee035c594bd5f8cef1d216a4"
+                }
+              ]
+            }
+          }
+        },
+        "2005al": {
+          "display": "2005 AL",
+          "languages": {
+            "chi": {
+              "name": "Chinese",
+              "files": [
+                {
+                  "name": "ans.pdf",
+                  "path": "public/downloads/chi/al/chi/2005al/ans.pdf",
+                  "size": 908490,
+                  "type": "marking",
+                  "type_name": "Marking Scheme",
+                  "paper_num": null,
+                  "md5": "68d9dd05de5f17ee12cf4dc22628ffbb"
+                },
+                {
+                  "name": "p1a.pdf",
+                  "path": "public/downloads/chi/al/chi/2005al/p1a.pdf",
+                  "size": 512625,
+                  "type": "paper",
+                  "type_name": "Paper 1A",
+                  "paper_num": 1,
+                  "md5": "0c30d79212ee133eae3ed49a990df915"
+                },
+                {
+                  "name": "p1b.pdf",
+                  "path": "public/downloads/chi/al/chi/2005al/p1b.pdf",
+                  "size": 691145,
+                  "type": "paper",
+                  "type_name": "Paper 1B",
+                  "paper_num": 1,
+                  "md5": "544043f6d6c92252e8df0bed8522027d"
+                },
+                {
+                  "name": "p2.pdf",
+                  "path": "public/downloads/chi/al/chi/2005al/p2.pdf",
+                  "size": 393316,
+                  "type": "paper",
+                  "type_name": "Paper 2",
+                  "paper_num": 2,
+                  "md5": "4f028342153e9d47306116b06056a335"
+                },
+                {
+                  "name": "p3.pdf",
+                  "path": "public/downloads/chi/al/chi/2005al/p3.pdf",
+                  "size": 480219,
+                  "type": "paper",
+                  "type_name": "Paper 3",
+                  "paper_num": 3,
+                  "md5": "be937b281025817348a0d5bf3b7845eb"
+                },
+                {
+                  "name": "p4.pdf",
+                  "path": "public/downloads/chi/al/chi/2005al/p4.pdf",
+                  "size": 414465,
+                  "type": "paper",
+                  "type_name": "Paper 4",
+                  "paper_num": 4,
+                  "md5": "2faba6110f13b740710a8160a791790f"
+                }
+              ]
+            }
+          }
+        },
+        "2006al": {
+          "display": "2006 AL",
+          "languages": {
+            "chi": {
+              "name": "Chinese",
+              "files": [
+                {
+                  "name": "ans.pdf",
+                  "path": "public/downloads/chi/al/chi/2006al/ans.pdf",
+                  "size": 1353538,
+                  "type": "marking",
+                  "type_name": "Marking Scheme",
+                  "paper_num": null,
+                  "md5": "06a52bf6d3bfb8815cf769f1f03dade0"
+                },
+                {
+                  "name": "p1a.pdf",
+                  "path": "public/downloads/chi/al/chi/2006al/p1a.pdf",
+                  "size": 541475,
+                  "type": "paper",
+                  "type_name": "Paper 1A",
+                  "paper_num": 1,
+                  "md5": "f77dd25150b845cf9e2be35e5ef7452a"
+                },
+                {
+                  "name": "p1b.pdf",
+                  "path": "public/downloads/chi/al/chi/2006al/p1b.pdf",
+                  "size": 1284967,
+                  "type": "paper",
+                  "type_name": "Paper 1B",
+                  "paper_num": 1,
+                  "md5": "4581d572eeca2d030964f4ee7792fd6e"
+                },
+                {
+                  "name": "p2.pdf",
+                  "path": "public/downloads/chi/al/chi/2006al/p2.pdf",
+                  "size": 334938,
+                  "type": "paper",
+                  "type_name": "Paper 2",
+                  "paper_num": 2,
+                  "md5": "927131c65bfa73a79343a166fb270992"
+                },
+                {
+                  "name": "p3.pdf",
+                  "path": "public/downloads/chi/al/chi/2006al/p3.pdf",
+                  "size": 544514,
+                  "type": "paper",
+                  "type_name": "Paper 3",
+                  "paper_num": 3,
+                  "md5": "b50a520b7624a3149fa9a6d9ee0edabc"
+                },
+                {
+                  "name": "p4.pdf",
+                  "path": "public/downloads/chi/al/chi/2006al/p4.pdf",
+                  "size": 244140,
+                  "type": "paper",
+                  "type_name": "Paper 4",
+                  "paper_num": 4,
+                  "md5": "39364c1cd2f94de0388a4e2c60f5fe7a"
+                }
+              ]
+            }
+          }
+        },
+        "2007al": {
+          "display": "2007 AL",
+          "languages": {
+            "chi": {
+              "name": "Chinese",
+              "files": [
+                {
+                  "name": "ans.pdf",
+                  "path": "public/downloads/chi/al/chi/2007al/ans.pdf",
+                  "size": 884076,
+                  "type": "marking",
+                  "type_name": "Marking Scheme",
+                  "paper_num": null,
+                  "md5": "9ac23aa8d2fee7f54f945c9f29839026"
+                },
+                {
+                  "name": "p1a.pdf",
+                  "path": "public/downloads/chi/al/chi/2007al/p1a.pdf",
+                  "size": 355168,
+                  "type": "paper",
+                  "type_name": "Paper 1A",
+                  "paper_num": 1,
+                  "md5": "f33567ec88dece0c9169e5bfe0a64738"
+                },
+                {
+                  "name": "p1b.pdf",
+                  "path": "public/downloads/chi/al/chi/2007al/p1b.pdf",
+                  "size": 818936,
+                  "type": "paper",
+                  "type_name": "Paper 1B",
+                  "paper_num": 1,
+                  "md5": "b330674ec941809c2c77c96b0f3b69e1"
+                },
+                {
+                  "name": "p2.pdf",
+                  "path": "public/downloads/chi/al/chi/2007al/p2.pdf",
+                  "size": 370404,
+                  "type": "paper",
+                  "type_name": "Paper 2",
+                  "paper_num": 2,
+                  "md5": "ee3d835d9fda9893b19fdb7342bad203"
+                },
+                {
+                  "name": "p3.pdf",
+                  "path": "public/downloads/chi/al/chi/2007al/p3.pdf",
+                  "size": 579415,
+                  "type": "paper",
+                  "type_name": "Paper 3",
+                  "paper_num": 3,
+                  "md5": "71ffcf7c495fecc5ce9e8b027c614090"
+                },
+                {
+                  "name": "p4.pdf",
+                  "path": "public/downloads/chi/al/chi/2007al/p4.pdf",
+                  "size": 334066,
+                  "type": "paper",
+                  "type_name": "Paper 4",
+                  "paper_num": 4,
+                  "md5": "ab6656dc2ca23ce4a8be3771aaf25304"
+                }
+              ]
+            }
+          }
+        },
+        "2008al": {
+          "display": "2008 AL",
+          "languages": {
+            "chi": {
+              "name": "Chinese",
+              "files": [
+                {
+                  "name": "ans.pdf",
+                  "path": "public/downloads/chi/al/chi/2008al/ans.pdf",
+                  "size": 1334460,
+                  "type": "marking",
+                  "type_name": "Marking Scheme",
+                  "paper_num": null,
+                  "md5": "7ae1cc2ad45d3878771a03994370895e"
+                },
+                {
+                  "name": "p1a.pdf",
+                  "path": "public/downloads/chi/al/chi/2008al/p1a.pdf",
+                  "size": 586080,
+                  "type": "paper",
+                  "type_name": "Paper 1A",
+                  "paper_num": 1,
+                  "md5": "0e370e363c2e068ecbe65a38ce8b30b4"
+                },
+                {
+                  "name": "p1b.pdf",
+                  "path": "public/downloads/chi/al/chi/2008al/p1b.pdf",
+                  "size": 880555,
+                  "type": "paper",
+                  "type_name": "Paper 1B",
+                  "paper_num": 1,
+                  "md5": "c448b467e14992491a164b2f087a6926"
+                },
+                {
+                  "name": "p2.pdf",
+                  "path": "public/downloads/chi/al/chi/2008al/p2.pdf",
+                  "size": 1006244,
+                  "type": "paper",
+                  "type_name": "Paper 2",
+                  "paper_num": 2,
+                  "md5": "b95e3e5916c594c48e8f8a38db342cb3"
+                },
+                {
+                  "name": "p3.pdf",
+                  "path": "public/downloads/chi/al/chi/2008al/p3.pdf",
+                  "size": 478665,
+                  "type": "paper",
+                  "type_name": "Paper 3",
+                  "paper_num": 3,
+                  "md5": "0e908284de069ea1d728ce6807224246"
+                },
+                {
+                  "name": "p4.pdf",
+                  "path": "public/downloads/chi/al/chi/2008al/p4.pdf",
+                  "size": 275826,
+                  "type": "paper",
+                  "type_name": "Paper 4",
+                  "paper_num": 4,
+                  "md5": "1f918b5bdcab37d443d785589b49da53"
+                }
+              ]
+            }
+          }
+        },
+        "2009al": {
+          "display": "2009 AL",
+          "languages": {
+            "chi": {
+              "name": "Chinese",
+              "files": [
+                {
+                  "name": "ans.pdf",
+                  "path": "public/downloads/chi/al/chi/2009al/ans.pdf",
+                  "size": 727389,
+                  "type": "marking",
+                  "type_name": "Marking Scheme",
+                  "paper_num": null,
+                  "md5": "c9a125708a85ea2186e42a8a5dfdcdcd"
+                },
+                {
+                  "name": "p1a.pdf",
+                  "path": "public/downloads/chi/al/chi/2009al/p1a.pdf",
+                  "size": 302104,
+                  "type": "paper",
+                  "type_name": "Paper 1A",
+                  "paper_num": 1,
+                  "md5": "5a3d1d5e8d4bcb3b945ffe49f9612d8a"
+                },
+                {
+                  "name": "p1b.pdf",
+                  "path": "public/downloads/chi/al/chi/2009al/p1b.pdf",
+                  "size": 590885,
+                  "type": "paper",
+                  "type_name": "Paper 1B",
+                  "paper_num": 1,
+                  "md5": "c03090f5252602942130b840a01e69d8"
+                },
+                {
+                  "name": "p2.pdf",
+                  "path": "public/downloads/chi/al/chi/2009al/p2.pdf",
+                  "size": 363301,
+                  "type": "paper",
+                  "type_name": "Paper 2",
+                  "paper_num": 2,
+                  "md5": "a667f4be45f731625ed4fe10fd2a47b4"
+                },
+                {
+                  "name": "p3.pdf",
+                  "path": "public/downloads/chi/al/chi/2009al/p3.pdf",
+                  "size": 389394,
+                  "type": "paper",
+                  "type_name": "Paper 3",
+                  "paper_num": 3,
+                  "md5": "44ca22ccb62c971036103202cff7094e"
+                },
+                {
+                  "name": "p4.pdf",
+                  "path": "public/downloads/chi/al/chi/2009al/p4.pdf",
+                  "size": 265672,
+                  "type": "paper",
+                  "type_name": "Paper 4",
+                  "paper_num": 4,
+                  "md5": "ea409b15df1036d927cb1132d0dbbd0a"
+                }
+              ]
+            }
+          }
+        },
+        "2010al": {
+          "display": "2010 AL",
+          "languages": {
+            "chi": {
+              "name": "Chinese",
+              "files": [
+                {
+                  "name": "ans.pdf",
+                  "path": "public/downloads/chi/al/chi/2010al/ans.pdf",
+                  "size": 2980848,
+                  "type": "marking",
+                  "type_name": "Marking Scheme",
+                  "paper_num": null,
+                  "md5": "91f075edd034092dd6e79006151a3669"
+                },
+                {
+                  "name": "p1a.pdf",
+                  "path": "public/downloads/chi/al/chi/2010al/p1a.pdf",
+                  "size": 1593371,
+                  "type": "paper",
+                  "type_name": "Paper 1A",
+                  "paper_num": 1,
+                  "md5": "8f04895205750d2daeb2eb690a624cdd"
+                },
+                {
+                  "name": "p1b.pdf",
+                  "path": "public/downloads/chi/al/chi/2010al/p1b.pdf",
+                  "size": 2863574,
+                  "type": "paper",
+                  "type_name": "Paper 1B",
+                  "paper_num": 1,
+                  "md5": "92af068678edaae5c615c63414f37b74"
+                },
+                {
+                  "name": "p2.pdf",
+                  "path": "public/downloads/chi/al/chi/2010al/p2.pdf",
+                  "size": 925582,
+                  "type": "paper",
+                  "type_name": "Paper 2",
+                  "paper_num": 2,
+                  "md5": "5264381f080b19b1f72362a0a79b29b7"
+                },
+                {
+                  "name": "p3.pdf",
+                  "path": "public/downloads/chi/al/chi/2010al/p3.pdf",
+                  "size": 1607907,
+                  "type": "paper",
+                  "type_name": "Paper 3",
+                  "paper_num": 3,
+                  "md5": "faf546a3fd42581d66be8143d6f9ca40"
+                },
+                {
+                  "name": "p4.pdf",
+                  "path": "public/downloads/chi/al/chi/2010al/p4.pdf",
+                  "size": 427842,
+                  "type": "paper",
+                  "type_name": "Paper 4",
+                  "paper_num": 4,
+                  "md5": "515126bd53319da17fcb57ba860ba290"
+                }
+              ]
+            }
+          }
+        },
+        "2011al": {
+          "display": "2011 AL",
+          "languages": {
+            "chi": {
+              "name": "Chinese",
+              "files": [
+                {
+                  "name": "ans.pdf",
+                  "path": "public/downloads/chi/al/chi/2011al/ans.pdf",
+                  "size": 709681,
+                  "type": "marking",
+                  "type_name": "Marking Scheme",
+                  "paper_num": null,
+                  "md5": "16f7e27c45574821f13d815d9279a6fc"
+                },
+                {
+                  "name": "p1a.pdf",
+                  "path": "public/downloads/chi/al/chi/2011al/p1a.pdf",
+                  "size": 326346,
+                  "type": "paper",
+                  "type_name": "Paper 1A",
+                  "paper_num": 1,
+                  "md5": "cb87a004faacc6d354c503e8852d8b8b"
+                },
+                {
+                  "name": "p1b.pdf",
+                  "path": "public/downloads/chi/al/chi/2011al/p1b.pdf",
+                  "size": 534021,
+                  "type": "paper",
+                  "type_name": "Paper 1B",
+                  "paper_num": 1,
+                  "md5": "f593ffb3809459c7f34a3ea6d492b1a8"
+                },
+                {
+                  "name": "p2.pdf",
+                  "path": "public/downloads/chi/al/chi/2011al/p2.pdf",
+                  "size": 309934,
+                  "type": "paper",
+                  "type_name": "Paper 2",
+                  "paper_num": 2,
+                  "md5": "7bdd0212e4f6003bd3f2e9a2f91ce88d"
+                },
+                {
+                  "name": "p3.pdf",
+                  "path": "public/downloads/chi/al/chi/2011al/p3.pdf",
+                  "size": 386215,
+                  "type": "paper",
+                  "type_name": "Paper 3",
+                  "paper_num": 3,
+                  "md5": "aa9b0514d0ef293d19fc8bcf8459c889"
+                },
+                {
+                  "name": "p4.pdf",
+                  "path": "public/downloads/chi/al/chi/2011al/p4.pdf",
+                  "size": 314608,
+                  "type": "paper",
+                  "type_name": "Paper 4",
+                  "paper_num": 4,
+                  "md5": "9dc89947710835989b2f1638a247465c"
+                }
+              ]
+            }
+          }
+        }
+      }
+    },
+    "ce": {
+      "name": "HKCEE",
+      "full_name": "香港中學會考",
+      "years": {
+        "2007": {
+          "display": "2007",
+          "languages": {
+            "chi": {
+              "name": "Chinese",
+              "files": [
+                {
+                  "name": "ans.pdf",
+                  "path": "public/downloads/chi/ce/chi/2007/ans.pdf",
+                  "size": 1704212,
+                  "type": "marking",
+                  "type_name": "Marking Scheme",
+                  "paper_num": null,
+                  "md5": "d43171372e862eb0f333ca1b7be07ba8"
+                },
+                {
+                  "name": "p3.pdf",
+                  "path": "public/downloads/chi/ce/chi/2007/p3.pdf",
+                  "size": 422537,
+                  "type": "paper",
+                  "type_name": "Paper 3",
+                  "paper_num": 3,
+                  "md5": "618a7f634e65c92d1b604cfed9fab5f2"
+                },
+                {
+                  "name": "p4.pdf",
+                  "path": "public/downloads/chi/ce/chi/2007/p4.pdf",
+                  "size": 2095706,
+                  "type": "paper",
+                  "type_name": "Paper 4",
+                  "paper_num": 4,
+                  "md5": "d709e703f6aecd4ee1985b70df076438"
+                },
+                {
+                  "name": "p5.pdf",
+                  "path": "public/downloads/chi/ce/chi/2007/p5.pdf",
+                  "size": 509045,
+                  "type": "paper",
+                  "type_name": "Paper 5",
+                  "paper_num": 5,
+                  "md5": "c7a79810b2008837be63e4176caa3dc7"
+                }
+              ]
+            }
+          }
+        },
+        "2008": {
+          "display": "2008",
+          "languages": {
+            "chi": {
+              "name": "Chinese",
+              "files": [
+                {
+                  "name": "ans.pdf",
+                  "path": "public/downloads/chi/ce/chi/2008/ans.pdf",
+                  "size": 499806,
+                  "type": "marking",
+                  "type_name": "Marking Scheme",
+                  "paper_num": null,
+                  "md5": "809e30cd85398db830662a6d74339053"
+                },
+                {
+                  "name": "p3.pdf",
+                  "path": "public/downloads/chi/ce/chi/2008/p3.pdf",
+                  "size": 745888,
+                  "type": "paper",
+                  "type_name": "Paper 3",
+                  "paper_num": 3,
+                  "md5": "1e56e01e9e4bf3e82ce51450a6272b06"
+                },
+                {
+                  "name": "p4.pdf",
+                  "path": "public/downloads/chi/ce/chi/2008/p4.pdf",
+                  "size": 1603139,
+                  "type": "paper",
+                  "type_name": "Paper 4",
+                  "paper_num": 4,
+                  "md5": "31fac056748c4f05663d1e18454a580f"
+                },
+                {
+                  "name": "p5.pdf",
+                  "path": "public/downloads/chi/ce/chi/2008/p5.pdf",
+                  "size": 600713,
+                  "type": "paper",
+                  "type_name": "Paper 5",
+                  "paper_num": 5,
+                  "md5": "9d86d281e32a76119e062c066f6c3f3a"
+                }
+              ]
+            }
+          }
+        },
+        "2009": {
+          "display": "2009",
+          "languages": {
+            "chi": {
+              "name": "Chinese",
+              "files": [
+                {
+                  "name": "ans.pdf",
+                  "path": "public/downloads/chi/ce/chi/2009/ans.pdf",
+                  "size": 816798,
+                  "type": "marking",
+                  "type_name": "Marking Scheme",
+                  "paper_num": null,
+                  "md5": "b1915d46ccd09f10ee8685437acd1d32"
+                },
+                {
+                  "name": "p1.pdf",
+                  "path": "public/downloads/chi/ce/chi/2009/p1.pdf",
+                  "size": 648190,
+                  "type": "paper",
+                  "type_name": "Paper 1",
+                  "paper_num": 1,
+                  "md5": "514b002aeea632a55f30dedb68f0748f"
+                },
+                {
+                  "name": "p2.pdf",
+                  "path": "public/downloads/chi/ce/chi/2009/p2.pdf",
+                  "size": 247043,
+                  "type": "paper",
+                  "type_name": "Paper 2",
+                  "paper_num": 2,
+                  "md5": "493a5ecb4eeceada20c53df973bd5ae4"
+                },
+                {
+                  "name": "p3.pdf",
+                  "path": "public/downloads/chi/ce/chi/2009/p3.pdf",
+                  "size": 402223,
+                  "type": "paper",
+                  "type_name": "Paper 3",
+                  "paper_num": 3,
+                  "md5": "aa20f7b7715eca2bdc7238519a647cfe"
+                },
+                {
+                  "name": "p4.pdf",
+                  "path": "public/downloads/chi/ce/chi/2009/p4.pdf",
+                  "size": 1510904,
+                  "type": "paper",
+                  "type_name": "Paper 4",
+                  "paper_num": 4,
+                  "md5": "844f7f26802599a8d897c8afcc18535d"
+                },
+                {
+                  "name": "p5.pdf",
+                  "path": "public/downloads/chi/ce/chi/2009/p5.pdf",
+                  "size": 572196,
+                  "type": "paper",
+                  "type_name": "Paper 5",
+                  "paper_num": 5,
+                  "md5": "dabe49475ae4c56625be78bcf636ad31"
+                }
+              ]
+            }
+          }
+        },
+        "2010": {
+          "display": "2010",
+          "languages": {
+            "chi": {
+              "name": "Chinese",
+              "files": [
+                {
+                  "name": "ans.pdf",
+                  "path": "public/downloads/chi/ce/chi/2010/ans.pdf",
+                  "size": 28354673,
+                  "type": "marking",
+                  "type_name": "Marking Scheme",
+                  "paper_num": null,
+                  "md5": "6b49808d118dadc68542a99df584686f"
+                },
+                {
+                  "name": "p1.pdf",
+                  "path": "public/downloads/chi/ce/chi/2010/p1.pdf",
+                  "size": 11555844,
+                  "type": "paper",
+                  "type_name": "Paper 1",
+                  "paper_num": 1,
+                  "md5": "0f3ba95d9cb608d178c2818ddab8aa27"
+                },
+                {
+                  "name": "p2.pdf",
+                  "path": "public/downloads/chi/ce/chi/2010/p2.pdf",
+                  "size": 251676,
+                  "type": "paper",
+                  "type_name": "Paper 2",
+                  "paper_num": 2,
+                  "md5": "5718034fcb1cbd99392fc2d21fe1acdc"
+                },
+                {
+                  "name": "p3.pdf",
+                  "path": "public/downloads/chi/ce/chi/2010/p3.pdf",
+                  "size": 7001241,
+                  "type": "paper",
+                  "type_name": "Paper 3",
+                  "paper_num": 3,
+                  "md5": "b989fe83edf005fe15977ee4366c89cb"
+                },
+                {
+                  "name": "p4.pdf",
+                  "path": "public/downloads/chi/ce/chi/2010/p4.pdf",
+                  "size": 23665534,
+                  "type": "paper",
+                  "type_name": "Paper 4",
+                  "paper_num": 4,
+                  "md5": "cf23ede4bb4f9b312e373bc9e9ccf460"
+                },
+                {
+                  "name": "p5.pdf",
+                  "path": "public/downloads/chi/ce/chi/2010/p5.pdf",
+                  "size": 10988795,
+                  "type": "paper",
+                  "type_name": "Paper 5",
+                  "paper_num": 5,
+                  "md5": "0f2822a32759a90859bd1bd421c52480"
+                },
+                {
+                  "name": "per.pdf",
+                  "path": "public/downloads/chi/ce/chi/2010/per.pdf",
+                  "size": 28688122,
+                  "type": "report",
+                  "type_name": "Exam Report",
+                  "paper_num": null,
+                  "md5": "5edf37a78ef3006feda418cdd4ccafd3"
+                }
+              ]
+            }
+          }
+        },
+        "2011": {
+          "display": "2011",
+          "languages": {
+            "chi": {
+              "name": "Chinese",
+              "files": [
+                {
+                  "name": "ans.pdf",
+                  "path": "public/downloads/chi/ce/chi/2011/ans.pdf",
+                  "size": 6777705,
+                  "type": "marking",
+                  "type_name": "Marking Scheme",
+                  "paper_num": null,
+                  "md5": "74aa5a9fcad6d9b16938d5f6129fb003"
+                },
+                {
+                  "name": "p1.pdf",
+                  "path": "public/downloads/chi/ce/chi/2011/p1.pdf",
+                  "size": 2478549,
+                  "type": "paper",
+                  "type_name": "Paper 1",
+                  "paper_num": 1,
+                  "md5": "0911cfafc9cba39ba417f4d59564038c"
+                },
+                {
+                  "name": "p2.pdf",
+                  "path": "public/downloads/chi/ce/chi/2011/p2.pdf",
+                  "size": 702179,
+                  "type": "paper",
+                  "type_name": "Paper 2",
+                  "paper_num": 2,
+                  "md5": "2bd495af802e7d485fd54a4d6ca8499a"
+                },
+                {
+                  "name": "p3.pdf",
+                  "path": "public/downloads/chi/ce/chi/2011/p3.pdf",
+                  "size": 1569100,
+                  "type": "paper",
+                  "type_name": "Paper 3",
+                  "paper_num": 3,
+                  "md5": "8af2342007abb0823623c1942df4e7af"
+                },
+                {
+                  "name": "p4.pdf",
+                  "path": "public/downloads/chi/ce/chi/2011/p4.pdf",
+                  "size": 4608746,
+                  "type": "paper",
+                  "type_name": "Paper 4",
+                  "paper_num": 4,
+                  "md5": "4f43ef3eb912f26c13ce2f7eec15a287"
+                },
+                {
+                  "name": "p5.pdf",
+                  "path": "public/downloads/chi/ce/chi/2011/p5.pdf",
+                  "size": 6187770,
+                  "type": "paper",
+                  "type_name": "Paper 5",
+                  "paper_num": 5,
+                  "md5": "a0441d23dc9c552c2730c988c1b80e03"
+                },
+                {
+                  "name": "per.pdf",
+                  "path": "public/downloads/chi/ce/chi/2011/per.pdf",
+                  "size": 5216643,
+                  "type": "report",
+                  "type_name": "Exam Report",
+                  "paper_num": null,
+                  "md5": "ddb731f09cbe7a17d98c69273b0fbd3a"
+                }
+              ]
+            }
+          }
+        }
+      }
+    },
+    "dse": {
+      "name": "HKDSE",
+      "full_name": "香港中學文憑考試",
+      "years": {
+        "2012": {
+          "display": "2012",
+          "languages": {
+            "chi": {
+              "name": "Chinese",
+              "files": [
+                {
+                  "name": "ans.pdf",
+                  "path": "public/downloads/chi/dse/chi/2012/ans.pdf",
+                  "size": 5236445,
+                  "type": "marking",
+                  "type_name": "Marking Scheme",
+                  "paper_num": null,
+                  "md5": "cad221a79f249b93a98d377af6f0568c"
+                },
+                {
+                  "name": "p1.pdf",
+                  "path": "public/downloads/chi/dse/chi/2012/p1.pdf",
+                  "size": 3928842,
+                  "type": "paper",
+                  "type_name": "Paper 1",
+                  "paper_num": 1,
+                  "md5": "412893fcbd440594b9ec9b730fa0ebfd"
+                },
+                {
+                  "name": "p2.pdf",
+                  "path": "public/downloads/chi/dse/chi/2012/p2.pdf",
+                  "size": 466639,
+                  "type": "paper",
+                  "type_name": "Paper 2",
+                  "paper_num": 2,
+                  "md5": "99d85d05b8779c93280ee2ccb5c25ba3"
+                },
+                {
+                  "name": "p3.pdf",
+                  "path": "public/downloads/chi/dse/chi/2012/p3.pdf",
+                  "size": 2590163,
+                  "type": "paper",
+                  "type_name": "Paper 3",
+                  "paper_num": 3,
+                  "md5": "cc50fe640b86c8428fffc0e3048e23bc"
+                },
+                {
+                  "name": "p4.pdf",
+                  "path": "public/downloads/chi/dse/chi/2012/p4.pdf",
+                  "size": 5531743,
+                  "type": "paper",
+                  "type_name": "Paper 4",
+                  "paper_num": 4,
+                  "md5": "bca7a9d5e0271b6578a06acb7474d6bf"
+                },
+                {
+                  "name": "p5.pdf",
+                  "path": "public/downloads/chi/dse/chi/2012/p5.pdf",
+                  "size": 3183625,
+                  "type": "paper",
+                  "type_name": "Paper 5",
+                  "paper_num": 5,
+                  "md5": "bc6cfb903b69c71934a912d9689605be"
+                }
+              ]
+            }
+          }
+        },
+        "2013": {
+          "display": "2013",
+          "languages": {
+            "chi": {
+              "name": "Chinese",
+              "files": [
+                {
+                  "name": "ans.pdf",
+                  "path": "public/downloads/chi/dse/chi/2013/ans.pdf",
+                  "size": 2151827,
+                  "type": "marking",
+                  "type_name": "Marking Scheme",
+                  "paper_num": null,
+                  "md5": "00196c5910430ea5a42da5bc474981ca"
+                },
+                {
+                  "name": "p1.pdf",
+                  "path": "public/downloads/chi/dse/chi/2013/p1.pdf",
+                  "size": 771650,
+                  "type": "paper",
+                  "type_name": "Paper 1",
+                  "paper_num": 1,
+                  "md5": "b4d2bfa18ab71bf21c65dc61052057c1"
+                },
+                {
+                  "name": "p2.pdf",
+                  "path": "public/downloads/chi/dse/chi/2013/p2.pdf",
+                  "size": 256732,
+                  "type": "paper",
+                  "type_name": "Paper 2",
+                  "paper_num": 2,
+                  "md5": "ad3bec7f52a40c389d3e4d50bebdb424"
+                },
+                {
+                  "name": "p3.pdf",
+                  "path": "public/downloads/chi/dse/chi/2013/p3.pdf",
+                  "size": 637558,
+                  "type": "paper",
+                  "type_name": "Paper 3",
+                  "paper_num": 3,
+                  "md5": "916488bdd9359dd05dced592fcc5eb7c"
+                },
+                {
+                  "name": "p4.pdf",
+                  "path": "public/downloads/chi/dse/chi/2013/p4.pdf",
+                  "size": 2165009,
+                  "type": "paper",
+                  "type_name": "Paper 4",
+                  "paper_num": 4,
+                  "md5": "96cdd1261f5e1da5b08143ba7a7c52ab"
+                },
+                {
+                  "name": "p5.pdf",
+                  "path": "public/downloads/chi/dse/chi/2013/p5.pdf",
+                  "size": 527808,
+                  "type": "paper",
+                  "type_name": "Paper 5",
+                  "paper_num": 5,
+                  "md5": "86248e2ddd2db8c1f37f298d2675a8e0"
+                }
+              ]
+            }
+          }
+        },
+        "2014": {
+          "display": "2014",
+          "languages": {
+            "chi": {
+              "name": "Chinese",
+              "files": [
+                {
+                  "name": "ans.pdf",
+                  "path": "public/downloads/chi/dse/chi/2014/ans.pdf",
+                  "size": 33058891,
+                  "type": "marking",
+                  "type_name": "Marking Scheme",
+                  "paper_num": null,
+                  "md5": "2f8e6406db439e0cfa97e8acec9c3155"
+                },
+                {
+                  "name": "p1.pdf",
+                  "path": "public/downloads/chi/dse/chi/2014/p1.pdf",
+                  "size": 9211427,
+                  "type": "paper",
+                  "type_name": "Paper 1",
+                  "paper_num": 1,
+                  "md5": "f96ed6f3b668c1a3676b7fa8a6721156"
+                },
+                {
+                  "name": "p2.pdf",
+                  "path": "public/downloads/chi/dse/chi/2014/p2.pdf",
+                  "size": 445166,
+                  "type": "paper",
+                  "type_name": "Paper 2",
+                  "paper_num": 2,
+                  "md5": "e47e4729d3788d85d0b9095857da2237"
+                },
+                {
+                  "name": "p3.pdf",
+                  "path": "public/downloads/chi/dse/chi/2014/p3.pdf",
+                  "size": 6238370,
+                  "type": "paper",
+                  "type_name": "Paper 3",
+                  "paper_num": 3,
+                  "md5": "d457cae182d9ac247875c5368dc08f55"
+                },
+                {
+                  "name": "p4.pdf",
+                  "path": "public/downloads/chi/dse/chi/2014/p4.pdf",
+                  "size": 5563626,
+                  "type": "paper",
+                  "type_name": "Paper 4",
+                  "paper_num": 4,
+                  "md5": "506304c123cbf3bfb421f4cc5c0c4678"
+                },
+                {
+                  "name": "p5.pdf",
+                  "path": "public/downloads/chi/dse/chi/2014/p5.pdf",
+                  "size": 2506064,
+                  "type": "paper",
+                  "type_name": "Paper 5",
+                  "paper_num": 5,
+                  "md5": "1025ee2c8e6e5467990c3d0606fa50fe"
+                },
+                {
+                  "name": "per.pdf",
+                  "path": "public/downloads/chi/dse/chi/2014/per.pdf",
+                  "size": 10561589,
+                  "type": "report",
+                  "type_name": "Exam Report",
+                  "paper_num": null,
+                  "md5": "9020e0f2ea12b459197debbc79ccd758"
+                }
+              ]
+            }
+          }
+        },
+        "2015": {
+          "display": "2015",
+          "languages": {
+            "chi": {
+              "name": "Chinese",
+              "files": [
+                {
+                  "name": "ans.pdf",
+                  "path": "public/downloads/chi/dse/chi/2015/ans.pdf",
+                  "size": 13363399,
+                  "type": "marking",
+                  "type_name": "Marking Scheme",
+                  "paper_num": null,
+                  "md5": "14586b05c89edb0ac350ed619476d2bd"
+                },
+                {
+                  "name": "p1.pdf",
+                  "path": "public/downloads/chi/dse/chi/2015/p1.pdf",
+                  "size": 4685407,
+                  "type": "paper",
+                  "type_name": "Paper 1",
+                  "paper_num": 1,
+                  "md5": "dac82fcb13d9bb381c49af152d0009ad"
+                },
+                {
+                  "name": "p2.pdf",
+                  "path": "public/downloads/chi/dse/chi/2015/p2.pdf",
+                  "size": 450296,
+                  "type": "paper",
+                  "type_name": "Paper 2",
+                  "paper_num": 2,
+                  "md5": "b40917a83bfe8ebf319d52b65b2d60c5"
+                },
+                {
+                  "name": "p3.pdf",
+                  "path": "public/downloads/chi/dse/chi/2015/p3.pdf",
+                  "size": 4525919,
+                  "type": "paper",
+                  "type_name": "Paper 3",
+                  "paper_num": 3,
+                  "md5": "0556a74c5f14f434ab7e3b7c0d366c63"
+                },
+                {
+                  "name": "p4.pdf",
+                  "path": "public/downloads/chi/dse/chi/2015/p4.pdf",
+                  "size": 3068250,
+                  "type": "paper",
+                  "type_name": "Paper 4",
+                  "paper_num": 4,
+                  "md5": "d4210237381f78cb36317d421b99f188"
+                },
+                {
+                  "name": "p5.pdf",
+                  "path": "public/downloads/chi/dse/chi/2015/p5.pdf",
+                  "size": 8137103,
+                  "type": "paper",
+                  "type_name": "Paper 5",
+                  "paper_num": 5,
+                  "md5": "d6bef7c43282ff69568a5c9598b9e699"
+                },
+                {
+                  "name": "per.pdf",
+                  "path": "public/downloads/chi/dse/chi/2015/per.pdf",
+                  "size": 38174547,
+                  "type": "report",
+                  "type_name": "Exam Report",
+                  "paper_num": null,
+                  "md5": "4d8698067338280a154ecbad240f724f"
+                }
+              ]
+            }
+          }
+        },
+        "2016": {
+          "display": "2016",
+          "languages": {
+            "chi": {
+              "name": "Chinese",
+              "files": [
+                {
+                  "name": "ans.pdf",
+                  "path": "public/downloads/chi/dse/chi/2016/ans.pdf",
+                  "size": 11102379,
+                  "type": "marking",
+                  "type_name": "Marking Scheme",
+                  "paper_num": null,
+                  "md5": "796fd5191b4cf1282640d29f567d1641"
+                },
+                {
+                  "name": "p1.pdf",
+                  "path": "public/downloads/chi/dse/chi/2016/p1.pdf",
+                  "size": 4987697,
+                  "type": "paper",
+                  "type_name": "Paper 1",
+                  "paper_num": 1,
+                  "md5": "f2da9184b3655ac8d6a6d263f314c4ee"
+                },
+                {
+                  "name": "p2.pdf",
+                  "path": "public/downloads/chi/dse/chi/2016/p2.pdf",
+                  "size": 3168442,
+                  "type": "paper",
+                  "type_name": "Paper 2",
+                  "paper_num": 2,
+                  "md5": "dfdb95a3fe16ff854312175f83ed6ec8"
+                },
+                {
+                  "name": "p3.pdf",
+                  "path": "public/downloads/chi/dse/chi/2016/p3.pdf",
+                  "size": 6046159,
+                  "type": "paper",
+                  "type_name": "Paper 3",
+                  "paper_num": 3,
+                  "md5": "f4340c50be6f0733f90322b4d693afb4"
+                },
+                {
+                  "name": "p4.pdf",
+                  "path": "public/downloads/chi/dse/chi/2016/p4.pdf",
+                  "size": 2544551,
+                  "type": "paper",
+                  "type_name": "Paper 4",
+                  "paper_num": 4,
+                  "md5": "58e6608c189fb6a006be5e32c93aea85"
+                },
+                {
+                  "name": "per.pdf",
+                  "path": "public/downloads/chi/dse/chi/2016/per.pdf",
+                  "size": 68714672,
+                  "type": "report",
+                  "type_name": "Exam Report",
+                  "paper_num": null,
+                  "md5": "b9364af527572810561e2fbaba22c4fb"
+                }
+              ]
+            }
+          }
+        },
+        "2017": {
+          "display": "2017",
+          "languages": {
+            "chi": {
+              "name": "Chinese",
+              "files": [
+                {
+                  "name": "ans.pdf",
+                  "path": "public/downloads/chi/dse/chi/2017/ans.pdf",
+                  "size": 9103574,
+                  "type": "marking",
+                  "type_name": "Marking Scheme",
+                  "paper_num": null,
+                  "md5": "b80feba8bdd04e943275f4c5d066372e"
+                },
+                {
+                  "name": "p1.pdf",
+                  "path": "public/downloads/chi/dse/chi/2017/p1.pdf",
+                  "size": 3710229,
+                  "type": "paper",
+                  "type_name": "Paper 1",
+                  "paper_num": 1,
+                  "md5": "2ca4e1aecf877ab5d9fe0f22f7a8bb66"
+                },
+                {
+                  "name": "p2.pdf",
+                  "path": "public/downloads/chi/dse/chi/2017/p2.pdf",
+                  "size": 592550,
+                  "type": "paper",
+                  "type_name": "Paper 2",
+                  "paper_num": 2,
+                  "md5": "5238ae42453afa5ba61a08ac05a56419"
+                },
+                {
+                  "name": "p3.pdf",
+                  "path": "public/downloads/chi/dse/chi/2017/p3.pdf",
+                  "size": 4292895,
+                  "type": "paper",
+                  "type_name": "Paper 3",
+                  "paper_num": 3,
+                  "md5": "2634dc5778fb220125ae451079ee4daf"
+                },
+                {
+                  "name": "p4.pdf",
+                  "path": "public/downloads/chi/dse/chi/2017/p4.pdf",
+                  "size": 2069599,
+                  "type": "paper",
+                  "type_name": "Paper 4",
+                  "paper_num": 4,
+                  "md5": "e20c91edd2ff88932b4f8fb6ddd4db40"
+                },
+                {
+                  "name": "per.pdf",
+                  "path": "public/downloads/chi/dse/chi/2017/per.pdf",
+                  "size": 9053019,
+                  "type": "report",
+                  "type_name": "Exam Report",
+                  "paper_num": null,
+                  "md5": "7f39df863f437097e164ca5988ba73c3"
+                }
+              ]
+            }
+          }
+        },
+        "2018": {
+          "display": "2018",
+          "languages": {
+            "chi": {
+              "name": "Chinese",
+              "files": [
+                {
+                  "name": "ans.pdf",
+                  "path": "public/downloads/chi/dse/chi/2018/ans.pdf",
+                  "size": 2126688,
+                  "type": "marking",
+                  "type_name": "Marking Scheme",
+                  "paper_num": null,
+                  "md5": "0428dd073166d109b67f0b59af108c96"
+                },
+                {
+                  "name": "p1.pdf",
+                  "path": "public/downloads/chi/dse/chi/2018/p1.pdf",
+                  "size": 5415887,
+                  "type": "paper",
+                  "type_name": "Paper 1",
+                  "paper_num": 1,
+                  "md5": "6d26a87ba83febf981b804e6e391d4e6"
+                },
+                {
+                  "name": "p2.pdf",
+                  "path": "public/downloads/chi/dse/chi/2018/p2.pdf",
+                  "size": 750539,
+                  "type": "paper",
+                  "type_name": "Paper 2",
+                  "paper_num": 2,
+                  "md5": "a17b474901204b6bb5611b257273ef72"
+                },
+                {
+                  "name": "p3.pdf",
+                  "path": "public/downloads/chi/dse/chi/2018/p3.pdf",
+                  "size": 5333330,
+                  "type": "paper",
+                  "type_name": "Paper 3",
+                  "paper_num": 3,
+                  "md5": "cae796d05515a316570e3fb2e22e4bd6"
+                },
+                {
+                  "name": "p4.pdf",
+                  "path": "public/downloads/chi/dse/chi/2018/p4.pdf",
+                  "size": 1391016,
+                  "type": "paper",
+                  "type_name": "Paper 4",
+                  "paper_num": 4,
+                  "md5": "033ac7570d8893ba88e52a6244dc93b3"
+                },
+                {
+                  "name": "per.pdf",
+                  "path": "public/downloads/chi/dse/chi/2018/per.pdf",
+                  "size": 16672246,
+                  "type": "report",
+                  "type_name": "Exam Report",
+                  "paper_num": null,
+                  "md5": "9dd44405e0ad155418b9f57022f4c4ef"
+                }
+              ]
+            }
+          }
+        },
+        "2019": {
+          "display": "2019",
+          "languages": {
+            "chi": {
+              "name": "Chinese",
+              "files": [
+                {
+                  "name": "ans.pdf",
+                  "path": "public/downloads/chi/dse/chi/2019/ans.pdf",
+                  "size": 708683,
+                  "type": "marking",
+                  "type_name": "Marking Scheme",
+                  "paper_num": null,
+                  "md5": "6720b099fd84078f95c0d154d21e0e41"
+                },
+                {
+                  "name": "p1.pdf",
+                  "path": "public/downloads/chi/dse/chi/2019/p1.pdf",
+                  "size": 746043,
+                  "type": "paper",
+                  "type_name": "Paper 1",
+                  "paper_num": 1,
+                  "md5": "64a6416c400ace0d9c1378db0d2bdb1e"
+                },
+                {
+                  "name": "p2.pdf",
+                  "path": "public/downloads/chi/dse/chi/2019/p2.pdf",
+                  "size": 290856,
+                  "type": "paper",
+                  "type_name": "Paper 2",
+                  "paper_num": 2,
+                  "md5": "acdd31ff88a1fe5af7925ba1dd16fae5"
+                },
+                {
+                  "name": "p3.pdf",
+                  "path": "public/downloads/chi/dse/chi/2019/p3.pdf",
+                  "size": 873868,
+                  "type": "paper",
+                  "type_name": "Paper 3",
+                  "paper_num": 3,
+                  "md5": "7725089be9c102965cc595c2bfef125f"
+                },
+                {
+                  "name": "p4.pdf",
+                  "path": "public/downloads/chi/dse/chi/2019/p4.pdf",
+                  "size": 629117,
+                  "type": "paper",
+                  "type_name": "Paper 4",
+                  "paper_num": 4,
+                  "md5": "b89bfc16544b7b14b47c47c59a71b015"
+                },
+                {
+                  "name": "per.pdf",
+                  "path": "public/downloads/chi/dse/chi/2019/per.pdf",
+                  "size": 11835701,
+                  "type": "report",
+                  "type_name": "Exam Report",
+                  "paper_num": null,
+                  "md5": "0112f81d677a44fc6c697a71fd922949"
+                }
+              ]
+            }
+          }
+        },
+        "2020": {
+          "display": "2020",
+          "languages": {
+            "chi": {
+              "name": "Chinese",
+              "files": [
+                {
+                  "name": "ans.pdf",
+                  "path": "public/downloads/chi/dse/chi/2020/ans.pdf",
+                  "size": 5259226,
+                  "type": "marking",
+                  "type_name": "Marking Scheme",
+                  "paper_num": null,
+                  "md5": "40cc2319909493aa118f11e7deed0b77"
+                },
+                {
+                  "name": "p1.pdf",
+                  "path": "public/downloads/chi/dse/chi/2020/p1.pdf",
+                  "size": 2263314,
+                  "type": "paper",
+                  "type_name": "Paper 1",
+                  "paper_num": 1,
+                  "md5": "68443eaee47b1f9c124e04992bf174e4"
+                },
+                {
+                  "name": "p2.pdf",
+                  "path": "public/downloads/chi/dse/chi/2020/p2.pdf",
+                  "size": 241434,
+                  "type": "paper",
+                  "type_name": "Paper 2",
+                  "paper_num": 2,
+                  "md5": "3ddd4c8c179aaebbbd28938bb663e4eb"
+                },
+                {
+                  "name": "p3.pdf",
+                  "path": "public/downloads/chi/dse/chi/2020/p3.pdf",
+                  "size": 2160956,
+                  "type": "paper",
+                  "type_name": "Paper 3",
+                  "paper_num": 3,
+                  "md5": "0f57ceac514cb098dca781e3d2088f0d"
+                },
+                {
+                  "name": "per.pdf",
+                  "path": "public/downloads/chi/dse/chi/2020/per.pdf",
+                  "size": 7042592,
+                  "type": "report",
+                  "type_name": "Exam Report",
+                  "paper_num": null,
+                  "md5": "b788e47253eeb15d395ca7804f07f026"
+                }
+              ]
+            }
+          }
+        },
+        "2021": {
+          "display": "2021",
+          "languages": {
+            "chi": {
+              "name": "Chinese",
+              "files": [
+                {
+                  "name": "ans.pdf",
+                  "path": "public/downloads/chi/dse/chi/2021/ans.pdf",
+                  "size": 24500879,
+                  "type": "marking",
+                  "type_name": "Marking Scheme",
+                  "paper_num": null,
+                  "md5": "e3fc0dfdd9280b1f2b71eae7f319271f"
+                },
+                {
+                  "name": "p1.pdf",
+                  "path": "public/downloads/chi/dse/chi/2021/p1.pdf",
+                  "size": 1432132,
+                  "type": "paper",
+                  "type_name": "Paper 1",
+                  "paper_num": 1,
+                  "md5": "d2748142c82c3729ef926a76f56bfa4b"
+                },
+                {
+                  "name": "p2.pdf",
+                  "path": "public/downloads/chi/dse/chi/2021/p2.pdf",
+                  "size": 21492,
+                  "type": "paper",
+                  "type_name": "Paper 2",
+                  "paper_num": 2,
+                  "md5": "98d792f248eb7db8b8d790c743af84ed"
+                },
+                {
+                  "name": "p3.pdf",
+                  "path": "public/downloads/chi/dse/chi/2021/p3.pdf",
+                  "size": 3439793,
+                  "type": "paper",
+                  "type_name": "Paper 3",
+                  "paper_num": 3,
+                  "md5": "bebb021d671e74751b0a10d30d05fafb"
+                },
+                {
+                  "name": "per.pdf",
+                  "path": "public/downloads/chi/dse/chi/2021/per.pdf",
+                  "size": 1143355,
+                  "type": "report",
+                  "type_name": "Exam Report",
+                  "paper_num": null,
+                  "md5": "1f6102a96ecf6c4a2b07e3d4751d7b6b"
+                }
+              ]
+            }
+          }
+        },
+        "2022": {
+          "display": "2022",
+          "languages": {
+            "chi": {
+              "name": "Chinese",
+              "files": [
+                {
+                  "name": "ans.pdf",
+                  "path": "public/downloads/chi/dse/chi/2022/ans.pdf",
+                  "size": 6329089,
+                  "type": "marking",
+                  "type_name": "Marking Scheme",
+                  "paper_num": null,
+                  "md5": "672cac8408b57c03dd665fec03f4bd75"
+                },
+                {
+                  "name": "p1.pdf",
+                  "path": "public/downloads/chi/dse/chi/2022/p1.pdf",
+                  "size": 1434264,
+                  "type": "paper",
+                  "type_name": "Paper 1",
+                  "paper_num": 1,
+                  "md5": "fb97538d1d289e0838b68bf3ee44eb3b"
+                },
+                {
+                  "name": "p2.pdf",
+                  "path": "public/downloads/chi/dse/chi/2022/p2.pdf",
+                  "size": 964635,
+                  "type": "paper",
+                  "type_name": "Paper 2",
+                  "paper_num": 2,
+                  "md5": "a10f9cd1e7d5bdf86cf1c159e5994878"
+                },
+                {
+                  "name": "p3.pdf",
+                  "path": "public/downloads/chi/dse/chi/2022/p3.pdf",
+                  "size": 1463609,
+                  "type": "paper",
+                  "type_name": "Paper 3",
+                  "paper_num": 3,
+                  "md5": "0041038842f02811c46a77e137d3ee06"
+                },
+                {
+                  "name": "per.pdf",
+                  "path": "public/downloads/chi/dse/chi/2022/per.pdf",
+                  "size": 3839263,
+                  "type": "report",
+                  "type_name": "Exam Report",
+                  "paper_num": null,
+                  "md5": "2829f7a2a28113de34eafe996c38d91e"
+                }
+              ]
+            }
+          }
+        },
+        "2023": {
+          "display": "2023",
+          "languages": {
+            "chi": {
+              "name": "Chinese",
+              "files": [
+                {
+                  "name": "ans.pdf",
+                  "path": "public/downloads/chi/dse/chi/2023/ans.pdf",
+                  "size": 3071265,
+                  "type": "marking",
+                  "type_name": "Marking Scheme",
+                  "paper_num": null,
+                  "md5": "fdaa993c5b800fd48621350f10332c3d"
+                },
+                {
+                  "name": "p1.pdf",
+                  "path": "public/downloads/chi/dse/chi/2023/p1.pdf",
+                  "size": 1144591,
+                  "type": "paper",
+                  "type_name": "Paper 1",
+                  "paper_num": 1,
+                  "md5": "41d0c08d103f416bf39c575e75875b7b"
+                },
+                {
+                  "name": "p2.pdf",
+                  "path": "public/downloads/chi/dse/chi/2023/p2.pdf",
+                  "size": 128262,
+                  "type": "paper",
+                  "type_name": "Paper 2",
+                  "paper_num": 2,
+                  "md5": "a5818214efc365dfbf15c912635610e2"
+                },
+                {
+                  "name": "p3.pdf",
+                  "path": "public/downloads/chi/dse/chi/2023/p3.pdf",
+                  "size": 1327724,
+                  "type": "paper",
+                  "type_name": "Paper 3",
+                  "paper_num": 3,
+                  "md5": "e8ba4ab7f534bd72e46489b41b02238b"
+                },
+                {
+                  "name": "per.pdf",
+                  "path": "public/downloads/chi/dse/chi/2023/per.pdf",
+                  "size": 3050988,
+                  "type": "report",
+                  "type_name": "Exam Report",
+                  "paper_num": null,
+                  "md5": "6f9e2b0339eba3e325ae2eb0f0d18101"
+                }
+              ]
+            }
+          }
+        },
+        "2024": {
+          "display": "2024",
+          "languages": {
+            "chi": {
+              "name": "Chinese",
+              "files": [
+                {
+                  "name": "p1.pdf",
+                  "path": "public/downloads/chi/dse/chi/2024/p1.pdf",
+                  "size": 2310538,
+                  "type": "paper",
+                  "type_name": "Paper 1",
+                  "paper_num": 1,
+                  "md5": "abb16d6a591775b7c3a809ef0264322a"
+                },
+                {
+                  "name": "p2.pdf",
+                  "path": "public/downloads/chi/dse/chi/2024/p2.pdf",
+                  "size": 1167111,
+                  "type": "paper",
+                  "type_name": "Paper 2",
+                  "paper_num": 2,
+                  "md5": "7e750abc68e5eace1605c503b477c35c"
+                }
+              ]
+            }
+          }
+        },
+        "2025": {
+          "display": "2025",
+          "languages": {
+            "chi": {
+              "name": "Chinese",
+              "files": [
+                {
+                  "name": "p1.pdf",
+                  "path": "public/downloads/chi/dse/chi/2025/p1.pdf",
+                  "size": 6077932,
+                  "type": "paper",
+                  "type_name": "Paper 1",
+                  "paper_num": 1,
+                  "md5": "0966d981e21d067ba81ba1b869a0c45d"
+                },
+                {
+                  "name": "p2.pdf",
+                  "path": "public/downloads/chi/dse/chi/2025/p2.pdf",
+                  "size": 2885058,
+                  "type": "paper",
+                  "type_name": "Paper 2",
+                  "paper_num": 2,
+                  "md5": "4a6f15d70fdd6a15c9672169195ff21e"
+                }
+              ]
+            }
+          }
+        },
+        "pp": {
+          "display": "Practice Paper",
+          "languages": {
+            "chi": {
+              "name": "Chinese",
+              "files": [
+                {
+                  "name": "ans.pdf",
+                  "path": "public/downloads/chi/dse/chi/pp/ans.pdf",
+                  "size": 1778235,
+                  "type": "marking",
+                  "type_name": "Marking Scheme",
+                  "paper_num": null,
+                  "md5": "988e2214db6346f6b4f33580c6605d08"
+                },
+                {
+                  "name": "p1.pdf",
+                  "path": "public/downloads/chi/dse/chi/pp/p1.pdf",
+                  "size": 867810,
+                  "type": "paper",
+                  "type_name": "Paper 1",
+                  "paper_num": 1,
+                  "md5": "ae4190a881bfc9de086b13ae8afa4242"
+                },
+                {
+                  "name": "p2.pdf",
+                  "path": "public/downloads/chi/dse/chi/pp/p2.pdf",
+                  "size": 628790,
+                  "type": "paper",
+                  "type_name": "Paper 2",
+                  "paper_num": 2,
+                  "md5": "67736a9b047ceea279bdcd9786d181a4"
+                },
+                {
+                  "name": "p3.pdf",
+                  "path": "public/downloads/chi/dse/chi/pp/p3.pdf",
+                  "size": 999018,
+                  "type": "paper",
+                  "type_name": "Paper 3",
+                  "paper_num": 3,
+                  "md5": "98a79285f3b8b8b5fc4433e3c24e5a88"
+                },
+                {
+                  "name": "p4.pdf",
+                  "path": "public/downloads/chi/dse/chi/pp/p4.pdf",
+                  "size": 930905,
+                  "type": "paper",
+                  "type_name": "Paper 4",
+                  "paper_num": 4,
+                  "md5": "e799bf203c66771f65bc6b51f99fd6c9"
+                },
+                {
+                  "name": "p5.pdf",
+                  "path": "public/downloads/chi/dse/chi/pp/p5.pdf",
+                  "size": 1316427,
+                  "type": "paper",
+                  "type_name": "Paper 5",
+                  "paper_num": 5,
+                  "md5": "6143272550a48ba012d51782490d7b2c"
+                }
+              ]
+            }
+          }
+        },
+        "sp": {
+          "display": "Sample Paper",
+          "languages": {
+            "chi": {
+              "name": "Chinese",
+              "files": [
+                {
+                  "name": "ans.pdf",
+                  "path": "public/downloads/chi/dse/chi/sp/ans.pdf",
+                  "size": 491267,
+                  "type": "marking",
+                  "type_name": "Marking Scheme",
+                  "paper_num": null,
+                  "md5": "c877c00773b1044b94bcb0541a1a9b11"
+                },
+                {
+                  "name": "p1.pdf",
+                  "path": "public/downloads/chi/dse/chi/sp/p1.pdf",
+                  "size": 802245,
+                  "type": "paper",
+                  "type_name": "Paper 1",
+                  "paper_num": 1,
+                  "md5": "89cc4f981568e45f16b77947c9a27cd1"
+                },
+                {
+                  "name": "p2.pdf",
+                  "path": "public/downloads/chi/dse/chi/sp/p2.pdf",
+                  "size": 288401,
+                  "type": "paper",
+                  "type_name": "Paper 2",
+                  "paper_num": 2,
+                  "md5": "fa5cb98569799e4c3f017cfaf6043b97"
+                },
+                {
+                  "name": "p3.pdf",
+                  "path": "public/downloads/chi/dse/chi/sp/p3.pdf",
+                  "size": 850352,
+                  "type": "paper",
+                  "type_name": "Paper 3",
+                  "paper_num": 3,
+                  "md5": "122ab0425cc1dac8cb71e446ea07e536"
+                },
+                {
+                  "name": "p4.pdf",
+                  "path": "public/downloads/chi/dse/chi/sp/p4.pdf",
+                  "size": 318349,
+                  "type": "paper",
+                  "type_name": "Paper 4",
+                  "paper_num": 4,
+                  "md5": "e9452c1dc9bb06bb70617eaa7651deb5"
+                },
+                {
+                  "name": "p5.pdf",
+                  "path": "public/downloads/chi/dse/chi/sp/p5.pdf",
+                  "size": 1741674,
+                  "type": "paper",
+                  "type_name": "Paper 5",
+                  "paper_num": 5,
+                  "md5": "3930da0bdac56e99917635fc786b3315"
+                }
+              ]
+            }
+          }
+        }
+      }
+    }
+  },
+  "file_count": 222,
+  "total_size": 681806878,
+  "years_summary": {}
+}

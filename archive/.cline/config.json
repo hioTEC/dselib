@@ -1,0 +1,54 @@
+{
+  "_comment": "Cline CLI 配置文件模板 - 请复制此文件为 config.json 并填写你的API密钥",
+  
+  "apiProvider": "anthropic",
+  "apiKey": "YOUR_ANTHROPIC_API_KEY_HERE",
+  
+  "model": "claude-3-5-sonnet-20241022",
+  "maxTokens": 8096,
+  "temperature": 0.7,
+  
+  "projectContext": {
+    "name": "DSE Library",
+    "description": "香港DSE考试试卷资源库 - 包含前端展示和Python管理工具",
+    "type": "fullstack-web",
+    "language": "zh-CN",
+    "mainLanguages": ["JavaScript", "Python", "HTML", "CSS"],
+    "frameworks": ["Vue 3", "Tailwind CSS", "Python 3"],
+    "architecture": {
+      "frontend": "Vue 3 + Tailwind CSS + PWA",
+      "backend": "Python 3 (索引生成器和爬虫)",
+      "deployment": "Cloudflare Pages (静态托管)"
+    }
+  },
+  
+  "codeStyle": {
+    "indent": 2,
+    "quotes": "single",
+    "semicolons": false,
+    "lineWidth": 100
+  },
+  
+  "features": {
+    "autoFormat": true,
+    "linting": true,
+    "testing": false,
+    "autoSave": true,
+    "verboseOutput": false,
+    "confirmBeforeExecute": true
+  },
+  
+  "paths": {
+    "frontend": "./frontend",
+    "admin": "./admin",
+    "papers": "./papers",
+    "data": "./frontend/public/data"
+  },
+  
+  "preferences": {
+    "language": "zh-CN",
+    "timezone": "Asia/Shanghai",
+    "dateFormat": "YYYY-MM-DD",
+    "logLevel": "info"
+  }
+}
