@@ -44,18 +44,20 @@
 3. **自动部署**
    - 之后每次推送代码都会自动部署
 
-### 方法3: 使用 Wrangler CLI（需要安装）
+### 方法3: 使用部署脚本（推荐）
 
 ```bash
-# 安装 Wrangler
-npm install -g wrangler
-
-# 登录
-wrangler login
-
-# 部署
-wrangler pages deploy frontend --project-name=dselib
+# 使用提供的脚本（自动使用 npx，无需安装）
+./deploy-cloudflare-simple.sh
 ```
+
+**或者手动使用 npx:**
+```bash
+# 直接使用 npx 运行 wrangler
+npx wrangler pages deploy frontend --project-name=dselib
+```
+
+**注意**: 如果需要登录，npx 会自动提示你登录 Cloudflare 账号。
 
 ## 📁 部署内容说明
 
