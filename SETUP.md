@@ -65,10 +65,23 @@ dselib/
 
 ## 🌐 部署
 
-### Cloudflare Pages
+### Cloudflare Pages (推荐)
 
+**方法1: 使用 npx (WSL兼容)**
 ```bash
-# 安装Wrangler
+# 直接使用 npx 运行 wrangler
+npx wrangler pages deploy frontend --project-name=dselib
+```
+
+**方法2: 使用部署脚本**
+```bash
+# 使用 WSL 兼容的部署脚本
+./deploy-cloudflare.sh
+```
+
+**方法3: 手动安装 wrangler (原生 Linux)**
+```bash
+# 安装 Wrangler
 npm install -g wrangler
 
 # 登录
@@ -80,9 +93,52 @@ wrangler pages deploy frontend --project-name=dselib
 
 ### GitHub Pages
 
+**方法1: 使用 Python 部署脚本**
 ```bash
-# 推送到GitHub后，在仓库设置中启用Pages
-# 选择 frontend 目录作为发布源
+# 自动部署到 gh-pages 分支
+python3 deploy-github-pages.py
+
+# 然后在 GitHub 仓库设置中：
+# 1. 进入 Settings > Pages
+# 2. 选择 gh-pages 分支作为源
+# 3. 保存并等待部署
+```
+
+**方法2: 手动部署**
+```bash
+# 1. 创建 gh-pages 分支
+git checkout --orphan gh-pages
+
+# 2. 清理并复制 frontend 内容
+git rm -rf .
+cp -r frontend/* .
+
+# 3. 添加 .nojekyll 文件
+touch .nojekyll
+
+# 4. 提交并推送
+git add .
+git commit -m "Deploy to GitHub Pages"
+git push origin gh-pages --force
+```
+
+**方法3: 使用 GitHub Actions (自动)**
+在仓库根目录创建 `.github/workflows/deploy.yml`：
+```yaml
+name: Deploy to GitHub Pages
+on:
+  push:
+    branches: [ main ]
+jobs:
+  deploy:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+      - name: Deploy to GitHub Pages
+        uses: peaceiris/actions-gh-pages@v3
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          publish_dir: ./frontend
 ```
 
 ## �� 开发
