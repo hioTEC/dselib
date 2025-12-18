@@ -1,0 +1,454 @@
+{
+  "metadata": {
+    "version": "2.0",
+    "last_updated": "2025-12-17T05:19:25.435730",
+    "total_subjects": 17,
+    "total_files": 2165,
+    "total_size": 6497503906,
+    "ai_optimized": true
+  },
+  "categories": [
+    {
+      "name": "Core",
+      "name_zh": "核心科目",
+      "icon": "fa-book",
+      "color": "blue",
+      "subjects": [
+        "chi",
+        "citizen",
+        "eng",
+        "ls",
+        "m0"
+      ]
+    },
+    {
+      "name": "Science",
+      "name_zh": "理科",
+      "icon": "fa-flask",
+      "color": "purple",
+      "subjects": [
+        "bio",
+        "chem",
+        "m1",
+        "m2",
+        "phy"
+      ]
+    },
+    {
+      "name": "Commerce",
+      "name_zh": "商科",
+      "icon": "fa-briefcase",
+      "color": "yellow",
+      "subjects": [
+        "bafs",
+        "econ"
+      ]
+    },
+    {
+      "name": "Arts",
+      "name_zh": "文科",
+      "icon": "fa-palette",
+      "color": "pink",
+      "subjects": [
+        "chihist",
+        "enghist",
+        "geog"
+      ]
+    },
+    {
+      "name": "Technology",
+      "name_zh": "科技",
+      "icon": "fa-laptop",
+      "color": "cyan",
+      "subjects": [
+        "ict"
+      ]
+    },
+    {
+      "name": "Others",
+      "name_zh": "其他",
+      "icon": "fa-folder",
+      "color": "gray",
+      "subjects": [
+        "ths"
+      ]
+    }
+  ],
+  "exam_types": [
+    {
+      "key": "dse",
+      "name": "HKDSE",
+      "full_name": "香港中學文憑考試",
+      "year_range": [
+        2012,
+        2025
+      ]
+    },
+    {
+      "key": "ce",
+      "name": "HKCEE",
+      "full_name": "香港中學會考",
+      "year_range": [
+        1978,
+        2011
+      ]
+    },
+    {
+      "key": "al",
+      "name": "HKAL",
+      "full_name": "香港高級程度會考",
+      "year_range": [
+        1980,
+        2013
+      ]
+    }
+  ],
+  "languages": [
+    {
+      "key": "eng",
+      "name": "English",
+      "name_zh": "英文"
+    },
+    {
+      "key": "chi",
+      "name": "Chinese",
+      "name_zh": "中文"
+    }
+  ],
+  "subjects_summary": [
+    {
+      "key": "bafs",
+      "name": "BAFS",
+      "name_zh": "企業會計財務",
+      "category": "Commerce",
+      "icon": "fa-briefcase",
+      "color": "yellow",
+      "file_count": 143,
+      "total_size": 316426045,
+      "years_summary": {
+        "dse": {
+          "min": 2012,
+          "max": 2025,
+          "count": 13
+        }
+      }
+    },
+    {
+      "key": "bio",
+      "name": "Biology",
+      "name_zh": "生物",
+      "category": "Science",
+      "icon": "fa-dna",
+      "color": "purple",
+      "file_count": 183,
+      "total_size": 576537518,
+      "years_summary": {
+        "ce": {
+          "min": 1984,
+          "max": 2011,
+          "count": 27
+        },
+        "dse": {
+          "min": 2012,
+          "max": 2024,
+          "count": 13
+        }
+      }
+    },
+    {
+      "key": "chem",
+      "name": "Chemistry",
+      "name_zh": "化學",
+      "category": "Science",
+      "icon": "fa-flask",
+      "color": "purple",
+      "file_count": 313,
+      "total_size": 449350047,
+      "years_summary": {
+        "al": {
+          "min": 1981,
+          "max": 2011,
+          "count": 31
+        },
+        "ce": {
+          "min": 1986,
+          "max": 2011,
+          "count": 26
+        },
+        "dse": {
+          "min": 2012,
+          "max": 2025,
+          "count": 14
+        }
+      }
+    },
+    {
+      "key": "chi",
+      "name": "Chinese",
+      "name_zh": "中文",
+      "category": "Core",
+      "icon": "fa-language",
+      "color": "red",
+      "file_count": 222,
+      "total_size": 681806878,
+      "years_summary": {
+        "al": {
+          "min": 1994,
+          "max": 2011,
+          "count": 18
+        },
+        "ce": {
+          "min": 2007,
+          "max": 2011,
+          "count": 5
+        },
+        "dse": {
+          "min": 2012,
+          "max": 2025,
+          "count": 14
+        }
+      }
+    },
+    {
+      "key": "chihist",
+      "name": "Chinese History",
+      "name_zh": "中國歷史",
+      "category": "Arts",
+      "icon": "fa-scroll",
+      "color": "pink",
+      "file_count": 53,
+      "total_size": 266570642,
+      "years_summary": {
+        "dse": {
+          "min": 2012,
+          "max": 2023,
+          "count": 12
+        }
+      }
+    },
+    {
+      "key": "citizen",
+      "name": "Citizenship",
+      "name_zh": "公民與社會發展",
+      "category": "Core",
+      "icon": "fa-users",
+      "color": "teal",
+      "file_count": 4,
+      "total_size": 1717098,
+      "years_summary": {
+        "dse": {
+          "min": 2024,
+          "max": 2024,
+          "count": 1
+        }
+      }
+    },
+    {
+      "key": "econ",
+      "name": "Economics",
+      "name_zh": "經濟",
+      "category": "Commerce",
+      "icon": "fa-chart-pie",
+      "color": "yellow",
+      "file_count": 98,
+      "total_size": 289662116,
+      "years_summary": {
+        "dse": {
+          "min": 2012,
+          "max": 2024,
+          "count": 13
+        }
+      }
+    },
+    {
+      "key": "eng",
+      "name": "English",
+      "name_zh": "英文",
+      "category": "Core",
+      "icon": "fa-font",
+      "color": "orange",
+      "file_count": 83,
+      "total_size": 699475282,
+      "years_summary": {
+        "dse": {
+          "min": 2012,
+          "max": 2024,
+          "count": 13
+        }
+      }
+    },
+    {
+      "key": "enghist",
+      "name": "History",
+      "name_zh": "世界歷史",
+      "category": "Arts",
+      "icon": "fa-landmark",
+      "color": "pink",
+      "file_count": 107,
+      "total_size": 160192383,
+      "years_summary": {
+        "dse": {
+          "min": 2012,
+          "max": 2023,
+          "count": 12
+        }
+      }
+    },
+    {
+      "key": "geog",
+      "name": "Geography",
+      "name_zh": "地理",
+      "category": "Arts",
+      "icon": "fa-globe-asia",
+      "color": "green",
+      "file_count": 118,
+      "total_size": 867961210,
+      "years_summary": {
+        "dse": {
+          "min": 2012,
+          "max": 2023,
+          "count": 12
+        }
+      }
+    },
+    {
+      "key": "ict",
+      "name": "ICT",
+      "name_zh": "資訊及通訊科技",
+      "category": "Technology",
+      "icon": "fa-laptop-code",
+      "color": "cyan",
+      "file_count": 163,
+      "total_size": 509476963,
+      "years_summary": {
+        "dse": {
+          "min": 2012,
+          "max": 2023,
+          "count": 12
+        }
+      }
+    },
+    {
+      "key": "ls",
+      "name": "Liberal Studies",
+      "name_zh": "通識教育",
+      "category": "Core",
+      "icon": "fa-newspaper",
+      "color": "teal",
+      "file_count": 109,
+      "total_size": 347454879,
+      "years_summary": {
+        "dse": {
+          "min": 2012,
+          "max": 2023,
+          "count": 12
+        }
+      }
+    },
+    {
+      "key": "m0",
+      "name": "Mathematics",
+      "name_zh": "數學",
+      "category": "Core",
+      "icon": "fa-calculator",
+      "color": "blue",
+      "file_count": 245,
+      "total_size": 500404866,
+      "years_summary": {
+        "ce": {
+          "min": 1980,
+          "max": 2011,
+          "count": 32
+        },
+        "dse": {
+          "min": 2012,
+          "max": 2025,
+          "count": 14
+        }
+      }
+    },
+    {
+      "key": "m1",
+      "name": "Mathematics M1",
+      "name_zh": "數學延伸M1",
+      "category": "Science",
+      "icon": "fa-chart-line",
+      "color": "blue",
+      "file_count": 56,
+      "total_size": 136182787,
+      "years_summary": {
+        "al": {
+          "min": 1996,
+          "max": 2013,
+          "count": 18
+        },
+        "dse": {
+          "min": 2012,
+          "max": 2024,
+          "count": 13
+        }
+      }
+    },
+    {
+      "key": "m2",
+      "name": "Mathematics M2",
+      "name_zh": "數學延伸M2",
+      "category": "Science",
+      "icon": "fa-superscript",
+      "color": "blue",
+      "file_count": 103,
+      "total_size": 198895853,
+      "years_summary": {
+        "al": {
+          "min": 1980,
+          "max": 1995,
+          "count": 16
+        },
+        "ce": {
+          "min": 1980,
+          "max": 2011,
+          "count": 30
+        },
+        "dse": {
+          "min": 2012,
+          "max": 2024,
+          "count": 13
+        }
+      }
+    },
+    {
+      "key": "phy",
+      "name": "Physics",
+      "name_zh": "物理",
+      "category": "Science",
+      "icon": "fa-atom",
+      "color": "purple",
+      "file_count": 119,
+      "total_size": 439102900,
+      "years_summary": {
+        "dse": {
+          "min": 2012,
+          "max": 2024,
+          "count": 13
+        }
+      }
+    },
+    {
+      "key": "ths",
+      "name": "Tourism",
+      "name_zh": "旅遊與款待",
+      "category": "Others",
+      "icon": "fa-plane",
+      "color": "gray",
+      "file_count": 46,
+      "total_size": 56286439,
+      "years_summary": {
+        "dse": {
+          "min": 2012,
+          "max": 2023,
+          "count": 12
+        }
+      }
+    }
+  ]
+}

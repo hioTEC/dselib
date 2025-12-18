@@ -1,0 +1,75 @@
+{
+  "key": "citizen",
+  "name": "Citizenship",
+  "name_zh": "公民與社會發展",
+  "category": "Core",
+  "icon": "fa-users",
+  "color": "teal",
+  "exams": {
+    "dse": {
+      "name": "HKDSE",
+      "full_name": "香港中學文憑考試",
+      "years": {
+        "2024": {
+          "display": "2024",
+          "languages": {
+            "chi": {
+              "name": "Chinese",
+              "files": [
+                {
+                  "name": "answer.pdf",
+                  "path": "public/downloads/citizen/dse/chi/2024/answer.pdf",
+                  "size": 577276,
+                  "type": "other",
+                  "type_name": "answer.pdf",
+                  "paper_num": null,
+                  "md5": "ed0cf6910d549992447eb1a0ee2d5377"
+                },
+                {
+                  "name": "question.pdf",
+                  "path": "public/downloads/citizen/dse/chi/2024/question.pdf",
+                  "size": 222646,
+                  "type": "other",
+                  "type_name": "question.pdf",
+                  "paper_num": null,
+                  "md5": "8c1900491abe6ececa4a898520b3fa47"
+                }
+              ]
+            }
+          }
+        },
+        "sp": {
+          "display": "Sample Paper",
+          "languages": {
+            "chi": {
+              "name": "Chinese",
+              "files": [
+                {
+                  "name": "answer.pdf",
+                  "path": "public/downloads/citizen/dse/chi/sp/answer.pdf",
+                  "size": 376639,
+                  "type": "other",
+                  "type_name": "answer.pdf",
+                  "paper_num": null,
+                  "md5": "a2684ff95c0c46f268cf9df332f63922"
+                },
+                {
+                  "name": "question.pdf",
+                  "path": "public/downloads/citizen/dse/chi/sp/question.pdf",
+                  "size": 540537,
+                  "type": "other",
+                  "type_name": "question.pdf",
+                  "paper_num": null,
+                  "md5": "770b2b00865bf1b4a6e4f4d58615c43d"
+                }
+              ]
+            }
+          }
+        }
+      }
+    }
+  },
+  "file_count": 4,
+  "total_size": 1717098,
+  "years_summary": {}
+}

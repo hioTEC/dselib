@@ -1,0 +1,1116 @@
+{
+  "key": "econ",
+  "name": "Economics",
+  "name_zh": "經濟",
+  "category": "Commerce",
+  "icon": "fa-chart-pie",
+  "color": "yellow",
+  "exams": {
+    "dse": {
+      "name": "HKDSE",
+      "full_name": "香港中學文憑考試",
+      "years": {
+        "2012": {
+          "display": "2012",
+          "languages": {
+            "chi": {
+              "name": "Chinese",
+              "files": [
+                {
+                  "name": "ans.pdf",
+                  "path": "public/downloads/econ/dse/chi/2012/ans.pdf",
+                  "size": 1299410,
+                  "type": "marking",
+                  "type_name": "Marking Scheme",
+                  "paper_num": null,
+                  "md5": "e607fd14dc3eb12f0e54cd3a7e540910"
+                },
+                {
+                  "name": "p1.pdf",
+                  "path": "public/downloads/econ/dse/chi/2012/p1.pdf",
+                  "size": 2211177,
+                  "type": "paper",
+                  "type_name": "Paper 1",
+                  "paper_num": 1,
+                  "md5": "1d934ee92b8b6e68ab95b73f53427810"
+                },
+                {
+                  "name": "p2.pdf",
+                  "path": "public/downloads/econ/dse/chi/2012/p2.pdf",
+                  "size": 5083138,
+                  "type": "paper",
+                  "type_name": "Paper 2",
+                  "paper_num": 2,
+                  "md5": "fe269ef0cb4d1b0003262c715ef69af6"
+                },
+                {
+                  "name": "per.pdf",
+                  "path": "public/downloads/econ/dse/chi/2012/per.pdf",
+                  "size": 1498207,
+                  "type": "report",
+                  "type_name": "Exam Report",
+                  "paper_num": null,
+                  "md5": "a767382215c8c49f88f1eba621399f56"
+                }
+              ]
+            },
+            "eng": {
+              "name": "English",
+              "files": [
+                {
+                  "name": "ans.pdf",
+                  "path": "public/downloads/econ/dse/eng/2012/ans.pdf",
+                  "size": 2101194,
+                  "type": "marking",
+                  "type_name": "Marking Scheme",
+                  "paper_num": null,
+                  "md5": "0436b3c75bda551475dd68ad90c9820c"
+                },
+                {
+                  "name": "p1.pdf",
+                  "path": "public/downloads/econ/dse/eng/2012/p1.pdf",
+                  "size": 3343827,
+                  "type": "paper",
+                  "type_name": "Paper 1",
+                  "paper_num": 1,
+                  "md5": "a5dd4fd5af5360dfc43fb7e6b30667a6"
+                },
+                {
+                  "name": "p2.pdf",
+                  "path": "public/downloads/econ/dse/eng/2012/p2.pdf",
+                  "size": 3696688,
+                  "type": "paper",
+                  "type_name": "Paper 2",
+                  "paper_num": 2,
+                  "md5": "3b8ecfaf132bda1c2aacc137d9e2cdf9"
+                },
+                {
+                  "name": "per.pdf",
+                  "path": "public/downloads/econ/dse/eng/2012/per.pdf",
+                  "size": 2103967,
+                  "type": "report",
+                  "type_name": "Exam Report",
+                  "paper_num": null,
+                  "md5": "9bbb7041a7cfd38fba48bfa13470ffe8"
+                }
+              ]
+            }
+          }
+        },
+        "2013": {
+          "display": "2013",
+          "languages": {
+            "chi": {
+              "name": "Chinese",
+              "files": [
+                {
+                  "name": "ans.pdf",
+                  "path": "public/downloads/econ/dse/chi/2013/ans.pdf",
+                  "size": 1847395,
+                  "type": "marking",
+                  "type_name": "Marking Scheme",
+                  "paper_num": null,
+                  "md5": "9c7fb7bd5bc236d043f5bcefda428b4c"
+                },
+                {
+                  "name": "p1.pdf",
+                  "path": "public/downloads/econ/dse/chi/2013/p1.pdf",
+                  "size": 2371380,
+                  "type": "paper",
+                  "type_name": "Paper 1",
+                  "paper_num": 1,
+                  "md5": "ef23925e0710b0bb4a396c0ad5429973"
+                },
+                {
+                  "name": "p2.pdf",
+                  "path": "public/downloads/econ/dse/chi/2013/p2.pdf",
+                  "size": 4868518,
+                  "type": "paper",
+                  "type_name": "Paper 2",
+                  "paper_num": 2,
+                  "md5": "96c83797f1a65fead47a77ad57583914"
+                },
+                {
+                  "name": "per.pdf",
+                  "path": "public/downloads/econ/dse/chi/2013/per.pdf",
+                  "size": 1807337,
+                  "type": "report",
+                  "type_name": "Exam Report",
+                  "paper_num": null,
+                  "md5": "f5efbf58c3b192d60dd636dc77816b29"
+                }
+              ]
+            },
+            "eng": {
+              "name": "English",
+              "files": [
+                {
+                  "name": "ans.pdf",
+                  "path": "public/downloads/econ/dse/eng/2013/ans.pdf",
+                  "size": 528674,
+                  "type": "marking",
+                  "type_name": "Marking Scheme",
+                  "paper_num": null,
+                  "md5": "381b455dcefa84f98efb161b41e871a3"
+                },
+                {
+                  "name": "p1.pdf",
+                  "path": "public/downloads/econ/dse/eng/2013/p1.pdf",
+                  "size": 629622,
+                  "type": "paper",
+                  "type_name": "Paper 1",
+                  "paper_num": 1,
+                  "md5": "2dd6ab0ada6bdbac43bb42842cdbd750"
+                },
+                {
+                  "name": "p2.pdf",
+                  "path": "public/downloads/econ/dse/eng/2013/p2.pdf",
+                  "size": 914176,
+                  "type": "paper",
+                  "type_name": "Paper 2",
+                  "paper_num": 2,
+                  "md5": "8e9d2f55da4099b2797adfed224ebb60"
+                },
+                {
+                  "name": "per.pdf",
+                  "path": "public/downloads/econ/dse/eng/2013/per.pdf",
+                  "size": 543594,
+                  "type": "report",
+                  "type_name": "Exam Report",
+                  "paper_num": null,
+                  "md5": "573d50da6a59b1d919e85c5a991ae13a"
+                }
+              ]
+            }
+          }
+        },
+        "2014": {
+          "display": "2014",
+          "languages": {
+            "chi": {
+              "name": "Chinese",
+              "files": [
+                {
+                  "name": "ans.pdf",
+                  "path": "public/downloads/econ/dse/chi/2014/ans.pdf",
+                  "size": 1837822,
+                  "type": "marking",
+                  "type_name": "Marking Scheme",
+                  "paper_num": null,
+                  "md5": "d97619206832faf491c8616f5aeeda79"
+                },
+                {
+                  "name": "p1.pdf",
+                  "path": "public/downloads/econ/dse/chi/2014/p1.pdf",
+                  "size": 2651747,
+                  "type": "paper",
+                  "type_name": "Paper 1",
+                  "paper_num": 1,
+                  "md5": "69e63b7daea6ce12313aaa2bd4c20597"
+                },
+                {
+                  "name": "p2.pdf",
+                  "path": "public/downloads/econ/dse/chi/2014/p2.pdf",
+                  "size": 4678929,
+                  "type": "paper",
+                  "type_name": "Paper 2",
+                  "paper_num": 2,
+                  "md5": "dfa16624fdde8ab4215b0cd6ed39d112"
+                },
+                {
+                  "name": "per.pdf",
+                  "path": "public/downloads/econ/dse/chi/2014/per.pdf",
+                  "size": 1272057,
+                  "type": "report",
+                  "type_name": "Exam Report",
+                  "paper_num": null,
+                  "md5": "8234862c2aad3433f92ac996a164d1d4"
+                }
+              ]
+            },
+            "eng": {
+              "name": "English",
+              "files": [
+                {
+                  "name": "ans.pdf",
+                  "path": "public/downloads/econ/dse/eng/2014/ans.pdf",
+                  "size": 2212653,
+                  "type": "marking",
+                  "type_name": "Marking Scheme",
+                  "paper_num": null,
+                  "md5": "5de60876a8a7ae0d68a552cf5cc1c445"
+                },
+                {
+                  "name": "p1.pdf",
+                  "path": "public/downloads/econ/dse/eng/2014/p1.pdf",
+                  "size": 1102350,
+                  "type": "paper",
+                  "type_name": "Paper 1",
+                  "paper_num": 1,
+                  "md5": "4c925412f292d80fae35681928e6e9fb"
+                },
+                {
+                  "name": "p2.pdf",
+                  "path": "public/downloads/econ/dse/eng/2014/p2.pdf",
+                  "size": 1165306,
+                  "type": "paper",
+                  "type_name": "Paper 2",
+                  "paper_num": 2,
+                  "md5": "b8f24ec0d23c234b332bf56cfbcb5e95"
+                },
+                {
+                  "name": "per.pdf",
+                  "path": "public/downloads/econ/dse/eng/2014/per.pdf",
+                  "size": 1898276,
+                  "type": "report",
+                  "type_name": "Exam Report",
+                  "paper_num": null,
+                  "md5": "c9219a897c1ef791cf6ff772312b9c6c"
+                }
+              ]
+            }
+          }
+        },
+        "2015": {
+          "display": "2015",
+          "languages": {
+            "chi": {
+              "name": "Chinese",
+              "files": [
+                {
+                  "name": "ans.pdf",
+                  "path": "public/downloads/econ/dse/chi/2015/ans.pdf",
+                  "size": 2691162,
+                  "type": "marking",
+                  "type_name": "Marking Scheme",
+                  "paper_num": null,
+                  "md5": "1fb909e376fb9f4385f017862ca18e5d"
+                },
+                {
+                  "name": "p1.pdf",
+                  "path": "public/downloads/econ/dse/chi/2015/p1.pdf",
+                  "size": 3209666,
+                  "type": "paper",
+                  "type_name": "Paper 1",
+                  "paper_num": 1,
+                  "md5": "58ea395a7c799a695b090ca688a793a4"
+                },
+                {
+                  "name": "p2.pdf",
+                  "path": "public/downloads/econ/dse/chi/2015/p2.pdf",
+                  "size": 5088436,
+                  "type": "paper",
+                  "type_name": "Paper 2",
+                  "paper_num": 2,
+                  "md5": "ce6fd61c47a62d42406a16225c962c31"
+                },
+                {
+                  "name": "per.pdf",
+                  "path": "public/downloads/econ/dse/chi/2015/per.pdf",
+                  "size": 3661664,
+                  "type": "report",
+                  "type_name": "Exam Report",
+                  "paper_num": null,
+                  "md5": "36908b7106f11a14a826c4a34dbe5b6c"
+                }
+              ]
+            },
+            "eng": {
+              "name": "English",
+              "files": [
+                {
+                  "name": "ans.pdf",
+                  "path": "public/downloads/econ/dse/eng/2015/ans.pdf",
+                  "size": 826559,
+                  "type": "marking",
+                  "type_name": "Marking Scheme",
+                  "paper_num": null,
+                  "md5": "ab7f7411146cf331312f90310da04649"
+                },
+                {
+                  "name": "p1.pdf",
+                  "path": "public/downloads/econ/dse/eng/2015/p1.pdf",
+                  "size": 465983,
+                  "type": "paper",
+                  "type_name": "Paper 1",
+                  "paper_num": 1,
+                  "md5": "e146bf8e47f7e2246e05d0d2280659c1"
+                },
+                {
+                  "name": "p2.pdf",
+                  "path": "public/downloads/econ/dse/eng/2015/p2.pdf",
+                  "size": 852694,
+                  "type": "paper",
+                  "type_name": "Paper 2",
+                  "paper_num": 2,
+                  "md5": "4abe5ffb25098d8e44fd259d8f247cec"
+                },
+                {
+                  "name": "per.pdf",
+                  "path": "public/downloads/econ/dse/eng/2015/per.pdf",
+                  "size": 737449,
+                  "type": "report",
+                  "type_name": "Exam Report",
+                  "paper_num": null,
+                  "md5": "0f9401ea146a96ca91f18063575a3353"
+                }
+              ]
+            }
+          }
+        },
+        "2016": {
+          "display": "2016",
+          "languages": {
+            "chi": {
+              "name": "Chinese",
+              "files": [
+                {
+                  "name": "ans.pdf",
+                  "path": "public/downloads/econ/dse/chi/2016/ans.pdf",
+                  "size": 2960004,
+                  "type": "marking",
+                  "type_name": "Marking Scheme",
+                  "paper_num": null,
+                  "md5": "e77a4aa2c34a72bf401a527497f69f2a"
+                },
+                {
+                  "name": "p1.pdf",
+                  "path": "public/downloads/econ/dse/chi/2016/p1.pdf",
+                  "size": 3406033,
+                  "type": "paper",
+                  "type_name": "Paper 1",
+                  "paper_num": 1,
+                  "md5": "a39fbe960e7867bb70d3643f87c7b190"
+                },
+                {
+                  "name": "p2.pdf",
+                  "path": "public/downloads/econ/dse/chi/2016/p2.pdf",
+                  "size": 6090947,
+                  "type": "paper",
+                  "type_name": "Paper 2",
+                  "paper_num": 2,
+                  "md5": "a76095651ebdda8eed0a759c0e2ed06b"
+                },
+                {
+                  "name": "per.pdf",
+                  "path": "public/downloads/econ/dse/chi/2016/per.pdf",
+                  "size": 4615265,
+                  "type": "report",
+                  "type_name": "Exam Report",
+                  "paper_num": null,
+                  "md5": "e0e9ec0d7dfe7d6be9ef918cd65ce252"
+                }
+              ]
+            },
+            "eng": {
+              "name": "English",
+              "files": [
+                {
+                  "name": "ans.pdf",
+                  "path": "public/downloads/econ/dse/eng/2016/ans.pdf",
+                  "size": 6364062,
+                  "type": "marking",
+                  "type_name": "Marking Scheme",
+                  "paper_num": null,
+                  "md5": "12aeda2f760be3a11abb89db5c5375e1"
+                },
+                {
+                  "name": "p1.pdf",
+                  "path": "public/downloads/econ/dse/eng/2016/p1.pdf",
+                  "size": 662700,
+                  "type": "paper",
+                  "type_name": "Paper 1",
+                  "paper_num": 1,
+                  "md5": "167d9f76067bff92424f42bd6c966566"
+                },
+                {
+                  "name": "p2.pdf",
+                  "path": "public/downloads/econ/dse/eng/2016/p2.pdf",
+                  "size": 12849565,
+                  "type": "paper",
+                  "type_name": "Paper 2",
+                  "paper_num": 2,
+                  "md5": "a50395d38b364a91b0dcd483a4a531f4"
+                },
+                {
+                  "name": "per.pdf",
+                  "path": "public/downloads/econ/dse/eng/2016/per.pdf",
+                  "size": 6421893,
+                  "type": "report",
+                  "type_name": "Exam Report",
+                  "paper_num": null,
+                  "md5": "29552f6192c5ec0577a8b2c5f1d0eff8"
+                }
+              ]
+            }
+          }
+        },
+        "2017": {
+          "display": "2017",
+          "languages": {
+            "chi": {
+              "name": "Chinese",
+              "files": [
+                {
+                  "name": "ans.pdf",
+                  "path": "public/downloads/econ/dse/chi/2017/ans.pdf",
+                  "size": 1713079,
+                  "type": "marking",
+                  "type_name": "Marking Scheme",
+                  "paper_num": null,
+                  "md5": "ec5b8e591e31480dbb8eae906a803500"
+                },
+                {
+                  "name": "p1.pdf",
+                  "path": "public/downloads/econ/dse/chi/2017/p1.pdf",
+                  "size": 2641182,
+                  "type": "paper",
+                  "type_name": "Paper 1",
+                  "paper_num": 1,
+                  "md5": "27978d520dd33ef5c02f4ca939372798"
+                },
+                {
+                  "name": "p2.pdf",
+                  "path": "public/downloads/econ/dse/chi/2017/p2.pdf",
+                  "size": 5456564,
+                  "type": "paper",
+                  "type_name": "Paper 2",
+                  "paper_num": 2,
+                  "md5": "3e03ee375f24b3f45c02b3f0ae32d589"
+                },
+                {
+                  "name": "per.pdf",
+                  "path": "public/downloads/econ/dse/chi/2017/per.pdf",
+                  "size": 1378346,
+                  "type": "report",
+                  "type_name": "Exam Report",
+                  "paper_num": null,
+                  "md5": "54ea48bfe673fe0386d16631aa3c0f13"
+                }
+              ]
+            },
+            "eng": {
+              "name": "English",
+              "files": [
+                {
+                  "name": "ans.pdf",
+                  "path": "public/downloads/econ/dse/eng/2017/ans.pdf",
+                  "size": 503524,
+                  "type": "marking",
+                  "type_name": "Marking Scheme",
+                  "paper_num": null,
+                  "md5": "d6826373d0e30ab7a2f3ff8c6503e2fd"
+                },
+                {
+                  "name": "p1.pdf",
+                  "path": "public/downloads/econ/dse/eng/2017/p1.pdf",
+                  "size": 994213,
+                  "type": "paper",
+                  "type_name": "Paper 1",
+                  "paper_num": 1,
+                  "md5": "8d27e9db1f8a4f47896c60f6748e397f"
+                },
+                {
+                  "name": "p2.pdf",
+                  "path": "public/downloads/econ/dse/eng/2017/p2.pdf",
+                  "size": 1396361,
+                  "type": "paper",
+                  "type_name": "Paper 2",
+                  "paper_num": 2,
+                  "md5": "7153c94b93eab80b368a0be2c224daeb"
+                }
+              ]
+            }
+          }
+        },
+        "2018": {
+          "display": "2018",
+          "languages": {
+            "chi": {
+              "name": "Chinese",
+              "files": [
+                {
+                  "name": "ans.pdf",
+                  "path": "public/downloads/econ/dse/chi/2018/ans.pdf",
+                  "size": 2588316,
+                  "type": "marking",
+                  "type_name": "Marking Scheme",
+                  "paper_num": null,
+                  "md5": "1e849c7761bc449b5f631c5549aa5b65"
+                },
+                {
+                  "name": "p1.pdf",
+                  "path": "public/downloads/econ/dse/chi/2018/p1.pdf",
+                  "size": 3847721,
+                  "type": "paper",
+                  "type_name": "Paper 1",
+                  "paper_num": 1,
+                  "md5": "a18f8a3c27b7dfd699035872bcff3928"
+                },
+                {
+                  "name": "p2.pdf",
+                  "path": "public/downloads/econ/dse/chi/2018/p2.pdf",
+                  "size": 6418428,
+                  "type": "paper",
+                  "type_name": "Paper 2",
+                  "paper_num": 2,
+                  "md5": "d561a9cd8395f9ec15facf724c8b344d"
+                },
+                {
+                  "name": "per.pdf",
+                  "path": "public/downloads/econ/dse/chi/2018/per.pdf",
+                  "size": 3709980,
+                  "type": "report",
+                  "type_name": "Exam Report",
+                  "paper_num": null,
+                  "md5": "2bf94331afc0c504448f45e1a97d903d"
+                }
+              ]
+            },
+            "eng": {
+              "name": "English",
+              "files": [
+                {
+                  "name": "ans.pdf",
+                  "path": "public/downloads/econ/dse/eng/2018/ans.pdf",
+                  "size": 2533176,
+                  "type": "marking",
+                  "type_name": "Marking Scheme",
+                  "paper_num": null,
+                  "md5": "ffd0c75f5fe90e6cb48b62753c1f16cd"
+                },
+                {
+                  "name": "p1.pdf",
+                  "path": "public/downloads/econ/dse/eng/2018/p1.pdf",
+                  "size": 3605172,
+                  "type": "paper",
+                  "type_name": "Paper 1",
+                  "paper_num": 1,
+                  "md5": "670a76f53cffacb0ef17f1b441e9c385"
+                },
+                {
+                  "name": "p2.pdf",
+                  "path": "public/downloads/econ/dse/eng/2018/p2.pdf",
+                  "size": 5754270,
+                  "type": "paper",
+                  "type_name": "Paper 2",
+                  "paper_num": 2,
+                  "md5": "0302bd1a23a9a4d488ea99f5610b795d"
+                },
+                {
+                  "name": "per.pdf",
+                  "path": "public/downloads/econ/dse/eng/2018/per.pdf",
+                  "size": 2678610,
+                  "type": "report",
+                  "type_name": "Exam Report",
+                  "paper_num": null,
+                  "md5": "073396fb1a1242da82a1565662f3af5e"
+                }
+              ]
+            }
+          }
+        },
+        "2019": {
+          "display": "2019",
+          "languages": {
+            "chi": {
+              "name": "Chinese",
+              "files": [
+                {
+                  "name": "ans.pdf",
+                  "path": "public/downloads/econ/dse/chi/2019/ans.pdf",
+                  "size": 2835625,
+                  "type": "marking",
+                  "type_name": "Marking Scheme",
+                  "paper_num": null,
+                  "md5": "a4df97e718a024998b3ec4217abfa817"
+                },
+                {
+                  "name": "p1.pdf",
+                  "path": "public/downloads/econ/dse/chi/2019/p1.pdf",
+                  "size": 4497166,
+                  "type": "paper",
+                  "type_name": "Paper 1",
+                  "paper_num": 1,
+                  "md5": "3cafd39b72418876684d2a9999519037"
+                },
+                {
+                  "name": "p2.pdf",
+                  "path": "public/downloads/econ/dse/chi/2019/p2.pdf",
+                  "size": 7199089,
+                  "type": "paper",
+                  "type_name": "Paper 2",
+                  "paper_num": 2,
+                  "md5": "2b1fa878f2d31267ec9971e04e3f95d2"
+                },
+                {
+                  "name": "per.pdf",
+                  "path": "public/downloads/econ/dse/chi/2019/per.pdf",
+                  "size": 3986841,
+                  "type": "report",
+                  "type_name": "Exam Report",
+                  "paper_num": null,
+                  "md5": "5fe80997e2afb87fc52dde98c5806775"
+                }
+              ]
+            },
+            "eng": {
+              "name": "English",
+              "files": [
+                {
+                  "name": "ans.pdf",
+                  "path": "public/downloads/econ/dse/eng/2019/ans.pdf",
+                  "size": 4077321,
+                  "type": "marking",
+                  "type_name": "Marking Scheme",
+                  "paper_num": null,
+                  "md5": "23c2cff779a19b1273181ef05eb014ee"
+                },
+                {
+                  "name": "p1.pdf",
+                  "path": "public/downloads/econ/dse/eng/2019/p1.pdf",
+                  "size": 931683,
+                  "type": "paper",
+                  "type_name": "Paper 1",
+                  "paper_num": 1,
+                  "md5": "6e7d12122d6f1c15027a44e1a901e39e"
+                },
+                {
+                  "name": "p2.pdf",
+                  "path": "public/downloads/econ/dse/eng/2019/p2.pdf",
+                  "size": 1533807,
+                  "type": "paper",
+                  "type_name": "Paper 2",
+                  "paper_num": 2,
+                  "md5": "14d3349c296fe5215c8a3f93808c59fb"
+                },
+                {
+                  "name": "per.pdf",
+                  "path": "public/downloads/econ/dse/eng/2019/per.pdf",
+                  "size": 4070183,
+                  "type": "report",
+                  "type_name": "Exam Report",
+                  "paper_num": null,
+                  "md5": "766d9aec1903d81db577bd3593731e0b"
+                }
+              ]
+            }
+          }
+        },
+        "2020": {
+          "display": "2020",
+          "languages": {
+            "chi": {
+              "name": "Chinese",
+              "files": [
+                {
+                  "name": "ans.pdf",
+                  "path": "public/downloads/econ/dse/chi/2020/ans.pdf",
+                  "size": 3352254,
+                  "type": "marking",
+                  "type_name": "Marking Scheme",
+                  "paper_num": null,
+                  "md5": "7a7c8de6a74a436b2b4544484bec9304"
+                },
+                {
+                  "name": "p1.pdf",
+                  "path": "public/downloads/econ/dse/chi/2020/p1.pdf",
+                  "size": 879878,
+                  "type": "paper",
+                  "type_name": "Paper 1",
+                  "paper_num": 1,
+                  "md5": "e4d759f412a3b3769fbc25bc7e161893"
+                },
+                {
+                  "name": "p2.pdf",
+                  "path": "public/downloads/econ/dse/chi/2020/p2.pdf",
+                  "size": 1345770,
+                  "type": "paper",
+                  "type_name": "Paper 2",
+                  "paper_num": 2,
+                  "md5": "cc95ba64cd6a7aa7332b6991d02c0909"
+                },
+                {
+                  "name": "per.pdf",
+                  "path": "public/downloads/econ/dse/chi/2020/per.pdf",
+                  "size": 4375791,
+                  "type": "report",
+                  "type_name": "Exam Report",
+                  "paper_num": null,
+                  "md5": "6868d86a7af4ab82a8a32878d2a9dfb4"
+                }
+              ]
+            },
+            "eng": {
+              "name": "English",
+              "files": [
+                {
+                  "name": "ans.pdf",
+                  "path": "public/downloads/econ/dse/eng/2020/ans.pdf",
+                  "size": 4298374,
+                  "type": "marking",
+                  "type_name": "Marking Scheme",
+                  "paper_num": null,
+                  "md5": "126354cbeb65e4e14986a8b898c6b9a2"
+                },
+                {
+                  "name": "p1.pdf",
+                  "path": "public/downloads/econ/dse/eng/2020/p1.pdf",
+                  "size": 5252330,
+                  "type": "paper",
+                  "type_name": "Paper 1",
+                  "paper_num": 1,
+                  "md5": "f0c41365e5c0e6f497d9a883624ce868"
+                },
+                {
+                  "name": "p2.pdf",
+                  "path": "public/downloads/econ/dse/eng/2020/p2.pdf",
+                  "size": 9529175,
+                  "type": "paper",
+                  "type_name": "Paper 2",
+                  "paper_num": 2,
+                  "md5": "83fe873174689f5566d714f7d4108826"
+                },
+                {
+                  "name": "per.pdf",
+                  "path": "public/downloads/econ/dse/eng/2020/per.pdf",
+                  "size": 4465737,
+                  "type": "report",
+                  "type_name": "Exam Report",
+                  "paper_num": null,
+                  "md5": "0681efa000df16ed457fdde6562ebce0"
+                }
+              ]
+            }
+          }
+        },
+        "2021": {
+          "display": "2021",
+          "languages": {
+            "chi": {
+              "name": "Chinese",
+              "files": [
+                {
+                  "name": "ans.pdf",
+                  "path": "public/downloads/econ/dse/chi/2021/ans.pdf",
+                  "size": 3115485,
+                  "type": "marking",
+                  "type_name": "Marking Scheme",
+                  "paper_num": null,
+                  "md5": "00e767ce2cfb9d475270ad2244aa74f3"
+                },
+                {
+                  "name": "p1.pdf",
+                  "path": "public/downloads/econ/dse/chi/2021/p1.pdf",
+                  "size": 644906,
+                  "type": "paper",
+                  "type_name": "Paper 1",
+                  "paper_num": 1,
+                  "md5": "8cd66ebf3b34fee7a060f8f8230188b8"
+                },
+                {
+                  "name": "p2.pdf",
+                  "path": "public/downloads/econ/dse/chi/2021/p2.pdf",
+                  "size": 896425,
+                  "type": "paper",
+                  "type_name": "Paper 2",
+                  "paper_num": 2,
+                  "md5": "d6f3bd6b1229d474f8f70434733b90d2"
+                },
+                {
+                  "name": "per.pdf",
+                  "path": "public/downloads/econ/dse/chi/2021/per.pdf",
+                  "size": 3191437,
+                  "type": "report",
+                  "type_name": "Exam Report",
+                  "paper_num": null,
+                  "md5": "e056aebd2966d56fb0515b56d63f75e2"
+                }
+              ]
+            },
+            "eng": {
+              "name": "English",
+              "files": [
+                {
+                  "name": "ans.pdf",
+                  "path": "public/downloads/econ/dse/eng/2021/ans.pdf",
+                  "size": 1354768,
+                  "type": "marking",
+                  "type_name": "Marking Scheme",
+                  "paper_num": null,
+                  "md5": "e8f9576e91bd4b8680a0abdc58800da8"
+                },
+                {
+                  "name": "p1.pdf",
+                  "path": "public/downloads/econ/dse/eng/2021/p1.pdf",
+                  "size": 1894087,
+                  "type": "paper",
+                  "type_name": "Paper 1",
+                  "paper_num": 1,
+                  "md5": "4b6732fe43073327e19293a24145aec1"
+                },
+                {
+                  "name": "p2.pdf",
+                  "path": "public/downloads/econ/dse/eng/2021/p2.pdf",
+                  "size": 30126593,
+                  "type": "paper",
+                  "type_name": "Paper 2",
+                  "paper_num": 2,
+                  "md5": "c0ce6add06da381bd8bf46b66e08808e"
+                },
+                {
+                  "name": "per.pdf",
+                  "path": "public/downloads/econ/dse/eng/2021/per.pdf",
+                  "size": 1385728,
+                  "type": "report",
+                  "type_name": "Exam Report",
+                  "paper_num": null,
+                  "md5": "17b10af3b91bf37b9546d313b0d8a6ca"
+                }
+              ]
+            }
+          }
+        },
+        "2023": {
+          "display": "2023",
+          "languages": {
+            "chi": {
+              "name": "Chinese",
+              "files": [
+                {
+                  "name": "p1.pdf",
+                  "path": "public/downloads/econ/dse/chi/2023/p1.pdf",
+                  "size": 732016,
+                  "type": "paper",
+                  "type_name": "Paper 1",
+                  "paper_num": 1,
+                  "md5": "a205ab982c3552e5e6dfa550769f72b5"
+                },
+                {
+                  "name": "p2.pdf",
+                  "path": "public/downloads/econ/dse/chi/2023/p2.pdf",
+                  "size": 1150736,
+                  "type": "paper",
+                  "type_name": "Paper 2",
+                  "paper_num": 2,
+                  "md5": "8d450cc0fee75cc8d625172edf0a5c24"
+                }
+              ]
+            },
+            "eng": {
+              "name": "English",
+              "files": [
+                {
+                  "name": "p1.pdf",
+                  "path": "public/downloads/econ/dse/eng/2023/p1.pdf",
+                  "size": 3257110,
+                  "type": "paper",
+                  "type_name": "Paper 1",
+                  "paper_num": 1,
+                  "md5": "ce76ca84f45956bd188bd86c9e3726b8"
+                },
+                {
+                  "name": "p2.pdf",
+                  "path": "public/downloads/econ/dse/eng/2023/p2.pdf",
+                  "size": 5733787,
+                  "type": "paper",
+                  "type_name": "Paper 2",
+                  "paper_num": 2,
+                  "md5": "b2345637af4faa5e3b0565e08e92c8ad"
+                }
+              ]
+            }
+          }
+        },
+        "pp": {
+          "display": "Practice Paper",
+          "languages": {
+            "chi": {
+              "name": "Chinese",
+              "files": [
+                {
+                  "name": "ans.pdf",
+                  "path": "public/downloads/econ/dse/chi/pp/ans.pdf",
+                  "size": 474916,
+                  "type": "marking",
+                  "type_name": "Marking Scheme",
+                  "paper_num": null,
+                  "md5": "965d635f71244815ad1be31a0ab81bb7"
+                },
+                {
+                  "name": "p1.pdf",
+                  "path": "public/downloads/econ/dse/chi/pp/p1.pdf",
+                  "size": 802878,
+                  "type": "paper",
+                  "type_name": "Paper 1",
+                  "paper_num": 1,
+                  "md5": "de7599a0a74ec580c3c6bb0fdb287859"
+                },
+                {
+                  "name": "p2.pdf",
+                  "path": "public/downloads/econ/dse/chi/pp/p2.pdf",
+                  "size": 562976,
+                  "type": "paper",
+                  "type_name": "Paper 2",
+                  "paper_num": 2,
+                  "md5": "e5c20dfc73be907fb9ea2d77c4a74265"
+                }
+              ]
+            },
+            "eng": {
+              "name": "English",
+              "files": [
+                {
+                  "name": "ans.pdf",
+                  "path": "public/downloads/econ/dse/eng/pp/ans.pdf",
+                  "size": 398107,
+                  "type": "marking",
+                  "type_name": "Marking Scheme",
+                  "paper_num": null,
+                  "md5": "5b482fabfd261c297fb4e488e9fe2184"
+                },
+                {
+                  "name": "p1.pdf",
+                  "path": "public/downloads/econ/dse/eng/pp/p1.pdf",
+                  "size": 361578,
+                  "type": "paper",
+                  "type_name": "Paper 1",
+                  "paper_num": 1,
+                  "md5": "3d14cfa0dedfeae27938be6115aae546"
+                },
+                {
+                  "name": "p2.pdf",
+                  "path": "public/downloads/econ/dse/eng/pp/p2.pdf",
+                  "size": 730137,
+                  "type": "paper",
+                  "type_name": "Paper 2",
+                  "paper_num": 2,
+                  "md5": "8dbd31df55c08fcdd7ff8aa8b88c989c"
+                }
+              ]
+            }
+          }
+        },
+        "sp": {
+          "display": "Sample Paper",
+          "languages": {
+            "chi": {
+              "name": "Chinese",
+              "files": [
+                {
+                  "name": "ans.pdf",
+                  "path": "public/downloads/econ/dse/chi/sp/ans.pdf",
+                  "size": 673545,
+                  "type": "marking",
+                  "type_name": "Marking Scheme",
+                  "paper_num": null,
+                  "md5": "64eaed69560b5bdf7f5f28a0c21b7467"
+                },
+                {
+                  "name": "p1.pdf",
+                  "path": "public/downloads/econ/dse/chi/sp/p1.pdf",
+                  "size": 688954,
+                  "type": "paper",
+                  "type_name": "Paper 1",
+                  "paper_num": 1,
+                  "md5": "3877bffb31cc7568cb52d8c620d28506"
+                },
+                {
+                  "name": "p2.pdf",
+                  "path": "public/downloads/econ/dse/chi/sp/p2.pdf",
+                  "size": 599729,
+                  "type": "paper",
+                  "type_name": "Paper 2",
+                  "paper_num": 2,
+                  "md5": "a146b85011992362a47d2a5be9dbde86"
+                }
+              ]
+            },
+            "eng": {
+              "name": "English",
+              "files": [
+                {
+                  "name": "ans.pdf",
+                  "path": "public/downloads/econ/dse/eng/sp/ans.pdf",
+                  "size": 4459914,
+                  "type": "marking",
+                  "type_name": "Marking Scheme",
+                  "paper_num": null,
+                  "md5": "c93aed50744e3b87422a862a5139500e"
+                },
+                {
+                  "name": "p1.pdf",
+                  "path": "public/downloads/econ/dse/eng/sp/p1.pdf",
+                  "size": 630606,
+                  "type": "paper",
+                  "type_name": "Paper 1",
+                  "paper_num": 1,
+                  "md5": "865944a0f60580cfdabaad8374ccdd5d"
+                },
+                {
+                  "name": "p2.pdf",
+                  "path": "public/downloads/econ/dse/eng/sp/p2.pdf",
+                  "size": 583592,
+                  "type": "paper",
+                  "type_name": "Paper 2",
+                  "paper_num": 2,
+                  "md5": "a8b78eca747650fa7de78a551a385ddd"
+                }
+              ]
+            }
+          }
+        },
+        "2022": {
+          "display": "2022",
+          "languages": {
+            "eng": {
+              "name": "English",
+              "files": [
+                {
+                  "name": "p1.pdf",
+                  "path": "public/downloads/econ/dse/eng/2022/p1.pdf",
+                  "size": 1116175,
+                  "type": "paper",
+                  "type_name": "Paper 1",
+                  "paper_num": 1,
+                  "md5": "4bad2db881d48a0e4066ed72152cdf67"
+                },
+                {
+                  "name": "p2.pdf",
+                  "path": "public/downloads/econ/dse/eng/2022/p2.pdf",
+                  "size": 1021049,
+                  "type": "paper",
+                  "type_name": "Paper 2",
+                  "paper_num": 2,
+                  "md5": "74a1f1cecb1340b1037e11a84fc3cbab"
+                }
+              ]
+            }
+          }
+        },
+        "2024": {
+          "display": "2024",
+          "languages": {
+            "eng": {
+              "name": "English",
+              "files": [
+                {
+                  "name": "p2.pdf",
+                  "path": "public/downloads/econ/dse/eng/2024/p2.pdf",
+                  "size": 2653390,
+                  "type": "paper",
+                  "type_name": "Paper 2",
+                  "paper_num": 2,
+                  "md5": "c64a6de1dc55f32af8e7eba900172bd6"
+                }
+              ]
+            }
+          }
+        }
+      }
+    }
+  },
+  "file_count": 98,
+  "total_size": 289662116,
+  "years_summary": {}
+}
