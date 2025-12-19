@@ -19,7 +19,7 @@ from pathlib import Path
 # ============ 配置 ============
 BASE_DIR = Path(__file__).resolve().parent
 REPO_ROOT = BASE_DIR.parent
-ROOT_DIR = REPO_ROOT / "papers"
+ROOT_DIR = REPO_ROOT / "frontend" / "public" / "sources"
 OUTPUT_DIR = REPO_ROOT / "frontend" / "public" / "data"
 MAIN_INDEX = "index.json"
 MISSING_REPORT = "missing_report.json"

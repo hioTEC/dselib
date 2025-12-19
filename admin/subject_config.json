@@ -1,0 +1,198 @@
+{
+  "subjects": {
+    "chi": {
+      "name": "Chinese",
+      "name_zh": "中文",
+      "category": "Core",
+      "icon": "fa-language"
+    },
+    "eng": {
+      "name": "English",
+      "name_zh": "英文",
+      "category": "Core",
+      "icon": "fa-font"
+    },
+    "m0": {
+      "name": "Mathematics",
+      "name_zh": "數學",
+      "category": "Core",
+      "icon": "fa-calculator"
+    },
+    "citizen": {
+      "name": "Citizenship",
+      "name_zh": "公民與社會發展",
+      "category": "Core",
+      "icon": "fa-users"
+    },
+    "ls": {
+      "name": "Liberal Studies",
+      "name_zh": "通識教育",
+      "category": "Core",
+      "icon": "fa-newspaper"
+    },
+    "phy": {
+      "name": "Physics",
+      "name_zh": "物理",
+      "category": "Science",
+      "icon": "fa-atom"
+    },
+    "chem": {
+      "name": "Chemistry",
+      "name_zh": "化學",
+      "category": "Science",
+      "icon": "fa-flask"
+    },
+    "bio": {
+      "name": "Biology",
+      "name_zh": "生物",
+      "category": "Science",
+      "icon": "fa-dna"
+    },
+    "m1": {
+      "name": "Mathematics M1",
+      "name_zh": "數學延伸M1",
+      "category": "Science",
+      "icon": "fa-chart-line"
+    },
+    "m2": {
+      "name": "Mathematics M2",
+      "name_zh": "數學延伸M2",
+      "category": "Science",
+      "icon": "fa-superscript"
+    },
+    "bafs": {
+      "name": "BAFS",
+      "name_zh": "企業會計財務",
+      "category": "Commerce",
+      "icon": "fa-briefcase"
+    },
+    "econ": {
+      "name": "Economics",
+      "name_zh": "經濟",
+      "category": "Commerce",
+      "icon": "fa-chart-pie"
+    },
+    "chihist": {
+      "name": "Chinese History",
+      "name_zh": "中國歷史",
+      "category": "Arts",
+      "icon": "fa-scroll"
+    },
+    "enghist": {
+      "name": "History",
+      "name_zh": "世界歷史",
+      "category": "Arts",
+      "icon": "fa-landmark"
+    },
+    "geog": {
+      "name": "Geography",
+      "name_zh": "地理",
+      "category": "Arts",
+      "icon": "fa-globe-asia"
+    },
+    "ict": {
+      "name": "ICT",
+      "name_zh": "資訊及通訊科技",
+      "category": "Technology",
+      "icon": "fa-laptop-code"
+    },
+    "ths": {
+      "name": "Tourism",
+      "name_zh": "旅遊與款待",
+      "category": "Others",
+      "icon": "fa-plane"
+    }
+  },
+  "categories": {
+    "Core": {
+      "icon": "fa-book",
+      "name_zh": "核心科目"
+    },
+    "Science": {
+      "icon": "fa-flask",
+      "name_zh": "理科"
+    },
+    "Commerce": {
+      "icon": "fa-briefcase",
+      "name_zh": "商科"
+    },
+    "Arts": {
+      "icon": "fa-palette",
+      "name_zh": "文科"
+    },
+    "Technology": {
+      "icon": "fa-laptop",
+      "name_zh": "科技"
+    },
+    "Others": {
+      "icon": "fa-folder",
+      "name_zh": "其他"
+    }
+  },
+  "languages": {
+    "eng": {
+      "name": "English",
+      "name_zh": "英文"
+    },
+    "chi": {
+      "name": "Chinese",
+      "name_zh": "中文"
+    }
+  },
+  "file_types": {
+    "p1.pdf": {
+      "type": "paper",
+      "type_name": "Paper 1",
+      "paper_num": 1
+    },
+    "p1a.pdf": {
+      "type": "paper",
+      "type_name": "Paper 1A",
+      "paper_num": 1
+    },
+    "p1b.pdf": {
+      "type": "paper",
+      "type_name": "Paper 1B",
+      "paper_num": 1
+    },
+    "p2.pdf": {
+      "type": "paper",
+      "type_name": "Paper 2",
+      "paper_num": 2
+    },
+    "p3.pdf": {
+      "type": "paper",
+      "type_name": "Paper 3",
+      "paper_num": 3
+    },
+    "p4.pdf": {
+      "type": "paper",
+      "type_name": "Paper 4",
+      "paper_num": 4
+    },
+    "p5.pdf": {
+      "type": "paper",
+      "type_name": "Paper 5",
+      "paper_num": 5
+    },
+    "ans.pdf": {
+      "type": "marking",
+      "type_name": "Marking Scheme",
+      "paper_num": null
+    },
+    "per.pdf": {
+      "type": "report",
+      "type_name": "Exam Report",
+      "paper_num": null
+    },
+    "aud.mp3": {
+      "type": "audio",
+      "type_name": "Audio",
+      "paper_num": null
+    }
+  },
+  "special_years": {
+    "pp": "Practice Paper",
+    "sp": "Sample Paper"
+  }
+}

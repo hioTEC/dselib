@@ -18,7 +18,7 @@
               "files": [
                 {
                   "name": "answer.pdf",
-                  "path": "public/downloads/citizen/dse/chi/2024/answer.pdf",
+                  "path": "public/sources/citizen/dse/chi/2024/answer.pdf",
                   "size": 577276,
                   "type": "other",
                   "type_name": "answer.pdf",
@@ -27,7 +27,7 @@
                 },
                 {
                   "name": "question.pdf",
-                  "path": "public/downloads/citizen/dse/chi/2024/question.pdf",
+                  "path": "public/sources/citizen/dse/chi/2024/question.pdf",
                   "size": 222646,
                   "type": "other",
                   "type_name": "question.pdf",
@@ -46,7 +46,7 @@
               "files": [
                 {
                   "name": "answer.pdf",
-                  "path": "public/downloads/citizen/dse/chi/sp/answer.pdf",
+                  "path": "public/sources/citizen/dse/chi/sp/answer.pdf",
                   "size": 376639,
                   "type": "other",
                   "type_name": "answer.pdf",
@@ -55,7 +55,7 @@
                 },
                 {
                   "name": "question.pdf",
-                  "path": "public/downloads/citizen/dse/chi/sp/question.pdf",
+                  "path": "public/sources/citizen/dse/chi/sp/question.pdf",
                   "size": 540537,
                   "type": "other",
                   "type_name": "question.pdf",

@@ -10,56 +10,38 @@
       "name": "HKDSE",
       "full_name": "香港中學文憑考試",
       "years": {
-        "2012": {
-          "display": "2012",
+        "pp": {
+          "display": "Practice Paper",
           "languages": {
             "chi": {
               "name": "Chinese",
               "files": [
                 {
-                  "name": "ans.pdf",
-                  "path": "public/downloads/phy/dse/chi/2012/ans.pdf",
-                  "size": 1664238,
-                  "type": "marking",
-                  "type_name": "Marking Scheme",
-                  "paper_num": null,
-                  "md5": "0ca62d5ae7e9a5e2566753587a5756e4"
-                },
-                {
                   "name": "p1a.pdf",
-                  "path": "public/downloads/phy/dse/chi/2012/p1a.pdf",
-                  "size": 2466713,
+                  "path": "public/sources/phy/dse/chi/pp/p1a.pdf",
+                  "size": 1180105,
                   "type": "paper",
                   "type_name": "Paper 1A",
                   "paper_num": 1,
-                  "md5": "3a86b21f3e0164dcee68be306ee74d15"
+                  "md5": "acb140b4939074887441694dd492b15b"
                 },
                 {
                   "name": "p1b.pdf",
-                  "path": "public/downloads/phy/dse/chi/2012/p1b.pdf",
-                  "size": 4189819,
+                  "path": "public/sources/phy/dse/chi/pp/p1b.pdf",
+                  "size": 1105994,
                   "type": "paper",
                   "type_name": "Paper 1B",
                   "paper_num": 1,
-                  "md5": "bcd2467e2251dda3d5810a2098ce477e"
+                  "md5": "78e851d0457e3750236f18dbc938511f"
                 },
                 {
-                  "name": "p2.pdf",
-                  "path": "public/downloads/phy/dse/chi/2012/p2.pdf",
-                  "size": 4101437,
-                  "type": "paper",
-                  "type_name": "Paper 2",
-                  "paper_num": 2,
-                  "md5": "017db28aac694d9b32d80a408c5a3509"
-                },
-                {
-                  "name": "per.pdf",
-                  "path": "public/downloads/phy/dse/chi/2012/per.pdf",
-                  "size": 1118036,
-                  "type": "report",
-                  "type_name": "Exam Report",
+                  "name": "ans.pdf",
+                  "path": "public/sources/phy/dse/chi/pp/ans.pdf",
+                  "size": 674873,
+                  "type": "marking",
+                  "type_name": "Marking Scheme",
                   "paper_num": null,
-                  "md5": "7faab1fd1b406100092897a0d46c0dc3"
+                  "md5": "c1f8ccb42fd0cd9669960f980e64b21c"
                 }
               ]
             },
@@ -67,136 +49,22 @@
               "name": "English",
               "files": [
                 {
-                  "name": "ans.pdf",
-                  "path": "public/downloads/phy/dse/eng/2012/ans.pdf",
-                  "size": 1907808,
-                  "type": "marking",
-                  "type_name": "Marking Scheme",
-                  "paper_num": null,
-                  "md5": "10fe1768fc832bcbf1d83ddabfaa78c8"
-                },
-                {
                   "name": "p1a.pdf",
-                  "path": "public/downloads/phy/dse/eng/2012/p1a.pdf",
-                  "size": 2988428,
+                  "path": "public/sources/phy/dse/eng/pp/p1a.pdf",
+                  "size": 2036486,
                   "type": "paper",
                   "type_name": "Paper 1A",
                   "paper_num": 1,
-                  "md5": "46c12f461398ca44e14955601ebc6790"
+                  "md5": "d1d3a346972db86068c51ad8266b8c3b"
                 },
-                {
-                  "name": "p1b.pdf",
-                  "path": "public/downloads/phy/dse/eng/2012/p1b.pdf",
-                  "size": 4175656,
-                  "type": "paper",
-                  "type_name": "Paper 1B",
-                  "paper_num": 1,
-                  "md5": "3af13d9410f2a301225d5edd55689680"
-                },
-                {
-                  "name": "p2.pdf",
-                  "path": "public/downloads/phy/dse/eng/2012/p2.pdf",
-                  "size": 3811178,
-                  "type": "paper",
-                  "type_name": "Paper 2",
-                  "paper_num": 2,
-                  "md5": "a6c74692adeb5b1b0e6e9aec48a01ea7"
-                },
-                {
-                  "name": "per.pdf",
-                  "path": "public/downloads/phy/dse/eng/2012/per.pdf",
-                  "size": 6949094,
-                  "type": "report",
-                  "type_name": "Exam Report",
-                  "paper_num": null,
-                  "md5": "65400c0ee696efeac944521df678b441"
-                }
-              ]
-            }
-          }
-        },
-        "2013": {
-          "display": "2013",
-          "languages": {
-            "chi": {
-              "name": "Chinese",
-              "files": [
                 {
                   "name": "ans.pdf",
-                  "path": "public/downloads/phy/dse/chi/2013/ans.pdf",
-                  "size": 1485909,
+                  "path": "public/sources/phy/dse/eng/pp/ans.pdf",
+                  "size": 1042007,
                   "type": "marking",
                   "type_name": "Marking Scheme",
                   "paper_num": null,
-                  "md5": "2910ffa85595e02562e7b7b10e79ccca"
-                },
-                {
-                  "name": "p1a.pdf",
-                  "path": "public/downloads/phy/dse/chi/2013/p1a.pdf",
-                  "size": 2584866,
-                  "type": "paper",
-                  "type_name": "Paper 1A",
-                  "paper_num": 1,
-                  "md5": "c11cf9013c971bf62ce44dd7f3a7ae60"
-                },
-                {
-                  "name": "p1b.pdf",
-                  "path": "public/downloads/phy/dse/chi/2013/p1b.pdf",
-                  "size": 4243221,
-                  "type": "paper",
-                  "type_name": "Paper 1B",
-                  "paper_num": 1,
-                  "md5": "c9d26cb11f576a579b0da01c2f230181"
-                },
-                {
-                  "name": "p2.pdf",
-                  "path": "public/downloads/phy/dse/chi/2013/p2.pdf",
-                  "size": 3484251,
-                  "type": "paper",
-                  "type_name": "Paper 2",
-                  "paper_num": 2,
-                  "md5": "18dce312efe9d11fab5d4b521b370e24"
-                },
-                {
-                  "name": "per.pdf",
-                  "path": "public/downloads/phy/dse/chi/2013/per.pdf",
-                  "size": 2035950,
-                  "type": "report",
-                  "type_name": "Exam Report",
-                  "paper_num": null,
-                  "md5": "92f48e74ea7758d25d4d6d52e21b89e4"
-                }
-              ]
-            },
-            "eng": {
-              "name": "English",
-              "files": [
-                {
-                  "name": "ans.pdf",
-                  "path": "public/downloads/phy/dse/eng/2013/ans.pdf",
-                  "size": 3755797,
-                  "type": "marking",
-                  "type_name": "Marking Scheme",
-                  "paper_num": null,
-                  "md5": "5c6c0bfb65fdc2e47fb6a05334117d13"
-                },
-                {
-                  "name": "p1a.pdf",
-                  "path": "public/downloads/phy/dse/eng/2013/p1a.pdf",
-                  "size": 3761633,
-                  "type": "paper",
-                  "type_name": "Paper 1A",
-                  "paper_num": 1,
-                  "md5": "e4dce13ae9d6992c4a767d344f62e2d1"
-                },
-                {
-                  "name": "per.pdf",
-                  "path": "public/downloads/phy/dse/eng/2013/per.pdf",
-                  "size": 3423374,
-                  "type": "report",
-                  "type_name": "Exam Report",
-                  "paper_num": null,
-                  "md5": "37265905d15e8799de4194f3452679bb"
+                  "md5": "23a79b1f5d25f6c63a0a2757cfda5a68"
                 }
               ]
             }
@@ -209,17 +77,26 @@
               "name": "Chinese",
               "files": [
                 {
-                  "name": "ans.pdf",
-                  "path": "public/downloads/phy/dse/chi/2014/ans.pdf",
-                  "size": 2705954,
-                  "type": "marking",
-                  "type_name": "Marking Scheme",
+                  "name": "per.pdf",
+                  "path": "public/sources/phy/dse/chi/2014/per.pdf",
+                  "size": 1740328,
+                  "type": "report",
+                  "type_name": "Exam Report",
                   "paper_num": null,
-                  "md5": "cc30c4a06ac40074c03fec1e2ba1c4d2"
+                  "md5": "bb92ca1f5ea5a8ac40a7f1c3d5f20789"
+                },
+                {
+                  "name": "p2.pdf",
+                  "path": "public/sources/phy/dse/chi/2014/p2.pdf",
+                  "size": 2936934,
+                  "type": "paper",
+                  "type_name": "Paper 2",
+                  "paper_num": 2,
+                  "md5": "5ea23ca6f94645af2eaee1b29d7f970d"
                 },
                 {
                   "name": "p1a.pdf",
-                  "path": "public/downloads/phy/dse/chi/2014/p1a.pdf",
+                  "path": "public/sources/phy/dse/chi/2014/p1a.pdf",
                   "size": 2572976,
                   "type": "paper",
                   "type_name": "Paper 1A",
@@ -228,7 +105,7 @@
                 },
                 {
                   "name": "p1b.pdf",
-                  "path": "public/downloads/phy/dse/chi/2014/p1b.pdf",
+                  "path": "public/sources/phy/dse/chi/2014/p1b.pdf",
                   "size": 4374838,
                   "type": "paper",
                   "type_name": "Paper 1B",
@@ -236,22 +113,13 @@
                   "md5": "ab39cf2f0e35bdf4eaa2c2b6f576ea2d"
                 },
                 {
-                  "name": "p2.pdf",
-                  "path": "public/downloads/phy/dse/chi/2014/p2.pdf",
-                  "size": 2936934,
-                  "type": "paper",
-                  "type_name": "Paper 2",
-                  "paper_num": 2,
-                  "md5": "5ea23ca6f94645af2eaee1b29d7f970d"
-                },
-                {
-                  "name": "per.pdf",
-                  "path": "public/downloads/phy/dse/chi/2014/per.pdf",
-                  "size": 1740328,
-                  "type": "report",
-                  "type_name": "Exam Report",
+                  "name": "ans.pdf",
+                  "path": "public/sources/phy/dse/chi/2014/ans.pdf",
+                  "size": 2705954,
+                  "type": "marking",
+                  "type_name": "Marking Scheme",
                   "paper_num": null,
-                  "md5": "bb92ca1f5ea5a8ac40a7f1c3d5f20789"
+                  "md5": "cc30c4a06ac40074c03fec1e2ba1c4d2"
                 }
               ]
             },
@@ -259,17 +127,26 @@
               "name": "English",
               "files": [
                 {
-                  "name": "ans.pdf",
-                  "path": "public/downloads/phy/dse/eng/2014/ans.pdf",
-                  "size": 3697876,
-                  "type": "marking",
-                  "type_name": "Marking Scheme",
+                  "name": "per.pdf",
+                  "path": "public/sources/phy/dse/eng/2014/per.pdf",
+                  "size": 3322430,
+                  "type": "report",
+                  "type_name": "Exam Report",
                   "paper_num": null,
-                  "md5": "7160a2aa08fb63f3e2fc61ae65f43e53"
+                  "md5": "3d4bfb1ad7ef415e6a0231b0873684c1"
+                },
+                {
+                  "name": "p2.pdf",
+                  "path": "public/sources/phy/dse/eng/2014/p2.pdf",
+                  "size": 1541640,
+                  "type": "paper",
+                  "type_name": "Paper 2",
+                  "paper_num": 2,
+                  "md5": "25ca41b5710b3dfda45da0aa1f878181"
                 },
                 {
                   "name": "p1a.pdf",
-                  "path": "public/downloads/phy/dse/eng/2014/p1a.pdf",
+                  "path": "public/sources/phy/dse/eng/2014/p1a.pdf",
                   "size": 1242852,
                   "type": "paper",
                   "type_name": "Paper 1A",
@@ -278,7 +155,7 @@
                 },
                 {
                   "name": "p1b.pdf",
-                  "path": "public/downloads/phy/dse/eng/2014/p1b.pdf",
+                  "path": "public/sources/phy/dse/eng/2014/p1b.pdf",
                   "size": 1848721,
                   "type": "paper",
                   "type_name": "Paper 1B",
@@ -286,22 +163,13 @@
                   "md5": "f585595387870ab980621409421a2888"
                 },
                 {
-                  "name": "p2.pdf",
-                  "path": "public/downloads/phy/dse/eng/2014/p2.pdf",
-                  "size": 1541640,
-                  "type": "paper",
-                  "type_name": "Paper 2",
-                  "paper_num": 2,
-                  "md5": "25ca41b5710b3dfda45da0aa1f878181"
-                },
-                {
-                  "name": "per.pdf",
-                  "path": "public/downloads/phy/dse/eng/2014/per.pdf",
-                  "size": 3322430,
-                  "type": "report",
-                  "type_name": "Exam Report",
+                  "name": "ans.pdf",
+                  "path": "public/sources/phy/dse/eng/2014/ans.pdf",
+                  "size": 3697876,
+                  "type": "marking",
+                  "type_name": "Marking Scheme",
                   "paper_num": null,
-                  "md5": "3d4bfb1ad7ef415e6a0231b0873684c1"
+                  "md5": "7160a2aa08fb63f3e2fc61ae65f43e53"
                 }
               ]
             }
@@ -314,17 +182,26 @@
               "name": "Chinese",
               "files": [
                 {
-                  "name": "ans.pdf",
-                  "path": "public/downloads/phy/dse/chi/2015/ans.pdf",
-                  "size": 3365640,
-                  "type": "marking",
-                  "type_name": "Marking Scheme",
+                  "name": "per.pdf",
+                  "path": "public/sources/phy/dse/chi/2015/per.pdf",
+                  "size": 4227698,
+                  "type": "report",
+                  "type_name": "Exam Report",
                   "paper_num": null,
-                  "md5": "e47db6521001eec1351dd1c1a7711118"
+                  "md5": "d801a653218af31ea6cd415c3f93f4e5"
+                },
+                {
+                  "name": "p2.pdf",
+                  "path": "public/sources/phy/dse/chi/2015/p2.pdf",
+                  "size": 3699055,
+                  "type": "paper",
+                  "type_name": "Paper 2",
+                  "paper_num": 2,
+                  "md5": "3351cb31a0fed0118937cccb9ece6720"
                 },
                 {
                   "name": "p1a.pdf",
-                  "path": "public/downloads/phy/dse/chi/2015/p1a.pdf",
+                  "path": "public/sources/phy/dse/chi/2015/p1a.pdf",
                   "size": 3154288,
                   "type": "paper",
                   "type_name": "Paper 1A",
@@ -333,7 +210,7 @@
                 },
                 {
                   "name": "p1b.pdf",
-                  "path": "public/downloads/phy/dse/chi/2015/p1b.pdf",
+                  "path": "public/sources/phy/dse/chi/2015/p1b.pdf",
                   "size": 5325243,
                   "type": "paper",
                   "type_name": "Paper 1B",
@@ -341,77 +218,13 @@
                   "md5": "d8fde3a5f3f59a21fee7aad5a2c0b140"
                 },
                 {
-                  "name": "p2.pdf",
-                  "path": "public/downloads/phy/dse/chi/2015/p2.pdf",
-                  "size": 3699055,
-                  "type": "paper",
-                  "type_name": "Paper 2",
-                  "paper_num": 2,
-                  "md5": "3351cb31a0fed0118937cccb9ece6720"
-                },
-                {
-                  "name": "per.pdf",
-                  "path": "public/downloads/phy/dse/chi/2015/per.pdf",
-                  "size": 4227698,
-                  "type": "report",
-                  "type_name": "Exam Report",
-                  "paper_num": null,
-                  "md5": "d801a653218af31ea6cd415c3f93f4e5"
-                }
-              ]
-            }
-          }
-        },
-        "2016": {
-          "display": "2016",
-          "languages": {
-            "chi": {
-              "name": "Chinese",
-              "files": [
-                {
                   "name": "ans.pdf",
-                  "path": "public/downloads/phy/dse/chi/2016/ans.pdf",
-                  "size": 3035813,
+                  "path": "public/sources/phy/dse/chi/2015/ans.pdf",
+                  "size": 3365640,
                   "type": "marking",
                   "type_name": "Marking Scheme",
                   "paper_num": null,
-                  "md5": "7b3b20183c22cbc6a4537004bf18d561"
-                },
-                {
-                  "name": "p1a.pdf",
-                  "path": "public/downloads/phy/dse/chi/2016/p1a.pdf",
-                  "size": 2894151,
-                  "type": "paper",
-                  "type_name": "Paper 1A",
-                  "paper_num": 1,
-                  "md5": "841d19ccc4f3d21df02bf201a3803722"
-                },
-                {
-                  "name": "p1b.pdf",
-                  "path": "public/downloads/phy/dse/chi/2016/p1b.pdf",
-                  "size": 5294973,
-                  "type": "paper",
-                  "type_name": "Paper 1B",
-                  "paper_num": 1,
-                  "md5": "f81b67bbfe8751583b5b748e3893f119"
-                },
-                {
-                  "name": "p2.pdf",
-                  "path": "public/downloads/phy/dse/chi/2016/p2.pdf",
-                  "size": 3803105,
-                  "type": "paper",
-                  "type_name": "Paper 2",
-                  "paper_num": 2,
-                  "md5": "50a06fe84db2ee94381b554facbd5774"
-                },
-                {
-                  "name": "per.pdf",
-                  "path": "public/downloads/phy/dse/chi/2016/per.pdf",
-                  "size": 2840217,
-                  "type": "report",
-                  "type_name": "Exam Report",
-                  "paper_num": null,
-                  "md5": "a44d7f7e196f15252817fb8662d06aa4"
+                  "md5": "e47db6521001eec1351dd1c1a7711118"
                 }
               ]
             }
@@ -424,17 +237,26 @@
               "name": "Chinese",
               "files": [
                 {
-                  "name": "ans.pdf",
-                  "path": "public/downloads/phy/dse/chi/2017/ans.pdf",
-                  "size": 2081062,
-                  "type": "marking",
-                  "type_name": "Marking Scheme",
+                  "name": "per.pdf",
+                  "path": "public/sources/phy/dse/chi/2017/per.pdf",
+                  "size": 1978143,
+                  "type": "report",
+                  "type_name": "Exam Report",
                   "paper_num": null,
-                  "md5": "a854b1075d9ec409ce9196e79e6dfead"
+                  "md5": "f4c2a5edcb444af1b9b5664390e41c9e"
+                },
+                {
+                  "name": "p2.pdf",
+                  "path": "public/sources/phy/dse/chi/2017/p2.pdf",
+                  "size": 2602557,
+                  "type": "paper",
+                  "type_name": "Paper 2",
+                  "paper_num": 2,
+                  "md5": "e6cf27d5524bbda21e3b0e689deb3d6d"
                 },
                 {
                   "name": "p1a.pdf",
-                  "path": "public/downloads/phy/dse/chi/2017/p1a.pdf",
+                  "path": "public/sources/phy/dse/chi/2017/p1a.pdf",
                   "size": 2514464,
                   "type": "paper",
                   "type_name": "Paper 1A",
@@ -443,7 +265,7 @@
                 },
                 {
                   "name": "p1b.pdf",
-                  "path": "public/downloads/phy/dse/chi/2017/p1b.pdf",
+                  "path": "public/sources/phy/dse/chi/2017/p1b.pdf",
                   "size": 4752109,
                   "type": "paper",
                   "type_name": "Paper 1B",
@@ -451,22 +273,13 @@
                   "md5": "2cbd3e89eb05cb726faaba8e9464efd6"
                 },
                 {
-                  "name": "p2.pdf",
-                  "path": "public/downloads/phy/dse/chi/2017/p2.pdf",
-                  "size": 2602557,
-                  "type": "paper",
-                  "type_name": "Paper 2",
-                  "paper_num": 2,
-                  "md5": "e6cf27d5524bbda21e3b0e689deb3d6d"
-                },
-                {
-                  "name": "per.pdf",
-                  "path": "public/downloads/phy/dse/chi/2017/per.pdf",
-                  "size": 1978143,
-                  "type": "report",
-                  "type_name": "Exam Report",
+                  "name": "ans.pdf",
+                  "path": "public/sources/phy/dse/chi/2017/ans.pdf",
+                  "size": 2081062,
+                  "type": "marking",
+                  "type_name": "Marking Scheme",
                   "paper_num": null,
-                  "md5": "f4c2a5edcb444af1b9b5664390e41c9e"
+                  "md5": "a854b1075d9ec409ce9196e79e6dfead"
                 }
               ]
             },
@@ -474,17 +287,17 @@
               "name": "English",
               "files": [
                 {
-                  "name": "ans.pdf",
-                  "path": "public/downloads/phy/dse/eng/2017/ans.pdf",
-                  "size": 4631833,
-                  "type": "marking",
-                  "type_name": "Marking Scheme",
-                  "paper_num": null,
-                  "md5": "cefe3f99efb9355fd05c4f1e17f66331"
+                  "name": "p2.pdf",
+                  "path": "public/sources/phy/dse/eng/2017/p2.pdf",
+                  "size": 4560196,
+                  "type": "paper",
+                  "type_name": "Paper 2",
+                  "paper_num": 2,
+                  "md5": "6dc5c73403172f3b6552c00b3ba6323b"
                 },
                 {
                   "name": "p1a.pdf",
-                  "path": "public/downloads/phy/dse/eng/2017/p1a.pdf",
+                  "path": "public/sources/phy/dse/eng/2017/p1a.pdf",
                   "size": 3508863,
                   "type": "paper",
                   "type_name": "Paper 1A",
@@ -493,7 +306,7 @@
                 },
                 {
                   "name": "p1b.pdf",
-                  "path": "public/downloads/phy/dse/eng/2017/p1b.pdf",
+                  "path": "public/sources/phy/dse/eng/2017/p1b.pdf",
                   "size": 4986505,
                   "type": "paper",
                   "type_name": "Paper 1B",
@@ -501,223 +314,13 @@
                   "md5": "ec9d7bb0c72570fb4c87d1b637ae69f7"
                 },
                 {
-                  "name": "p2.pdf",
-                  "path": "public/downloads/phy/dse/eng/2017/p2.pdf",
-                  "size": 4560196,
-                  "type": "paper",
-                  "type_name": "Paper 2",
-                  "paper_num": 2,
-                  "md5": "6dc5c73403172f3b6552c00b3ba6323b"
-                }
-              ]
-            }
-          }
-        },
-        "2018": {
-          "display": "2018",
-          "languages": {
-            "chi": {
-              "name": "Chinese",
-              "files": [
-                {
                   "name": "ans.pdf",
-                  "path": "public/downloads/phy/dse/chi/2018/ans.pdf",
-                  "size": 4733449,
+                  "path": "public/sources/phy/dse/eng/2017/ans.pdf",
+                  "size": 4631833,
                   "type": "marking",
                   "type_name": "Marking Scheme",
                   "paper_num": null,
-                  "md5": "569bed70b7f73503d2b27bb2eb1e6793"
-                },
-                {
-                  "name": "p1a.pdf",
-                  "path": "public/downloads/phy/dse/chi/2018/p1a.pdf",
-                  "size": 3413823,
-                  "type": "paper",
-                  "type_name": "Paper 1A",
-                  "paper_num": 1,
-                  "md5": "8a4260c053decd4414295e1bb5966010"
-                },
-                {
-                  "name": "p1b.pdf",
-                  "path": "public/downloads/phy/dse/chi/2018/p1b.pdf",
-                  "size": 6014482,
-                  "type": "paper",
-                  "type_name": "Paper 1B",
-                  "paper_num": 1,
-                  "md5": "7daf1ee174d92677abc290fb3aac6a76"
-                },
-                {
-                  "name": "p2.pdf",
-                  "path": "public/downloads/phy/dse/chi/2018/p2.pdf",
-                  "size": 3962642,
-                  "type": "paper",
-                  "type_name": "Paper 2",
-                  "paper_num": 2,
-                  "md5": "56bb1a8062816b514988c3e974a16142"
-                },
-                {
-                  "name": "per.pdf",
-                  "path": "public/downloads/phy/dse/chi/2018/per.pdf",
-                  "size": 4359038,
-                  "type": "report",
-                  "type_name": "Exam Report",
-                  "paper_num": null,
-                  "md5": "4bc4a5485e4b3eb87b71987390b0fb1a"
-                }
-              ]
-            },
-            "eng": {
-              "name": "English",
-              "files": [
-                {
-                  "name": "ans.pdf",
-                  "path": "public/downloads/phy/dse/eng/2018/ans.pdf",
-                  "size": 1409217,
-                  "type": "marking",
-                  "type_name": "Marking Scheme",
-                  "paper_num": null,
-                  "md5": "64b3259d19c404ba777914678b18eb29"
-                },
-                {
-                  "name": "p1a.pdf",
-                  "path": "public/downloads/phy/dse/eng/2018/p1a.pdf",
-                  "size": 20770925,
-                  "type": "paper",
-                  "type_name": "Paper 1A",
-                  "paper_num": 1,
-                  "md5": "bd1f9c2b6bf266a4544ac05a387d14ca"
-                },
-                {
-                  "name": "p1b.pdf",
-                  "path": "public/downloads/phy/dse/eng/2018/p1b.pdf",
-                  "size": 33025163,
-                  "type": "paper",
-                  "type_name": "Paper 1B",
-                  "paper_num": 1,
-                  "md5": "ae92aa290d65e2dadb78019b0c2af4a4"
-                },
-                {
-                  "name": "p2.pdf",
-                  "path": "public/downloads/phy/dse/eng/2018/p2.pdf",
-                  "size": 11832400,
-                  "type": "paper",
-                  "type_name": "Paper 2",
-                  "paper_num": 2,
-                  "md5": "74e8f368d2fc3c6a6fe2df25819d1298"
-                },
-                {
-                  "name": "per.pdf",
-                  "path": "public/downloads/phy/dse/eng/2018/per.pdf",
-                  "size": 13360601,
-                  "type": "report",
-                  "type_name": "Exam Report",
-                  "paper_num": null,
-                  "md5": "bb4204d8c6cc881c3be5b235589bb896"
-                }
-              ]
-            }
-          }
-        },
-        "2019": {
-          "display": "2019",
-          "languages": {
-            "chi": {
-              "name": "Chinese",
-              "files": [
-                {
-                  "name": "ans.pdf",
-                  "path": "public/downloads/phy/dse/chi/2019/ans.pdf",
-                  "size": 5193413,
-                  "type": "marking",
-                  "type_name": "Marking Scheme",
-                  "paper_num": null,
-                  "md5": "a37952506f5f7ade98399fcb656b2b7e"
-                },
-                {
-                  "name": "p1a.pdf",
-                  "path": "public/downloads/phy/dse/chi/2019/p1a.pdf",
-                  "size": 3657495,
-                  "type": "paper",
-                  "type_name": "Paper 1A",
-                  "paper_num": 1,
-                  "md5": "e05510f43fe84a2c7711e2456c50a2ea"
-                },
-                {
-                  "name": "p1b.pdf",
-                  "path": "public/downloads/phy/dse/chi/2019/p1b.pdf",
-                  "size": 5772534,
-                  "type": "paper",
-                  "type_name": "Paper 1B",
-                  "paper_num": 1,
-                  "md5": "7cc4fe998d61e250af8e09ceb986e072"
-                },
-                {
-                  "name": "p2.pdf",
-                  "path": "public/downloads/phy/dse/chi/2019/p2.pdf",
-                  "size": 3185152,
-                  "type": "paper",
-                  "type_name": "Paper 2",
-                  "paper_num": 2,
-                  "md5": "da85201fc985595228bfeb9e5028d05e"
-                },
-                {
-                  "name": "per.pdf",
-                  "path": "public/downloads/phy/dse/chi/2019/per.pdf",
-                  "size": 4001818,
-                  "type": "report",
-                  "type_name": "Exam Report",
-                  "paper_num": null,
-                  "md5": "8635c97e529e05935f93720340d4831c"
-                }
-              ]
-            },
-            "eng": {
-              "name": "English",
-              "files": [
-                {
-                  "name": "ans.pdf",
-                  "path": "public/downloads/phy/dse/eng/2019/ans.pdf",
-                  "size": 1861698,
-                  "type": "marking",
-                  "type_name": "Marking Scheme",
-                  "paper_num": null,
-                  "md5": "936dce0ecbdcdbf31864510d53cf3261"
-                },
-                {
-                  "name": "p1a.pdf",
-                  "path": "public/downloads/phy/dse/eng/2019/p1a.pdf",
-                  "size": 7276437,
-                  "type": "paper",
-                  "type_name": "Paper 1A",
-                  "paper_num": 1,
-                  "md5": "e61a92bed8f04e2c925a0bb15deec5ab"
-                },
-                {
-                  "name": "p1b.pdf",
-                  "path": "public/downloads/phy/dse/eng/2019/p1b.pdf",
-                  "size": 10805017,
-                  "type": "paper",
-                  "type_name": "Paper 1B",
-                  "paper_num": 1,
-                  "md5": "1ba44aa07335d47c503d927489c7f38d"
-                },
-                {
-                  "name": "p2.pdf",
-                  "path": "public/downloads/phy/dse/eng/2019/p2.pdf",
-                  "size": 7922600,
-                  "type": "paper",
-                  "type_name": "Paper 2",
-                  "paper_num": 2,
-                  "md5": "189cedc8964e9646d9d6da33ab41b263"
-                },
-                {
-                  "name": "per.pdf",
-                  "path": "public/downloads/phy/dse/eng/2019/per.pdf",
-                  "size": 4028744,
-                  "type": "report",
-                  "type_name": "Exam Report",
-                  "paper_num": null,
-                  "md5": "97c58f456647f7ddbbf4fdf12f3427c1"
+                  "md5": "cefe3f99efb9355fd05c4f1e17f66331"
                 }
               ]
             }
@@ -730,17 +333,26 @@
               "name": "Chinese",
               "files": [
                 {
-                  "name": "ans.pdf",
-                  "path": "public/downloads/phy/dse/chi/2020/ans.pdf",
-                  "size": 3685696,
-                  "type": "marking",
-                  "type_name": "Marking Scheme",
+                  "name": "per.pdf",
+                  "path": "public/sources/phy/dse/chi/2020/per.pdf",
+                  "size": 4865192,
+                  "type": "report",
+                  "type_name": "Exam Report",
                   "paper_num": null,
-                  "md5": "3f63b186c0695d5477084db23ef10cd7"
+                  "md5": "7b0bf35d421d1d945977b5451193353d"
+                },
+                {
+                  "name": "p2.pdf",
+                  "path": "public/sources/phy/dse/chi/2020/p2.pdf",
+                  "size": 3774893,
+                  "type": "paper",
+                  "type_name": "Paper 2",
+                  "paper_num": 2,
+                  "md5": "628533967b56ab1fdc2ea8b8e13081d1"
                 },
                 {
                   "name": "p1a.pdf",
-                  "path": "public/downloads/phy/dse/chi/2020/p1a.pdf",
+                  "path": "public/sources/phy/dse/chi/2020/p1a.pdf",
                   "size": 3187056,
                   "type": "paper",
                   "type_name": "Paper 1A",
@@ -749,7 +361,7 @@
                 },
                 {
                   "name": "p1b.pdf",
-                  "path": "public/downloads/phy/dse/chi/2020/p1b.pdf",
+                  "path": "public/sources/phy/dse/chi/2020/p1b.pdf",
                   "size": 4548137,
                   "type": "paper",
                   "type_name": "Paper 1B",
@@ -757,22 +369,13 @@
                   "md5": "94e1010db09a16e9ebff45344a7e1915"
                 },
                 {
-                  "name": "p2.pdf",
-                  "path": "public/downloads/phy/dse/chi/2020/p2.pdf",
-                  "size": 3774893,
-                  "type": "paper",
-                  "type_name": "Paper 2",
-                  "paper_num": 2,
-                  "md5": "628533967b56ab1fdc2ea8b8e13081d1"
-                },
-                {
-                  "name": "per.pdf",
-                  "path": "public/downloads/phy/dse/chi/2020/per.pdf",
-                  "size": 4865192,
-                  "type": "report",
-                  "type_name": "Exam Report",
+                  "name": "ans.pdf",
+                  "path": "public/sources/phy/dse/chi/2020/ans.pdf",
+                  "size": 3685696,
+                  "type": "marking",
+                  "type_name": "Marking Scheme",
                   "paper_num": null,
-                  "md5": "7b0bf35d421d1d945977b5451193353d"
+                  "md5": "3f63b186c0695d5477084db23ef10cd7"
                 }
               ]
             },
@@ -780,17 +383,26 @@
               "name": "English",
               "files": [
                 {
-                  "name": "ans.pdf",
-                  "path": "public/downloads/phy/dse/eng/2020/ans.pdf",
-                  "size": 1922260,
-                  "type": "marking",
-                  "type_name": "Marking Scheme",
+                  "name": "per.pdf",
+                  "path": "public/sources/phy/dse/eng/2020/per.pdf",
+                  "size": 2934403,
+                  "type": "report",
+                  "type_name": "Exam Report",
                   "paper_num": null,
-                  "md5": "5b91cf19899dea3f832055b061fb8929"
+                  "md5": "187992c0737bd378c277d362a1d06afa"
+                },
+                {
+                  "name": "p2.pdf",
+                  "path": "public/sources/phy/dse/eng/2020/p2.pdf",
+                  "size": 5145249,
+                  "type": "paper",
+                  "type_name": "Paper 2",
+                  "paper_num": 2,
+                  "md5": "596ed14bd6a48ff7ea61afd9a00075da"
                 },
                 {
                   "name": "p1a.pdf",
-                  "path": "public/downloads/phy/dse/eng/2020/p1a.pdf",
+                  "path": "public/sources/phy/dse/eng/2020/p1a.pdf",
                   "size": 4318325,
                   "type": "paper",
                   "type_name": "Paper 1A",
@@ -799,7 +411,7 @@
                 },
                 {
                   "name": "p1b.pdf",
-                  "path": "public/downloads/phy/dse/eng/2020/p1b.pdf",
+                  "path": "public/sources/phy/dse/eng/2020/p1b.pdf",
                   "size": 5902824,
                   "type": "paper",
                   "type_name": "Paper 1B",
@@ -807,77 +419,68 @@
                   "md5": "81f895fd593ca19db6be2f7861fb8bfc"
                 },
                 {
-                  "name": "p2.pdf",
-                  "path": "public/downloads/phy/dse/eng/2020/p2.pdf",
-                  "size": 5145249,
-                  "type": "paper",
-                  "type_name": "Paper 2",
-                  "paper_num": 2,
-                  "md5": "596ed14bd6a48ff7ea61afd9a00075da"
-                },
-                {
-                  "name": "per.pdf",
-                  "path": "public/downloads/phy/dse/eng/2020/per.pdf",
-                  "size": 2934403,
-                  "type": "report",
-                  "type_name": "Exam Report",
+                  "name": "ans.pdf",
+                  "path": "public/sources/phy/dse/eng/2020/ans.pdf",
+                  "size": 1922260,
+                  "type": "marking",
+                  "type_name": "Marking Scheme",
                   "paper_num": null,
-                  "md5": "187992c0737bd378c277d362a1d06afa"
+                  "md5": "5b91cf19899dea3f832055b061fb8929"
                 }
               ]
             }
           }
         },
-        "2021": {
-          "display": "2021",
+        "2012": {
+          "display": "2012",
           "languages": {
             "chi": {
               "name": "Chinese",
               "files": [
                 {
-                  "name": "ans.pdf",
-                  "path": "public/downloads/phy/dse/chi/2021/ans.pdf",
-                  "size": 4811910,
-                  "type": "marking",
-                  "type_name": "Marking Scheme",
-                  "paper_num": null,
-                  "md5": "247805a0f1ef13e4ab2c95e9a068d55f"
-                },
-                {
-                  "name": "p1a.pdf",
-                  "path": "public/downloads/phy/dse/chi/2021/p1a.pdf",
-                  "size": 3364232,
-                  "type": "paper",
-                  "type_name": "Paper 1A",
-                  "paper_num": 1,
-                  "md5": "b4035c0bec9d425d01640d8e3b2476a2"
-                },
-                {
-                  "name": "p1b.pdf",
-                  "path": "public/downloads/phy/dse/chi/2021/p1b.pdf",
-                  "size": 6489376,
-                  "type": "paper",
-                  "type_name": "Paper 1B",
-                  "paper_num": 1,
-                  "md5": "d90163f9fc9d6472ccd790dc71652e7e"
-                },
-                {
-                  "name": "p2.pdf",
-                  "path": "public/downloads/phy/dse/chi/2021/p2.pdf",
-                  "size": 4330869,
-                  "type": "paper",
-                  "type_name": "Paper 2",
-                  "paper_num": 2,
-                  "md5": "3e8d90612895b1166ce7a77b877163a3"
-                },
-                {
                   "name": "per.pdf",
-                  "path": "public/downloads/phy/dse/chi/2021/per.pdf",
-                  "size": 3023370,
+                  "path": "public/sources/phy/dse/chi/2012/per.pdf",
+                  "size": 1118036,
                   "type": "report",
                   "type_name": "Exam Report",
                   "paper_num": null,
-                  "md5": "83fa8e272403201b09c8c2a54f4f2c19"
+                  "md5": "7faab1fd1b406100092897a0d46c0dc3"
+                },
+                {
+                  "name": "p2.pdf",
+                  "path": "public/sources/phy/dse/chi/2012/p2.pdf",
+                  "size": 4101437,
+                  "type": "paper",
+                  "type_name": "Paper 2",
+                  "paper_num": 2,
+                  "md5": "017db28aac694d9b32d80a408c5a3509"
+                },
+                {
+                  "name": "p1a.pdf",
+                  "path": "public/sources/phy/dse/chi/2012/p1a.pdf",
+                  "size": 2466713,
+                  "type": "paper",
+                  "type_name": "Paper 1A",
+                  "paper_num": 1,
+                  "md5": "3a86b21f3e0164dcee68be306ee74d15"
+                },
+                {
+                  "name": "p1b.pdf",
+                  "path": "public/sources/phy/dse/chi/2012/p1b.pdf",
+                  "size": 4189819,
+                  "type": "paper",
+                  "type_name": "Paper 1B",
+                  "paper_num": 1,
+                  "md5": "bcd2467e2251dda3d5810a2098ce477e"
+                },
+                {
+                  "name": "ans.pdf",
+                  "path": "public/sources/phy/dse/chi/2012/ans.pdf",
+                  "size": 1664238,
+                  "type": "marking",
+                  "type_name": "Marking Scheme",
+                  "paper_num": null,
+                  "md5": "0ca62d5ae7e9a5e2566753587a5756e4"
                 }
               ]
             },
@@ -885,154 +488,49 @@
               "name": "English",
               "files": [
                 {
-                  "name": "ans.pdf",
-                  "path": "public/downloads/phy/dse/eng/2021/ans.pdf",
-                  "size": 5788126,
-                  "type": "marking",
-                  "type_name": "Marking Scheme",
-                  "paper_num": null,
-                  "md5": "569be981ee5d9110d36a0a8d1db649b8"
-                },
-                {
-                  "name": "p1a.pdf",
-                  "path": "public/downloads/phy/dse/eng/2021/p1a.pdf",
-                  "size": 534412,
-                  "type": "paper",
-                  "type_name": "Paper 1A",
-                  "paper_num": 1,
-                  "md5": "4c4e15fbc75cd02f636277acd433f453"
-                },
-                {
-                  "name": "p1b.pdf",
-                  "path": "public/downloads/phy/dse/eng/2021/p1b.pdf",
-                  "size": 1117376,
-                  "type": "paper",
-                  "type_name": "Paper 1B",
-                  "paper_num": 1,
-                  "md5": "55cda36d4c49c89d78b3369e55e3a879"
-                },
-                {
-                  "name": "p2.pdf",
-                  "path": "public/downloads/phy/dse/eng/2021/p2.pdf",
-                  "size": 1162626,
-                  "type": "paper",
-                  "type_name": "Paper 2",
-                  "paper_num": 2,
-                  "md5": "15ec8f492efe7325f60be081dab8d914"
-                },
-                {
                   "name": "per.pdf",
-                  "path": "public/downloads/phy/dse/eng/2021/per.pdf",
-                  "size": 4018212,
+                  "path": "public/sources/phy/dse/eng/2012/per.pdf",
+                  "size": 6949094,
                   "type": "report",
                   "type_name": "Exam Report",
                   "paper_num": null,
-                  "md5": "45e520010b91fa5ccc3a6257fe4030dd"
-                }
-              ]
-            }
-          }
-        },
-        "2022": {
-          "display": "2022",
-          "languages": {
-            "chi": {
-              "name": "Chinese",
-              "files": [
-                {
-                  "name": "ans.pdf",
-                  "path": "public/downloads/phy/dse/chi/2022/ans.pdf",
-                  "size": 724175,
-                  "type": "marking",
-                  "type_name": "Marking Scheme",
-                  "paper_num": null,
-                  "md5": "9bf5fcb48f24150e7069eae42391c3a9"
-                },
-                {
-                  "name": "p1a.pdf",
-                  "path": "public/downloads/phy/dse/chi/2022/p1a.pdf",
-                  "size": 715556,
-                  "type": "paper",
-                  "type_name": "Paper 1A",
-                  "paper_num": 1,
-                  "md5": "7c287e72e7166eeee51e048a367b5808"
-                },
-                {
-                  "name": "p1b.pdf",
-                  "path": "public/downloads/phy/dse/chi/2022/p1b.pdf",
-                  "size": 714023,
-                  "type": "paper",
-                  "type_name": "Paper 1B",
-                  "paper_num": 1,
-                  "md5": "f3d745fb7105f9c424d12db865d186c0"
+                  "md5": "65400c0ee696efeac944521df678b441"
                 },
                 {
                   "name": "p2.pdf",
-                  "path": "public/downloads/phy/dse/chi/2022/p2.pdf",
-                  "size": 816922,
+                  "path": "public/sources/phy/dse/eng/2012/p2.pdf",
+                  "size": 3811178,
                   "type": "paper",
                   "type_name": "Paper 2",
                   "paper_num": 2,
-                  "md5": "172f19745de823ed8953371c3c56716e"
-                },
-                {
-                  "name": "per.pdf",
-                  "path": "public/downloads/phy/dse/chi/2022/per.pdf",
-                  "size": 526065,
-                  "type": "report",
-                  "type_name": "Exam Report",
-                  "paper_num": null,
-                  "md5": "111791ccf65e60d97280d3cda8094769"
-                }
-              ]
-            },
-            "eng": {
-              "name": "English",
-              "files": [
-                {
-                  "name": "ans.pdf",
-                  "path": "public/downloads/phy/dse/eng/2022/ans.pdf",
-                  "size": 730386,
-                  "type": "marking",
-                  "type_name": "Marking Scheme",
-                  "paper_num": null,
-                  "md5": "d4d80bd76f6447dc31cbf77ea2e39ce0"
+                  "md5": "a6c74692adeb5b1b0e6e9aec48a01ea7"
                 },
                 {
                   "name": "p1a.pdf",
-                  "path": "public/downloads/phy/dse/eng/2022/p1a.pdf",
-                  "size": 797802,
+                  "path": "public/sources/phy/dse/eng/2012/p1a.pdf",
+                  "size": 2988428,
                   "type": "paper",
                   "type_name": "Paper 1A",
                   "paper_num": 1,
-                  "md5": "30b0a393bffc73321a49e7d385c633ca"
+                  "md5": "46c12f461398ca44e14955601ebc6790"
                 },
                 {
                   "name": "p1b.pdf",
-                  "path": "public/downloads/phy/dse/eng/2022/p1b.pdf",
-                  "size": 1151827,
+                  "path": "public/sources/phy/dse/eng/2012/p1b.pdf",
+                  "size": 4175656,
                   "type": "paper",
                   "type_name": "Paper 1B",
                   "paper_num": 1,
-                  "md5": "c334c465223f878928a2d00716aa0c93"
+                  "md5": "3af13d9410f2a301225d5edd55689680"
                 },
                 {
-                  "name": "p2.pdf",
-                  "path": "public/downloads/phy/dse/eng/2022/p2.pdf",
-                  "size": 1040725,
-                  "type": "paper",
-                  "type_name": "Paper 2",
-                  "paper_num": 2,
-                  "md5": "515900aad21fad62cc7341ef24378834"
-                },
-                {
-                  "name": "per.pdf",
-                  "path": "public/downloads/phy/dse/eng/2022/per.pdf",
-                  "size": 580920,
-                  "type": "report",
-                  "type_name": "Exam Report",
+                  "name": "ans.pdf",
+                  "path": "public/sources/phy/dse/eng/2012/ans.pdf",
+                  "size": 1907808,
+                  "type": "marking",
+                  "type_name": "Marking Scheme",
                   "paper_num": null,
-                  "md5": "2ed9edcba275c2078ee4b4f109e6a25b"
+                  "md5": "10fe1768fc832bcbf1d83ddabfaa78c8"
                 }
               ]
             }
@@ -1045,17 +543,26 @@
               "name": "Chinese",
               "files": [
                 {
-                  "name": "ans.pdf",
-                  "path": "public/downloads/phy/dse/chi/2023/ans.pdf",
-                  "size": 682627,
-                  "type": "marking",
-                  "type_name": "Marking Scheme",
+                  "name": "per.pdf",
+                  "path": "public/sources/phy/dse/chi/2023/per.pdf",
+                  "size": 458707,
+                  "type": "report",
+                  "type_name": "Exam Report",
                   "paper_num": null,
-                  "md5": "4d6c730c9ae55a9e6f0f114cf35c3122"
+                  "md5": "66d2b01d55b0e9389f5e1c7a5bf2761c"
+                },
+                {
+                  "name": "p2.pdf",
+                  "path": "public/sources/phy/dse/chi/2023/p2.pdf",
+                  "size": 886042,
+                  "type": "paper",
+                  "type_name": "Paper 2",
+                  "paper_num": 2,
+                  "md5": "f042309e4285f6d987ed593d8cfeba11"
                 },
                 {
                   "name": "p1a.pdf",
-                  "path": "public/downloads/phy/dse/chi/2023/p1a.pdf",
+                  "path": "public/sources/phy/dse/chi/2023/p1a.pdf",
                   "size": 749111,
                   "type": "paper",
                   "type_name": "Paper 1A",
@@ -1064,7 +571,7 @@
                 },
                 {
                   "name": "p1b.pdf",
-                  "path": "public/downloads/phy/dse/chi/2023/p1b.pdf",
+                  "path": "public/sources/phy/dse/chi/2023/p1b.pdf",
                   "size": 1127803,
                   "type": "paper",
                   "type_name": "Paper 1B",
@@ -1072,22 +579,13 @@
                   "md5": "e7ab9974644188bcf42262179ef5da06"
                 },
                 {
-                  "name": "p2.pdf",
-                  "path": "public/downloads/phy/dse/chi/2023/p2.pdf",
-                  "size": 886042,
-                  "type": "paper",
-                  "type_name": "Paper 2",
-                  "paper_num": 2,
-                  "md5": "f042309e4285f6d987ed593d8cfeba11"
-                },
-                {
-                  "name": "per.pdf",
-                  "path": "public/downloads/phy/dse/chi/2023/per.pdf",
-                  "size": 458707,
-                  "type": "report",
-                  "type_name": "Exam Report",
+                  "name": "ans.pdf",
+                  "path": "public/sources/phy/dse/chi/2023/ans.pdf",
+                  "size": 682627,
+                  "type": "marking",
+                  "type_name": "Marking Scheme",
                   "paper_num": null,
-                  "md5": "66d2b01d55b0e9389f5e1c7a5bf2761c"
+                  "md5": "4d6c730c9ae55a9e6f0f114cf35c3122"
                 }
               ]
             },
@@ -1095,17 +593,26 @@
               "name": "English",
               "files": [
                 {
-                  "name": "ans.pdf",
-                  "path": "public/downloads/phy/dse/eng/2023/ans.pdf",
-                  "size": 721019,
-                  "type": "marking",
-                  "type_name": "Marking Scheme",
+                  "name": "per.pdf",
+                  "path": "public/sources/phy/dse/eng/2023/per.pdf",
+                  "size": 514647,
+                  "type": "report",
+                  "type_name": "Exam Report",
                   "paper_num": null,
-                  "md5": "90e358c6a4acb5a516ecb8eb2e09f82a"
+                  "md5": "1d306c7aabaf38063e0c037afa0e5fcc"
+                },
+                {
+                  "name": "p2.pdf",
+                  "path": "public/sources/phy/dse/eng/2023/p2.pdf",
+                  "size": 8966477,
+                  "type": "paper",
+                  "type_name": "Paper 2",
+                  "paper_num": 2,
+                  "md5": "6baee29e360272d52b99da1ff642de62"
                 },
                 {
                   "name": "p1a.pdf",
-                  "path": "public/downloads/phy/dse/eng/2023/p1a.pdf",
+                  "path": "public/sources/phy/dse/eng/2023/p1a.pdf",
                   "size": 6825197,
                   "type": "paper",
                   "type_name": "Paper 1A",
@@ -1114,7 +621,7 @@
                 },
                 {
                   "name": "p1b.pdf",
-                  "path": "public/downloads/phy/dse/eng/2023/p1b.pdf",
+                  "path": "public/sources/phy/dse/eng/2023/p1b.pdf",
                   "size": 9870963,
                   "type": "paper",
                   "type_name": "Paper 1B",
@@ -1122,59 +629,68 @@
                   "md5": "bc4abd5704cd8afe66233e8cb5e4b919"
                 },
                 {
-                  "name": "p2.pdf",
-                  "path": "public/downloads/phy/dse/eng/2023/p2.pdf",
-                  "size": 8966477,
-                  "type": "paper",
-                  "type_name": "Paper 2",
-                  "paper_num": 2,
-                  "md5": "6baee29e360272d52b99da1ff642de62"
-                },
-                {
-                  "name": "per.pdf",
-                  "path": "public/downloads/phy/dse/eng/2023/per.pdf",
-                  "size": 514647,
-                  "type": "report",
-                  "type_name": "Exam Report",
+                  "name": "ans.pdf",
+                  "path": "public/sources/phy/dse/eng/2023/ans.pdf",
+                  "size": 721019,
+                  "type": "marking",
+                  "type_name": "Marking Scheme",
                   "paper_num": null,
-                  "md5": "1d306c7aabaf38063e0c037afa0e5fcc"
+                  "md5": "90e358c6a4acb5a516ecb8eb2e09f82a"
                 }
               ]
             }
           }
         },
-        "pp": {
-          "display": "Practice Paper",
+        "2022": {
+          "display": "2022",
           "languages": {
             "chi": {
               "name": "Chinese",
               "files": [
                 {
-                  "name": "ans.pdf",
-                  "path": "public/downloads/phy/dse/chi/pp/ans.pdf",
-                  "size": 674873,
-                  "type": "marking",
-                  "type_name": "Marking Scheme",
+                  "name": "per.pdf",
+                  "path": "public/sources/phy/dse/chi/2022/per.pdf",
+                  "size": 526065,
+                  "type": "report",
+                  "type_name": "Exam Report",
                   "paper_num": null,
-                  "md5": "c1f8ccb42fd0cd9669960f980e64b21c"
+                  "md5": "111791ccf65e60d97280d3cda8094769"
+                },
+                {
+                  "name": "p2.pdf",
+                  "path": "public/sources/phy/dse/chi/2022/p2.pdf",
+                  "size": 816922,
+                  "type": "paper",
+                  "type_name": "Paper 2",
+                  "paper_num": 2,
+                  "md5": "172f19745de823ed8953371c3c56716e"
                 },
                 {
                   "name": "p1a.pdf",
-                  "path": "public/downloads/phy/dse/chi/pp/p1a.pdf",
-                  "size": 1180105,
+                  "path": "public/sources/phy/dse/chi/2022/p1a.pdf",
+                  "size": 715556,
                   "type": "paper",
                   "type_name": "Paper 1A",
                   "paper_num": 1,
-                  "md5": "acb140b4939074887441694dd492b15b"
+                  "md5": "7c287e72e7166eeee51e048a367b5808"
                 },
                 {
                   "name": "p1b.pdf",
-                  "path": "public/downloads/phy/dse/chi/pp/p1b.pdf",
-                  "size": 1105994,
+                  "path": "public/sources/phy/dse/chi/2022/p1b.pdf",
+                  "size": 714023,
                   "type": "paper",
                   "type_name": "Paper 1B",
                   "paper_num": 1,
-                  "md5": "78e851d0457e3750236f18dbc938511f"
+                  "md5": "f3d745fb7105f9c424d12db865d186c0"
+                },
+                {
+                  "name": "ans.pdf",
+                  "path": "public/sources/phy/dse/chi/2022/ans.pdf",
+                  "size": 724175,
+                  "type": "marking",
+                  "type_name": "Marking Scheme",
+                  "paper_num": null,
+                  "md5": "9bf5fcb48f24150e7069eae42391c3a9"
                 }
               ]
             },
@@ -1182,22 +698,296 @@
               "name": "English",
               "files": [
                 {
-                  "name": "ans.pdf",
-                  "path": "public/downloads/phy/dse/eng/pp/ans.pdf",
-                  "size": 1042007,
-                  "type": "marking",
-                  "type_name": "Marking Scheme",
+                  "name": "per.pdf",
+                  "path": "public/sources/phy/dse/eng/2022/per.pdf",
+                  "size": 580920,
+                  "type": "report",
+                  "type_name": "Exam Report",
                   "paper_num": null,
-                  "md5": "23a79b1f5d25f6c63a0a2757cfda5a68"
+                  "md5": "2ed9edcba275c2078ee4b4f109e6a25b"
+                },
+                {
+                  "name": "p2.pdf",
+                  "path": "public/sources/phy/dse/eng/2022/p2.pdf",
+                  "size": 1040725,
+                  "type": "paper",
+                  "type_name": "Paper 2",
+                  "paper_num": 2,
+                  "md5": "515900aad21fad62cc7341ef24378834"
                 },
                 {
                   "name": "p1a.pdf",
-                  "path": "public/downloads/phy/dse/eng/pp/p1a.pdf",
-                  "size": 2036486,
+                  "path": "public/sources/phy/dse/eng/2022/p1a.pdf",
+                  "size": 797802,
                   "type": "paper",
                   "type_name": "Paper 1A",
                   "paper_num": 1,
-                  "md5": "d1d3a346972db86068c51ad8266b8c3b"
+                  "md5": "30b0a393bffc73321a49e7d385c633ca"
+                },
+                {
+                  "name": "p1b.pdf",
+                  "path": "public/sources/phy/dse/eng/2022/p1b.pdf",
+                  "size": 1151827,
+                  "type": "paper",
+                  "type_name": "Paper 1B",
+                  "paper_num": 1,
+                  "md5": "c334c465223f878928a2d00716aa0c93"
+                },
+                {
+                  "name": "ans.pdf",
+                  "path": "public/sources/phy/dse/eng/2022/ans.pdf",
+                  "size": 730386,
+                  "type": "marking",
+                  "type_name": "Marking Scheme",
+                  "paper_num": null,
+                  "md5": "d4d80bd76f6447dc31cbf77ea2e39ce0"
+                }
+              ]
+            }
+          }
+        },
+        "2021": {
+          "display": "2021",
+          "languages": {
+            "chi": {
+              "name": "Chinese",
+              "files": [
+                {
+                  "name": "per.pdf",
+                  "path": "public/sources/phy/dse/chi/2021/per.pdf",
+                  "size": 3023370,
+                  "type": "report",
+                  "type_name": "Exam Report",
+                  "paper_num": null,
+                  "md5": "83fa8e272403201b09c8c2a54f4f2c19"
+                },
+                {
+                  "name": "p2.pdf",
+                  "path": "public/sources/phy/dse/chi/2021/p2.pdf",
+                  "size": 4330869,
+                  "type": "paper",
+                  "type_name": "Paper 2",
+                  "paper_num": 2,
+                  "md5": "3e8d90612895b1166ce7a77b877163a3"
+                },
+                {
+                  "name": "p1a.pdf",
+                  "path": "public/sources/phy/dse/chi/2021/p1a.pdf",
+                  "size": 3364232,
+                  "type": "paper",
+                  "type_name": "Paper 1A",
+                  "paper_num": 1,
+                  "md5": "b4035c0bec9d425d01640d8e3b2476a2"
+                },
+                {
+                  "name": "p1b.pdf",
+                  "path": "public/sources/phy/dse/chi/2021/p1b.pdf",
+                  "size": 6489376,
+                  "type": "paper",
+                  "type_name": "Paper 1B",
+                  "paper_num": 1,
+                  "md5": "d90163f9fc9d6472ccd790dc71652e7e"
+                },
+                {
+                  "name": "ans.pdf",
+                  "path": "public/sources/phy/dse/chi/2021/ans.pdf",
+                  "size": 4811910,
+                  "type": "marking",
+                  "type_name": "Marking Scheme",
+                  "paper_num": null,
+                  "md5": "247805a0f1ef13e4ab2c95e9a068d55f"
+                }
+              ]
+            },
+            "eng": {
+              "name": "English",
+              "files": [
+                {
+                  "name": "per.pdf",
+                  "path": "public/sources/phy/dse/eng/2021/per.pdf",
+                  "size": 4018212,
+                  "type": "report",
+                  "type_name": "Exam Report",
+                  "paper_num": null,
+                  "md5": "45e520010b91fa5ccc3a6257fe4030dd"
+                },
+                {
+                  "name": "p2.pdf",
+                  "path": "public/sources/phy/dse/eng/2021/p2.pdf",
+                  "size": 1162626,
+                  "type": "paper",
+                  "type_name": "Paper 2",
+                  "paper_num": 2,
+                  "md5": "15ec8f492efe7325f60be081dab8d914"
+                },
+                {
+                  "name": "p1a.pdf",
+                  "path": "public/sources/phy/dse/eng/2021/p1a.pdf",
+                  "size": 534412,
+                  "type": "paper",
+                  "type_name": "Paper 1A",
+                  "paper_num": 1,
+                  "md5": "4c4e15fbc75cd02f636277acd433f453"
+                },
+                {
+                  "name": "p1b.pdf",
+                  "path": "public/sources/phy/dse/eng/2021/p1b.pdf",
+                  "size": 1117376,
+                  "type": "paper",
+                  "type_name": "Paper 1B",
+                  "paper_num": 1,
+                  "md5": "55cda36d4c49c89d78b3369e55e3a879"
+                },
+                {
+                  "name": "ans.pdf",
+                  "path": "public/sources/phy/dse/eng/2021/ans.pdf",
+                  "size": 5788126,
+                  "type": "marking",
+                  "type_name": "Marking Scheme",
+                  "paper_num": null,
+                  "md5": "569be981ee5d9110d36a0a8d1db649b8"
+                }
+              ]
+            }
+          }
+        },
+        "2016": {
+          "display": "2016",
+          "languages": {
+            "chi": {
+              "name": "Chinese",
+              "files": [
+                {
+                  "name": "per.pdf",
+                  "path": "public/sources/phy/dse/chi/2016/per.pdf",
+                  "size": 2840217,
+                  "type": "report",
+                  "type_name": "Exam Report",
+                  "paper_num": null,
+                  "md5": "a44d7f7e196f15252817fb8662d06aa4"
+                },
+                {
+                  "name": "p2.pdf",
+                  "path": "public/sources/phy/dse/chi/2016/p2.pdf",
+                  "size": 3803105,
+                  "type": "paper",
+                  "type_name": "Paper 2",
+                  "paper_num": 2,
+                  "md5": "50a06fe84db2ee94381b554facbd5774"
+                },
+                {
+                  "name": "p1a.pdf",
+                  "path": "public/sources/phy/dse/chi/2016/p1a.pdf",
+                  "size": 2894151,
+                  "type": "paper",
+                  "type_name": "Paper 1A",
+                  "paper_num": 1,
+                  "md5": "841d19ccc4f3d21df02bf201a3803722"
+                },
+                {
+                  "name": "p1b.pdf",
+                  "path": "public/sources/phy/dse/chi/2016/p1b.pdf",
+                  "size": 5294973,
+                  "type": "paper",
+                  "type_name": "Paper 1B",
+                  "paper_num": 1,
+                  "md5": "f81b67bbfe8751583b5b748e3893f119"
+                },
+                {
+                  "name": "ans.pdf",
+                  "path": "public/sources/phy/dse/chi/2016/ans.pdf",
+                  "size": 3035813,
+                  "type": "marking",
+                  "type_name": "Marking Scheme",
+                  "paper_num": null,
+                  "md5": "7b3b20183c22cbc6a4537004bf18d561"
+                }
+              ]
+            }
+          }
+        },
+        "2013": {
+          "display": "2013",
+          "languages": {
+            "chi": {
+              "name": "Chinese",
+              "files": [
+                {
+                  "name": "per.pdf",
+                  "path": "public/sources/phy/dse/chi/2013/per.pdf",
+                  "size": 2035950,
+                  "type": "report",
+                  "type_name": "Exam Report",
+                  "paper_num": null,
+                  "md5": "92f48e74ea7758d25d4d6d52e21b89e4"
+                },
+                {
+                  "name": "p2.pdf",
+                  "path": "public/sources/phy/dse/chi/2013/p2.pdf",
+                  "size": 3484251,
+                  "type": "paper",
+                  "type_name": "Paper 2",
+                  "paper_num": 2,
+                  "md5": "18dce312efe9d11fab5d4b521b370e24"
+                },
+                {
+                  "name": "p1a.pdf",
+                  "path": "public/sources/phy/dse/chi/2013/p1a.pdf",
+                  "size": 2584866,
+                  "type": "paper",
+                  "type_name": "Paper 1A",
+                  "paper_num": 1,
+                  "md5": "c11cf9013c971bf62ce44dd7f3a7ae60"
+                },
+                {
+                  "name": "p1b.pdf",
+                  "path": "public/sources/phy/dse/chi/2013/p1b.pdf",
+                  "size": 4243221,
+                  "type": "paper",
+                  "type_name": "Paper 1B",
+                  "paper_num": 1,
+                  "md5": "c9d26cb11f576a579b0da01c2f230181"
+                },
+                {
+                  "name": "ans.pdf",
+                  "path": "public/sources/phy/dse/chi/2013/ans.pdf",
+                  "size": 1485909,
+                  "type": "marking",
+                  "type_name": "Marking Scheme",
+                  "paper_num": null,
+                  "md5": "2910ffa85595e02562e7b7b10e79ccca"
+                }
+              ]
+            },
+            "eng": {
+              "name": "English",
+              "files": [
+                {
+                  "name": "per.pdf",
+                  "path": "public/sources/phy/dse/eng/2013/per.pdf",
+                  "size": 3423374,
+                  "type": "report",
+                  "type_name": "Exam Report",
+                  "paper_num": null,
+                  "md5": "37265905d15e8799de4194f3452679bb"
+                },
+                {
+                  "name": "p1a.pdf",
+                  "path": "public/sources/phy/dse/eng/2013/p1a.pdf",
+                  "size": 3761633,
+                  "type": "paper",
+                  "type_name": "Paper 1A",
+                  "paper_num": 1,
+                  "md5": "e4dce13ae9d6992c4a767d344f62e2d1"
+                },
+                {
+                  "name": "ans.pdf",
+                  "path": "public/sources/phy/dse/eng/2013/ans.pdf",
+                  "size": 3755797,
+                  "type": "marking",
+                  "type_name": "Marking Scheme",
+                  "paper_num": null,
+                  "md5": "5c6c0bfb65fdc2e47fb6a05334117d13"
                 }
               ]
             }
@@ -1210,8 +1000,17 @@
               "name": "Chinese",
               "files": [
                 {
+                  "name": "p2.pdf",
+                  "path": "public/sources/phy/dse/chi/sp/p2.pdf",
+                  "size": 815771,
+                  "type": "paper",
+                  "type_name": "Paper 2",
+                  "paper_num": 2,
+                  "md5": "b090df98e05d954821b43c71a8fca4ee"
+                },
+                {
                   "name": "p1a.pdf",
-                  "path": "public/downloads/phy/dse/chi/sp/p1a.pdf",
+                  "path": "public/sources/phy/dse/chi/sp/p1a.pdf",
                   "size": 904211,
                   "type": "paper",
                   "type_name": "Paper 1A",
@@ -1220,21 +1019,12 @@
                 },
                 {
                   "name": "p1b.pdf",
-                  "path": "public/downloads/phy/dse/chi/sp/p1b.pdf",
+                  "path": "public/sources/phy/dse/chi/sp/p1b.pdf",
                   "size": 1073794,
                   "type": "paper",
                   "type_name": "Paper 1B",
                   "paper_num": 1,
                   "md5": "697367e16c959d6e4ad1aa2bab502f48"
-                },
-                {
-                  "name": "p2.pdf",
-                  "path": "public/downloads/phy/dse/chi/sp/p2.pdf",
-                  "size": 815771,
-                  "type": "paper",
-                  "type_name": "Paper 2",
-                  "paper_num": 2,
-                  "md5": "b090df98e05d954821b43c71a8fca4ee"
                 }
               ]
             },
@@ -1242,8 +1032,17 @@
               "name": "English",
               "files": [
                 {
+                  "name": "p2.pdf",
+                  "path": "public/sources/phy/dse/eng/sp/p2.pdf",
+                  "size": 835257,
+                  "type": "paper",
+                  "type_name": "Paper 2",
+                  "paper_num": 2,
+                  "md5": "102a44368c43d954d8650fe0a576af4d"
+                },
+                {
                   "name": "p1a.pdf",
-                  "path": "public/downloads/phy/dse/eng/sp/p1a.pdf",
+                  "path": "public/sources/phy/dse/eng/sp/p1a.pdf",
                   "size": 734721,
                   "type": "paper",
                   "type_name": "Paper 1A",
@@ -1252,21 +1051,222 @@
                 },
                 {
                   "name": "p1b.pdf",
-                  "path": "public/downloads/phy/dse/eng/sp/p1b.pdf",
+                  "path": "public/sources/phy/dse/eng/sp/p1b.pdf",
                   "size": 1245123,
                   "type": "paper",
                   "type_name": "Paper 1B",
                   "paper_num": 1,
                   "md5": "4762804556a4891d044614b313d1a046"
+                }
+              ]
+            }
+          }
+        },
+        "2019": {
+          "display": "2019",
+          "languages": {
+            "chi": {
+              "name": "Chinese",
+              "files": [
+                {
+                  "name": "per.pdf",
+                  "path": "public/sources/phy/dse/chi/2019/per.pdf",
+                  "size": 4001818,
+                  "type": "report",
+                  "type_name": "Exam Report",
+                  "paper_num": null,
+                  "md5": "8635c97e529e05935f93720340d4831c"
                 },
                 {
                   "name": "p2.pdf",
-                  "path": "public/downloads/phy/dse/eng/sp/p2.pdf",
-                  "size": 835257,
+                  "path": "public/sources/phy/dse/chi/2019/p2.pdf",
+                  "size": 3185152,
                   "type": "paper",
                   "type_name": "Paper 2",
                   "paper_num": 2,
-                  "md5": "102a44368c43d954d8650fe0a576af4d"
+                  "md5": "da85201fc985595228bfeb9e5028d05e"
+                },
+                {
+                  "name": "p1a.pdf",
+                  "path": "public/sources/phy/dse/chi/2019/p1a.pdf",
+                  "size": 3657495,
+                  "type": "paper",
+                  "type_name": "Paper 1A",
+                  "paper_num": 1,
+                  "md5": "e05510f43fe84a2c7711e2456c50a2ea"
+                },
+                {
+                  "name": "p1b.pdf",
+                  "path": "public/sources/phy/dse/chi/2019/p1b.pdf",
+                  "size": 5772534,
+                  "type": "paper",
+                  "type_name": "Paper 1B",
+                  "paper_num": 1,
+                  "md5": "7cc4fe998d61e250af8e09ceb986e072"
+                },
+                {
+                  "name": "ans.pdf",
+                  "path": "public/sources/phy/dse/chi/2019/ans.pdf",
+                  "size": 5193413,
+                  "type": "marking",
+                  "type_name": "Marking Scheme",
+                  "paper_num": null,
+                  "md5": "a37952506f5f7ade98399fcb656b2b7e"
+                }
+              ]
+            },
+            "eng": {
+              "name": "English",
+              "files": [
+                {
+                  "name": "per.pdf",
+                  "path": "public/sources/phy/dse/eng/2019/per.pdf",
+                  "size": 4028744,
+                  "type": "report",
+                  "type_name": "Exam Report",
+                  "paper_num": null,
+                  "md5": "97c58f456647f7ddbbf4fdf12f3427c1"
+                },
+                {
+                  "name": "p2.pdf",
+                  "path": "public/sources/phy/dse/eng/2019/p2.pdf",
+                  "size": 7922600,
+                  "type": "paper",
+                  "type_name": "Paper 2",
+                  "paper_num": 2,
+                  "md5": "189cedc8964e9646d9d6da33ab41b263"
+                },
+                {
+                  "name": "p1a.pdf",
+                  "path": "public/sources/phy/dse/eng/2019/p1a.pdf",
+                  "size": 7276437,
+                  "type": "paper",
+                  "type_name": "Paper 1A",
+                  "paper_num": 1,
+                  "md5": "e61a92bed8f04e2c925a0bb15deec5ab"
+                },
+                {
+                  "name": "p1b.pdf",
+                  "path": "public/sources/phy/dse/eng/2019/p1b.pdf",
+                  "size": 10805017,
+                  "type": "paper",
+                  "type_name": "Paper 1B",
+                  "paper_num": 1,
+                  "md5": "1ba44aa07335d47c503d927489c7f38d"
+                },
+                {
+                  "name": "ans.pdf",
+                  "path": "public/sources/phy/dse/eng/2019/ans.pdf",
+                  "size": 1861698,
+                  "type": "marking",
+                  "type_name": "Marking Scheme",
+                  "paper_num": null,
+                  "md5": "936dce0ecbdcdbf31864510d53cf3261"
+                }
+              ]
+            }
+          }
+        },
+        "2018": {
+          "display": "2018",
+          "languages": {
+            "chi": {
+              "name": "Chinese",
+              "files": [
+                {
+                  "name": "per.pdf",
+                  "path": "public/sources/phy/dse/chi/2018/per.pdf",
+                  "size": 4359038,
+                  "type": "report",
+                  "type_name": "Exam Report",
+                  "paper_num": null,
+                  "md5": "4bc4a5485e4b3eb87b71987390b0fb1a"
+                },
+                {
+                  "name": "p2.pdf",
+                  "path": "public/sources/phy/dse/chi/2018/p2.pdf",
+                  "size": 3962642,
+                  "type": "paper",
+                  "type_name": "Paper 2",
+                  "paper_num": 2,
+                  "md5": "56bb1a8062816b514988c3e974a16142"
+                },
+                {
+                  "name": "p1a.pdf",
+                  "path": "public/sources/phy/dse/chi/2018/p1a.pdf",
+                  "size": 3413823,
+                  "type": "paper",
+                  "type_name": "Paper 1A",
+                  "paper_num": 1,
+                  "md5": "8a4260c053decd4414295e1bb5966010"
+                },
+                {
+                  "name": "p1b.pdf",
+                  "path": "public/sources/phy/dse/chi/2018/p1b.pdf",
+                  "size": 6014482,
+                  "type": "paper",
+                  "type_name": "Paper 1B",
+                  "paper_num": 1,
+                  "md5": "7daf1ee174d92677abc290fb3aac6a76"
+                },
+                {
+                  "name": "ans.pdf",
+                  "path": "public/sources/phy/dse/chi/2018/ans.pdf",
+                  "size": 4733449,
+                  "type": "marking",
+                  "type_name": "Marking Scheme",
+                  "paper_num": null,
+                  "md5": "569bed70b7f73503d2b27bb2eb1e6793"
+                }
+              ]
+            },
+            "eng": {
+              "name": "English",
+              "files": [
+                {
+                  "name": "per.pdf",
+                  "path": "public/sources/phy/dse/eng/2018/per.pdf",
+                  "size": 13360601,
+                  "type": "report",
+                  "type_name": "Exam Report",
+                  "paper_num": null,
+                  "md5": "bb4204d8c6cc881c3be5b235589bb896"
+                },
+                {
+                  "name": "p2.pdf",
+                  "path": "public/sources/phy/dse/eng/2018/p2.pdf",
+                  "size": 11832400,
+                  "type": "paper",
+                  "type_name": "Paper 2",
+                  "paper_num": 2,
+                  "md5": "74e8f368d2fc3c6a6fe2df25819d1298"
+                },
+                {
+                  "name": "p1a.pdf",
+                  "path": "public/sources/phy/dse/eng/2018/p1a.pdf",
+                  "size": 20770925,
+                  "type": "paper",
+                  "type_name": "Paper 1A",
+                  "paper_num": 1,
+                  "md5": "bd1f9c2b6bf266a4544ac05a387d14ca"
+                },
+                {
+                  "name": "p1b.pdf",
+                  "path": "public/sources/phy/dse/eng/2018/p1b.pdf",
+                  "size": 33025163,
+                  "type": "paper",
+                  "type_name": "Paper 1B",
+                  "paper_num": 1,
+                  "md5": "ae92aa290d65e2dadb78019b0c2af4a4"
+                },
+                {
+                  "name": "ans.pdf",
+                  "path": "public/sources/phy/dse/eng/2018/ans.pdf",
+                  "size": 1409217,
+                  "type": "marking",
+                  "type_name": "Marking Scheme",
+                  "paper_num": null,
+                  "md5": "64b3259d19c404ba777914678b18eb29"
                 }
               ]
             }
@@ -1280,7 +1280,7 @@
               "files": [
                 {
                   "name": "p1a.pdf",
-                  "path": "public/downloads/phy/dse/eng/2024/p1a.pdf",
+                  "path": "public/sources/phy/dse/eng/2024/p1a.pdf",
                   "size": 3954500,
                   "type": "paper",
                   "type_name": "Paper 1A",

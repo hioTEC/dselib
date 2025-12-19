@@ -742,11 +742,8 @@
                     return year;
                 },
                 resolveFilePath(p) {
-                    if (!p) return '#';
-                    // 转换public/downloads路径为根目录papers路径
-                    if (p.startsWith('public/downloads/')) {
-                        return '/' + p.replace('public/downloads/', 'papers/');
-                    }
+                    if (!p) return '/#';
+                    // 直接返回路径，因为index.json已使用正确路径
                     return p.startsWith('/') ? p : '/' + p;
                 },
                 fileWeight(file) {
