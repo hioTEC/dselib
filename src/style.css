@@ -1,0 +1,149 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* Custom base styles */
+@layer base {
+  :root {
+    --primary-color: #3b82f6;
+    --bg-color: #f8f9fa;
+  }
+
+  :root.dark {
+    --bg-color: #000000;
+  }
+
+  body {
+    font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
+    background-color: var(--bg-color);
+    transition: background-color 0.3s ease;
+  }
+}
+
+/* Custom component styles */
+@layer components {
+  .subject-card {
+    @apply transition-all duration-200 cursor-pointer;
+  }
+
+  .subject-card:hover {
+    @apply transform -translate-y-1 shadow-lg;
+  }
+
+  .icon-box {
+    @apply w-12 h-12 flex items-center justify-center rounded-full;
+  }
+
+  /* Custom scrollbar */
+  .scrollbar-thin::-webkit-scrollbar {
+    width: 6px;
+  }
+
+  .scrollbar-thin::-webkit-scrollbar-track {
+    background: transparent;
+  }
+
+  .scrollbar-thin::-webkit-scrollbar-thumb {
+    background-color: #e5e7eb;
+    border-radius: 20px;
+  }
+
+  .dark .scrollbar-thin::-webkit-scrollbar-thumb {
+    background-color: #374151;
+  }
+
+  /* Breadcrumb styling */
+  .breadcrumb span:not(:last-child)::after {
+    content: "/";
+    margin: 0 8px;
+    color: #9ca3af;
+  }
+
+  /* Dark mode improvements */
+  .dark .text-gray-400 {
+    color: #9ca3af !important;
+  }
+  
+  .dark .text-gray-500 {
+    color: #9ca3af !important;
+  }
+  
+  .dark .text-gray-700 {
+    color: #e5e7eb !important;
+  }
+  
+  .dark .border-gray-100 {
+    border-color: #374151 !important;
+  }
+  
+  .dark .border-gray-800 {
+    border-color: #374151 !important;
+  }
+  
+  .dark .bg-gray-50 {
+    background-color: #1f2937 !important;
+  }
+  
+  .dark .bg-gray-100 {
+    background-color: #374151 !important;
+  }
+  
+  .dark .hover\:bg-gray-50:hover {
+    background-color: #374151 !important;
+  }
+  
+  .dark .hover\:bg-gray-100:hover {
+    background-color: #4b5563 !important;
+  }
+}
+
+/* Custom utilities */
+@layer utilities {
+  /* Material Symbols styling */
+  .material-symbols-rounded {
+    font-family: 'Material Symbols Rounded';
+    font-weight: normal;
+    font-style: normal;
+    font-size: 24px;
+    display: inline-block;
+    line-height: 1;
+    text-transform: none;
+    letter-spacing: normal;
+    word-wrap: normal;
+    white-space: nowrap;
+    direction: ltr;
+    -webkit-font-smoothing: antialiased;
+    text-rendering: optimizeLegibility;
+    -moz-osx-font-smoothing: grayscale;
+  }
+
+  /* Animation utilities */
+  .animate-fade-in {
+    animation: fadeIn 0.3s ease-in-out;
+  }
+
+  .animate-slide-up {
+    animation: slideUp 0.3s ease-out;
+  }
+}
+
+/* Keyframe animations */
+@keyframes fadeIn {
+  from {
+    opacity: 0;
+  }
+  to {
+    opacity: 1;
+  }
+}
+
+@keyframes slideUp {
+  from {
+    transform: translateY(10px);
+    opacity: 0;
+  }
+  to {
+    transform: translateY(0);
+    opacity: 1;
+  }
+}
